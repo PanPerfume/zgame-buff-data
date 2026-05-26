@@ -1,22 +1,4 @@
 {
-  "meta": {
-    "source": "https://moonton.feishu.cn/base/Elc4btvpuajXzJs23hfcsdhIntb?table=tblGBf46c5cVYy9p&view=vewyNeKQTU",
-    "sheet_name": "英雄总表",
-    "exported_at": "2026-05-26 15:04:41",
-    "record_count": 294,
-    "fields": [
-      "英雄ID",
-      "英雄EN名",
-      "英雄中文名",
-      "英雄性别",
-      "中文称号",
-      "英文称号",
-      "英雄阵营",
-      "职业",
-      "星级",
-      "正邪归属"
-    ]
-  },
   "heroes": [
     {
       "英雄ID": 2257,

@@ -1,0 +1,27 @@
+{
+    "version": "260526-173019-62b517276f02",
+    "updatedAt": "2026-05-26 17:30:19",
+    "dataUrl": "ZGame_Unit.json",
+    "sourceFile": "多语言静态.xlsx",
+    "sheetName": "Total",
+    "rowCount": 8453,
+    "scannedRowCount": 94841,
+    "matchedRowCount": 8453,
+    "matchRule": "A列以 Unit_ 开头",
+    "fields": [
+        "字符串",
+        "CN",
+        "EN",
+        "Russian",
+        "Japan",
+        "Italian",
+        "CNTraditional",
+        "Spanish",
+        "French",
+        "Korean",
+        "Indonesian",
+        "POR",
+        "German"
+    ],
+    "format": "pretty"
+}

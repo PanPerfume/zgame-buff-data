@@ -18279,7 +18279,7 @@
             "Italian": "Evoca la Mano dell'ira {30,num} volta/e. Ogni membro del team schierato che non appartiene alla fazione dei Lord aggiunge {31,num} evocazione/i extra, fino a un massimo di {32,num} volta/e extra. Ogni evocazione infligge un {35,num}% di DMG F. AoE e un {36,num}% di DMG effettivo AoE a {33,num} bersaglio/i nemico/i sul campo e ai nemici circostanti, colpendo un massimo di {34,num} nemici e infliggendo Stordimento per {37,num/2} sec. Non ha effetto sulle unità aeree.",
             "CNTraditional": "召喚{30,num}次審判之槍，每額外上陣一名非領主的陣營小隊成員會額外增加{31,num}次，最多增加{32,num}次。每次對場上{33,num}名敵人及周圍最多{34,num}名敵人造成{35,num}%的範圍物理傷害和{36,num}%的範圍真實傷害，並附加{37,num/2}秒暈眩效果。無法對空中單位生效。",
             "Spanish": "Invoca \"Mano de la Ira\" {30,num} vez/ces. Cada miembro del equipo de la facción en el campo de batalla que no sea un general añade {31,num} invocación/es adicional/es, hasta un máximo de {32,num} vez/ces extra. Cada invocación inflige un {35,num} % de daño físico en área y un {36,num} % de daño real en área a {33,num} objetivo/s enemigo/s en el campo de batalla y a los enemigos circundantes, golpeando a un máximo de {34,num} enemigos, y aplica \"Aturdimiento\" durante {37,num/2} seg. No puede hacer efecto en unidades voladoras.",
-            "French": "Invoque la Main de fureur {30,num} fois. Chaque membre de l'équipe déployé qui n'appartient pas à la faction des Seigneurs ajoute {31,num} invocation(s) supplémentaire(s), jusqu'à un maximum de {32,num} fois supplémentaires. Chaque invocation inflige {35,num} % de DGT P. de ZdE et {36,num} % de DGT bruts de ZdE à {33,num} cible(s) ennemie(s) sur le terrain et aux ennemis environnants, touchant jusqu'à {34,num} ennemis, tout en appliquant un Étourdissement pendant {37,num/2} s. Ne peut pas prendre effet sur les unités aériennes.",
+            "French": "Invoque la Main de fureur {30,num} fois. Chaque membre non seigneur de la faction ajoute {31,num} invocation(s) supplémentaire(s), jusqu'à un maximum de {32,num} fois supplémentaires. Chaque invocation inflige {35,num} % de DGT P. de ZdE et {36,num} % de DGT bruts de ZdE à {33,num} cible(s) ennemie(s) sur le terrain et aux ennemis environnants, touchant jusqu'à {34,num} ennemis, tout en appliquant Étourdissement pendant {37,num/2} s. Ne peut pas prendre effet sur les unités aériennes.",
             "Korean": "심판의 창을 {30,num}회 소환한다. 영주가 아닌 진영 소대 멤버가 추가로 1명 출전할 때마다 추가로 {31,num}회 추가되며, 최대 {32,num}회 추가된다. 매회 필드 위 {33,num}명의 적 및 주변 최대 {34,num}명의 적에게 {35,num}%의 범위 물리 피해와 {36,num}%의 범위 고정 피해를 입히고, {37,num/2}초간 기절시킨다. 공중 유닛에게는 무효하다.",
             "Indonesian": "Melakukan Summon Hand of Wrath sebanyak {30,num} kali. Setiap anggota Tim Faction non-Lord yang ditempatkan menambahkan {31,num} Summon tambahan, hingga {32,num} kali tambahan. Setiap Summon memberikan {35,num}% P. DMG Area dan {36,num}% True DMG Area ke {33,num} target lawan di medan tempur dan lawan di sekitarnya, mengenai hingga {34,num} lawan, serta menyebabkan Stun selama {37,num/2} detik. Tidak berpengaruh pada unit di udara.",
             "POR": "Evoca a Mão da Ira {30,num} vez(es). Cada membro da equipe não Lorde da mesma Facção implantado adiciona {31,num} evocação(ões) adicional(ais), até um máximo de {32,num} vez(es) adicional(ais). Cada evocação causa {35,num}% de Dano F. em Área e {36,num}% de Dano Real em Área a {33,num} alvo(s) inimigo(s) no campo e inimigos ao redor, atingindo até {34,num} inimigos, enquanto aplica Atordoamento por {37,num/2} seg. Não surte efeito em unidades aéreas.",
@@ -18309,7 +18309,7 @@
             "Italian": "Evoca la Mano dell'ira {30,num} volta/e. Ogni membro del team schierato che non appartiene alla fazione dei Lord aggiunge {31,num} evocazione/i extra, fino a un massimo di {32,num} volta/e extra. Ogni evocazione infligge un {35,num}% di DMG F. AoE e un {36,num}% di DMG effettivo AoE a {33,num} bersaglio/i nemico/i sul campo e ai nemici circostanti, colpendo un massimo di {34,num} nemici e infliggendo Stordimento per {37,num/2} sec. e {38,num} accumulo/i di Erosione splendente per {39,num} sec. Non ha effetto sulle unità aeree.",
             "CNTraditional": "召喚{30,num}次審判之槍，每額外上陣一名非領主的陣營小隊成員會額外增加{31,num}次，最多增加{32,num}次。每次對場上{33,num}名敵人及周圍最多{34,num}名敵人造成{35,num}%的範圍物理傷害和{36,num}%的範圍真實傷害，並附加{37,num/2}秒暈眩效果和{38,num}層{39,num}秒耀蝕。無法對空中單位生效。",
             "Spanish": "Invoca \"Mano de la Ira\" {30,num} vez/ces. Cada miembro del equipo de la facción en el campo de batalla que no sea un general añade {31,num} invocación/es adicional/es, hasta un máximo de {32,num} vez/ces extra. Cada invocación inflige un {35,num} % de daño físico en área y un {36,num} % de daño real en área a {33,num} objetivo/s enemigo/s en el campo de batalla y a los enemigos circundantes, golpeando a un máximo de {34,num} enemigos, y aplica \"Aturdimiento\" durante {37,num/2} seg. y {38,num} acumulación/es de \"Erosión radiante\" durante {39,num} seg. No puede hacer efecto en unidades voladoras.",
-            "French": "Invoque la Main de fureur {30,num} fois. Chaque membre de l'équipe déployé qui n'appartient pas à la faction des Seigneurs ajoute {31,num} invocation(s) supplémentaire(s), jusqu'à un maximum de {32,num} fois supplémentaires. Chaque invocation inflige {35,num} % de DGT P. de ZdE et {36,num} % de DGT bruts de ZdE à {33,num} cible(s) ennemie(s) sur le terrain et aux ennemis environnants, touchant jusqu'à {34,num} ennemis, tout en appliquant un Étourdissement pendant {37,num/2} s et {38,num} cumul(s) d'Éclipse radiante pendant {39,num} s. Ne peut pas prendre effet sur les unités aériennes.",
+            "French": "Invoque la Main de fureur {30,num} fois. Chaque membre non seigneur de la faction ajoute {31,num} invocation(s) supplémentaire(s), jusqu'à un maximum de {32,num} fois supplémentaires. Chaque invocation inflige {35,num} % de DGT P. de ZdE et {36,num} % de DGT bruts de ZdE à {33,num} cible(s) ennemie(s) sur le terrain et aux ennemis environnants, touchant jusqu'à {34,num} ennemis, tout en appliquant Étourdissement pendant {37,num/2} s et {38,num} cumul(s) d'Éclipse radiante pendant {39,num} s. Ne peut pas prendre effet sur les unités aériennes.",
             "Korean": "심판의 창을 {30,num}회 소환한다. 영주가 아닌 진영 소대 멤버가 추가로 1명 출전할 때마다 추가로 {31,num}회 추가되며, 최대 {32,num}회 추가된다. 매회 필드 위 {33,num}명의 적 및 주변 최대 {34,num}명의 적에게 {35,num}%의 범위 물리 피해와 {36,num}%의 범위 고정 피해를 입히고, {37,num/2}초간 기절시키며 빛의 침식을 {38,num}스택 {39,num}초간 부여한다. 공중 유닛에게는 무효하다.",
             "Indonesian": "Melakukan Summon Hand of Wrath sebanyak {30,num} kali. Setiap anggota Tim Faction non-Lord yang ditempatkan menambahkan {31,num} Summon tambahan, hingga {32,num} kali tambahan. Setiap Summon memberikan {35,num}% P. DMG Area dan {36,num}% True DMG Area ke {33,num} target lawan di medan tempur dan lawan di sekitarnya, mengenai hingga {34,num} lawan, serta menyebabkan Stun selama {37,num/2} detik dan {38,num} stack Radiant Erosion selama {39,num} detik. Tidak berpengaruh pada unit di udara.",
             "POR": "Evoca a Mão da Ira {30,num} vez(es). Cada membro da equipe não Lorde da mesma Facção implantado adiciona {31,num} evocação(ões) adicional(ais), até um máximo de {32,num} vez(es) adicional(ais). Cada evocação causa {35,num}% de Dano F. em Área e {36,num}% de Dano Real em Área a {33,num} alvo(s) inimigo(s) no campo e inimigos ao redor, atingindo até {34,num} inimigos, enquanto aplica Atordoamento por {37,num/2} seg. e {38,num} acúmulo(s) de Erosão Radiante por {39,num} seg. Não surte efeito em unidades aéreas.",
@@ -18339,7 +18339,7 @@
             "Italian": "Evoca la Mano dell'ira {30,num} volta/e. Ogni membro del team schierato che non appartiene alla fazione dei Lord aggiunge {31,num} evocazione/i extra, fino a un massimo di {32,num} volta/e extra. Ogni evocazione infligge un {35,num}% di DMG F. AoE e un {36,num}% di DMG effettivo AoE a {33,num} bersaglio/i nemico/i sul campo e ai nemici circostanti, colpendo un massimo di {34,num} nemici e infliggendo Stordimento per {37,num} sec. e {38,num} accumulo/i di Erosione splendente per {39,num} sec. Inoltre, estende la durata di Benedizione sacra per {40,num} sec. Non ha effetto sulle unità aeree.",
             "CNTraditional": "召喚{30,num}次審判之槍，每額外上陣一名非領主的陣營小隊成員會額外增加{31,num}次，最多增加{32,num}次。每次對場上{33,num}名敵人及周圍最多{34,num}名敵人造成{35,num}%的範圍物理傷害和{36,num}%的範圍真實傷害，並附加{37,num}秒暈眩效果和{38,num}層{39,num}秒耀蝕。同時延長神息祝福{40,num}秒持續時間。無法對空中單位生效。",
             "Spanish": "Invoca \"Mano de la Ira\" {30,num} vez/ces. Cada miembro del equipo de la facción en el campo de batalla que no sea un general añade {31,num} invocación/es adicional/es, hasta un máximo de {32,num} vez/ces extra. Cada invocación inflige un {35,num} % de daño físico en área y un {36,num} % de daño real en área a {33,num} objetivo/s enemigo/s en el campo de batalla y a los enemigos circundantes, golpeando a un máximo de {34,num} enemigos, y aplica \"Aturdimiento\" durante {37,num} seg. y {38,num} acumulación/es de \"Erosión radiante\" durante {39,num} seg. Además, prolonga la duración del efecto de \"Bendición sagrada\" en {40,num} seg. No puede hacer efecto en unidades voladoras.",
-            "French": "Invoque la Main de fureur {30,num} fois. Chaque membre de l'équipe déployé qui n'appartient pas à la faction des Seigneurs ajoute {31,num} invocation(s) supplémentaire(s), jusqu'à un maximum de {32,num} fois supplémentaires. Chaque invocation inflige {35,num} % de DGT P. de ZdE et {36,num} % de DGT bruts de ZdE à {33,num} cible(s) ennemie(s) sur le terrain et aux ennemis environnants, touchant jusqu'à {34,num} ennemis, tout en appliquant un Étourdissement pendant {37,num} s et {38,num} cumul(s) d'Éclipse radiante pendant {39,num} s. De plus, prolonge la durée de l'effet d'Aura sacrée de {40,num} s. Ne peut pas prendre effet sur les unités aériennes.",
+            "French": "Invoque la Main de fureur {30,num} fois. Chaque membre non seigneur de la faction ajoute {31,num} invocation(s) supplémentaire(s), jusqu'à un maximum de {32,num} fois supplémentaires. Chaque invocation inflige {35,num} % de DGT P. de ZdE et {36,num} % de DGT bruts de ZdE à {33,num} cible(s) ennemie(s) sur le terrain et aux ennemis environnants, touchant jusqu'à {34,num} ennemis, tout en appliquant Étourdissement pendant {37,num} s et {38,num} cumul(s) d'Éclipse radiante pendant {39,num} s. De plus, prolonge la durée de l'effet d'Aura sacrée de {40,num} s. Ne peut pas prendre effet sur les unités aériennes.",
             "Korean": "심판의 창을 {30,num}회 소환한다. 영주가 아닌 진영 소대 멤버가 추가로 1명 출전할 때마다 추가로 {31,num}회 추가되며, 최대 {32,num}회 추가된다. 매회 필드 위 {33,num}명의 적 및 주변 최대 {34,num}명의 적에게 {35,num}%의 범위 물리 피해와 {36,num}%의 범위 고정 피해를 입히고, {37,num}초간 기절시키며 빛의 침식을 {38,num}스택 {39,num}초간 부여한다. 동시에 신성한 축복의 지속 시간을 {40,num}초 연장한다. 공중 유닛에게는 무효하다.",
             "Indonesian": "Melakukan Summon Hand of Wrath sebanyak {30,num} kali. Setiap anggota Tim Faction non-Lord yang ditempatkan menambahkan {31,num} Summon tambahan, hingga {32,num} kali tambahan. Setiap Summon memberikan {35,num}% P. DMG Area dan {36,num}% True DMG Area ke {33,num} target lawan di medan tempur dan lawan di sekitarnya, mengenai hingga {34,num} lawan, serta menyebabkan Stun selama {37,num} detik dan {38,num} stack Radiant Erosion selama {39,num} detik. Selain itu, memperpanjang durasi efek Sacred Blessing sebanyak {40,num} detik. Tidak berpengaruh pada unit di udara.",
             "POR": "Evoca a Mão da Ira {30,num} vez(es). Cada membro da equipe da mesma Facção não Lorde implantado adiciona {31,num} evocação(ões) adicional(ais), até um máximo de {32,num} vez(es) adicional(ais). Cada evocação causa {35,num}% de Dano F. em Área e {36,num}% de Dano Real em Área a {33,num} alvo(s) inimigo(s) no campo e inimigos ao redor, atingindo até {34,num} inimigos, enquanto aplica Atordoamento por {37,num} seg. e {38,num} acúmulo(s) de Erosão Radiante por {39,num} seg. Além disso, estende a Duração do Efeito da Bênção Sagrada em {40,num} seg. Não surte efeito em unidades aéreas.",
@@ -22015,7 +22015,7 @@
             "CNTraditional": "最多可疊加5層。處於地面狀態時，煉獄大公的攻擊會消耗1層魔魂，使本次攻擊傷害提升{30,num}%，攻擊間隔降低{31,num}%。",
             "Spanish": "Se acumula hasta 5 veces. Al estar en la casilla terrestre, el ataque del Duque Diabólico consume una acumulación de \"Cadenas\", lo que aumenta el daño de este ataque en un {30,num} % y reduce el intervalo de ataque en un {31,num} %.",
             "French": "Se cumule jusqu'à 5 fois. Sur la case au sol, l'ATQ du Duc diabolique consomme 1 cumul de Chaînes de liaison, ce qui augmente les DGT de cette ATQ de {30,num} % et réduit l'intervalle d'ATQ de {31,num} %.",
-            "Korean": "최대 5스택 중첩 가능하다. 지상 상태일 때, 연옥의 신의 공격은 마혼을 1스택 소모하여 이번 공격의 피해를 {30,num}% 증가시키고, 공격 간격을 {31,num}% 감소시킨다.",
+            "Korean": "최대 5스택 중첩 가능하다. 지면 상태일 때, 연옥의 신의 공격은 마혼을 1스택 소모하여 이번 공격의 피해를 {30,num}% 증가시키고, 공격 간격을 {31,num}% 감소시킨다.",
             "Indonesian": "Dapat di-stack hingga 5 kali. Ketika berada di petak tanah, ATK Diabolic Duke menggunakan 1 stack Binding Chains, meningkatkan DMG ATK ini sebesar {30,num}% dan mengurangi Interval ATK sebesar {31,num}%.",
             "POR": "Acumula até 5 vezes. Quando na casa de solo, o ATQ do Duque Diabólico consome 1 acúmulo de Correntes de Ligação, aumentando o Dano deste ATQ em {30,num}% e reduzindo o Intervalo de ATQ em {31,num}%.",
             "German": "Bis zu 5-mal stapelbar. Wenn sich Teufelsfürst auf dem Bodenfeld befindet, verbraucht sein ANG 1 Stapel Bindende Ketten, wodurch der DMG dieses ANG um {30,num}% erhöht und das ANG-Intervall um {31,num}% verringert wird."
@@ -24346,6 +24346,21 @@
             "German": "Jeder Stapel Zyklische Rate erhöht die Wut-Regen. des Helden und verringert das ANG-Intervall. Kann bis zu {31,num}-mal gestapelt werden."
         },
         {
+            "字符串": "BUFFAttribute_mName_323622",
+            "CN": "恶意之种",
+            "EN": "Seeds of Malice",
+            "Russian": "Семена злобы",
+            "Japan": "悪意の種",
+            "Italian": "Semi della malizia",
+            "CNTraditional": "惡意之種",
+            "Spanish": "Semillas de malicia",
+            "French": "Graines de la malice",
+            "Korean": "악의의 씨앗",
+            "Indonesian": "Seeds of Malice",
+            "POR": "Sementes da Malícia",
+            "German": "Saaten der Bosheit"
+        },
+        {
             "字符串": "BUFFAttribute_mTips_323622",
             "CN": "每秒造成{30,num}%的单体物理伤害，对飞行单位翻倍，并附加{31,num}秒{32,num}%的物理易伤。场上最多存在{33,num}个处刑敕令。",
             "EN": "Deals {30,num}% single-target P. DMG per sec (doubled against airborne units), and inflicts {32,num}% Vulnerability (P. DMG) for {31,num} sec. Up to {33,num} Death Sentence(s) can exist on the field.",
@@ -24359,6 +24374,21 @@
             "Indonesian": "Memberikan {30,num}% P. DMG Target Tunggal setiap detik (berlipat ganda terhadap unit di udara), dan menyebabkan {32,num}% Vulnerability (P. DMG) selama {31,num} detik. Hingga {33,num} Hukuman Mati dapat terjadi di lapangan.",
             "POR": "Causa {30,num}% de Dano F. em um único alvo por seg. (dobrado contra unidades aéreas) e inflige {32,num}% de Vulnerabilidade (Dano F.) por {31,num} seg. Pode haver até {33,num} Sentença(s) de Morte no campo.",
             "German": "Verursacht pro Sek. {30,num}% P. Einzelziel-DMG (verdoppelt gegen Einheiten in der Luft) und wendet für {31,num} Sek. {32,num}% Verwundbarkeit (P. DMG) an. Maximal {33,num} Todesurteil(e) gleichzeitig auf dem Schlachtfeld."
+        },
+        {
+            "字符串": "BUFFAttribute_mName_323623",
+            "CN": "恶意之种",
+            "EN": "Seeds of Malice",
+            "Russian": "Семена злобы",
+            "Japan": "悪意の種",
+            "Italian": "Semi della malizia",
+            "CNTraditional": "惡意之種",
+            "Spanish": "Semillas de malicia",
+            "French": "Graines de la malice",
+            "Korean": "악의의 씨앗",
+            "Indonesian": "Seeds of Malice",
+            "POR": "Sementes da Malícia",
+            "German": "Saaten der Bosheit"
         },
         {
             "字符串": "BUFFAttribute_mTips_323623",
@@ -24376,6 +24406,21 @@
             "German": "Verursacht pro Sek. {30,num}% P. Einzelziel-DMG (verdoppelt gegen Einheiten in der Luft) und wendet für {31,num} Sek. {32,num}% Verwundbarkeit (P. DMG) an. Maximal {33,num} Todesurteil(e) gleichzeitig auf dem Schlachtfeld."
         },
         {
+            "字符串": "BUFFAttribute_mName_323624",
+            "CN": "恶意之种",
+            "EN": "Seeds of Malice",
+            "Russian": "Семена злобы",
+            "Japan": "悪意の種",
+            "Italian": "Semi della malizia",
+            "CNTraditional": "惡意之種",
+            "Spanish": "Semillas de malicia",
+            "French": "Graines de la malice",
+            "Korean": "악의의 씨앗",
+            "Indonesian": "Seeds of Malice",
+            "POR": "Sementes da Malícia",
+            "German": "Saaten der Bosheit"
+        },
+        {
             "字符串": "BUFFAttribute_mTips_323624",
             "CN": "每秒造成{30,num}%的单体物理伤害，对飞行单位翻倍，并附加{31,num}秒{32,num}%的物理易伤。场上最多存在{33,num}个处刑敕令。",
             "EN": "Deals {30,num}% single-target P. DMG per sec (doubled against airborne units), and inflicts {32,num}% Vulnerability (P. DMG) for {31,num} sec. Up to {33,num} Death Sentence(s) can exist on the field.",
@@ -24391,6 +24436,21 @@
             "German": "Verursacht pro Sek. {30,num}% P. Einzelziel-DMG (verdoppelt gegen Einheiten in der Luft) und wendet für {31,num} Sek. {32,num}% Verwundbarkeit (P. DMG) an. Maximal {33,num} Todesurteil(e) gleichzeitig auf dem Schlachtfeld."
         },
         {
+            "字符串": "BUFFAttribute_mName_323625",
+            "CN": "恶意之种",
+            "EN": "Seeds of Malice",
+            "Russian": "Семена злобы",
+            "Japan": "悪意の種",
+            "Italian": "Semi della malizia",
+            "CNTraditional": "惡意之種",
+            "Spanish": "Semillas de malicia",
+            "French": "Graines de la malice",
+            "Korean": "악의의 씨앗",
+            "Indonesian": "Seeds of Malice",
+            "POR": "Sementes da Malícia",
+            "German": "Saaten der Bosheit"
+        },
+        {
             "字符串": "BUFFAttribute_mTips_323625",
             "CN": "每秒造成{30,num}%的单体物理伤害，对飞行单位翻倍，并附加{31,num}秒{32,num}%的物理易伤。场上最多存在{33,num}个处刑敕令。",
             "EN": "Deals {30,num}% single-target P. DMG per sec (doubled against airborne units), and inflicts {32,num}% Vulnerability (P. DMG) for {31,num} sec. Up to {33,num} Death Sentence(s) can exist on the field.",
@@ -24404,6 +24464,21 @@
             "Indonesian": "Memberikan {30,num}% P. DMG Target Tunggal setiap detik (berlipat ganda terhadap unit di udara), dan menyebabkan {32,num}% Vulnerability (P. DMG) selama {31,num} detik. Hingga {33,num} Hukuman Mati dapat terjadi di lapangan.",
             "POR": "Causa {30,num}% de Dano F. em um único alvo por seg. (dobrado contra unidades aéreas) e inflige {32,num}% de Vulnerabilidade (Dano F.) por {31,num} seg. Pode haver até {33,num} Sentença(s) de Morte no campo.",
             "German": "Verursacht pro Sek. {30,num}% P. Einzelziel-DMG (verdoppelt gegen Einheiten in der Luft) und wendet für {31,num} Sek. {32,num}% Verwundbarkeit (P. DMG) an. Maximal {33,num} Todesurteil(e) gleichzeitig auf dem Schlachtfeld."
+        },
+        {
+            "字符串": "BUFFAttribute_mName_323626",
+            "CN": "恶意之种",
+            "EN": "Seeds of Malice",
+            "Russian": "Семена злобы",
+            "Japan": "悪意の種",
+            "Italian": "Semi della malizia",
+            "CNTraditional": "惡意之種",
+            "Spanish": "Semillas de malicia",
+            "French": "Graines de la malice",
+            "Korean": "악의의 씨앗",
+            "Indonesian": "Seeds of Malice",
+            "POR": "Sementes da Malícia",
+            "German": "Saaten der Bosheit"
         },
         {
             "字符串": "BUFFAttribute_mTips_323626",
@@ -27691,6 +27766,36 @@
             "German": "Eingefroren. Kann keine Aktionen ausführen."
         },
         {
+            "字符串": "BUFFAttribute_mName_3005101",
+            "CN": "降低防御",
+            "EN": "DEF Reduction",
+            "Russian": "Сниж. ЗАЩ",
+            "Japan": "防御力減少",
+            "Italian": "Riduzione DEF",
+            "CNTraditional": "降低防禦",
+            "Spanish": "Reducción de defensa",
+            "French": "Réduction de DÉF",
+            "Korean": "방어력 감소",
+            "Indonesian": "Pengurangan DEF",
+            "POR": "Redução de DEF",
+            "German": "VERT-Reduktion"
+        },
+        {
+            "字符串": "BUFFAttribute_mTips_3005101",
+            "CN": "防御降低{14,num/-100}%",
+            "EN": "DEF -{14,num/-100}%",
+            "Russian": "ЗАЩ -{14,num/-100}%",
+            "Japan": "防御力-{14,num/-100}%",
+            "Italian": "DEF -{14,num/-100}%",
+            "CNTraditional": "防禦降低{14,num/-100}%",
+            "Spanish": "Defensa -{14,num/-100} %",
+            "French": "DÉF -{14,num/-100} %",
+            "Korean": "방어력 {14,num/-100}% 감소",
+            "Indonesian": "DEF -{14,num/-100}%",
+            "POR": "-{14,num/-100}% de DEF",
+            "German": "VERT -{14,num/-100}%"
+        },
+        {
             "字符串": "BUFFAttribute_mName_3208703",
             "CN": "物理和魔法易伤",
             "EN": "Vulnerability (P. DMG) & Vulnerability (M. DMG)",
@@ -28994,6 +29099,36 @@
             "Indonesian": "Meningkatkan Movement Spd. sebesar 150%. Bisa dihilangkan.",
             "POR": "Aumenta a Vel. de Movimento em 150%. Pode ser dissipado.",
             "German": "Erhöht die Bewegungsgeschw. um 150%. Kann entfernt werden."
+        },
+        {
+            "字符串": "BUFFAttribute_mName_3430904",
+            "CN": "攻击提升",
+            "EN": "ATK Increase",
+            "Russian": "Повышение АТК",
+            "Japan": "攻撃力増加",
+            "Italian": "Aumento ATK",
+            "CNTraditional": "攻擊提升",
+            "Spanish": "Aumento de ataque",
+            "French": "Augmentation d'ATQ",
+            "Korean": "공격력 상승",
+            "Indonesian": "Peningkatan ATK",
+            "POR": "Aumento de ATQ",
+            "German": "ANG-Erhöhung"
+        },
+        {
+            "字符串": "BUFFAttribute_mTips_3430904",
+            "CN": "敌人攻击力提升，可以驱散",
+            "EN": "Increases enemy's ATK. Can be dispelled.",
+            "Russian": "Повышает АТК врага. Можно рассеять.",
+            "Japan": "敵の攻撃力を増加させる。解除可能。",
+            "Italian": "Aumenta l'ATK del nemico. Può essere dissipato.",
+            "CNTraditional": "敵人攻擊力提升（可被驅散）",
+            "Spanish": "Aumenta el ataque del enemigo. Se puede disipar.",
+            "French": "Augmente l'ATQ de l'ennemi. Peut être dissipé.",
+            "Korean": "적의 공격력이 상승한다. 제거할 수 있다.",
+            "Indonesian": "Meningkatkan ATK lawan. Dapat dihilangkan.",
+            "POR": "Aumenta o ATQ do inimigo. Pode ser dissipado.",
+            "German": "Erhöht den ANG des Gegners. Kann entfernt werden."
         },
         {
             "字符串": "BUFFAttribute_mName_3450111",

@@ -1,12 +1,12 @@
 {
-    "version": "20260528-193515-d3c62805d46a",
-    "updatedAt": "2026-05-28 19:35:15",
+    "version": "20260612-142337-6ec607442112",
+    "updatedAt": "2026-06-12 14:23:37",
     "dataUrl": "buff-index.json",
     "sourceFile": "多语言静态.xlsx",
     "sheetName": "Total",
-    "rowCount": 1986,
-    "buffIdCount": 1002,
-    "nameRowCount": 994,
-    "tipsRowCount": 992,
+    "rowCount": 2002,
+    "buffIdCount": 1011,
+    "nameRowCount": 1002,
+    "tipsRowCount": 1000,
     "format": "pretty"
 }

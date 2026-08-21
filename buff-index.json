@@ -553,7 +553,7 @@
             "Korean": "치명타 피해 증가",
             "Indonesian": "Peningkatan Crit. DMG",
             "POR": "Aumento de Dano Crít.",
-            "German": "Krit. DMG Erhöhung"
+            "German": "Krit. DMG-Erhöhung"
         },
         {
             "字符串": "BUFFAttribute_mTips_100019",
@@ -583,7 +583,7 @@
             "Korean": "치명타 피해 증가",
             "Indonesian": "Peningkatan Crit. DMG",
             "POR": "Aumento de Dano Crít.",
-            "German": "Krit. DMG Erhöhung"
+            "German": "Krit. DMG-Erhöhung"
         },
         {
             "字符串": "BUFFAttribute_mTips_100020",
@@ -613,7 +613,7 @@
             "Korean": "치명타 피해 증가",
             "Indonesian": "Peningkatan Crit. DMG",
             "POR": "Aumento de Dano Crít.",
-            "German": "Krit. DMG Erhöhung"
+            "German": "Krit. DMG-Erhöhung"
         },
         {
             "字符串": "BUFFAttribute_mTips_100021",
@@ -3218,7 +3218,7 @@
             "Japan": "貫通増加",
             "Italian": "Aumento penetrazione",
             "CNTraditional": "穿透提升",
-            "Spanish": "Bonif. de penetración",
+            "Spanish": "Aumento de penetración",
             "French": "Augmentation de pénétration",
             "Korean": "관통 상승",
             "Indonesian": "Peningkatan Penetration",
@@ -3248,7 +3248,7 @@
             "Japan": "貫通増加",
             "Italian": "Aumento penetrazione",
             "CNTraditional": "穿透提升",
-            "Spanish": "Bonif. de penetración",
+            "Spanish": "Aumento de penetración",
             "French": "Augmentation de pénétration",
             "Korean": "관통 상승",
             "Indonesian": "Peningkatan Penetration",
@@ -3278,7 +3278,7 @@
             "Japan": "貫通増加",
             "Italian": "Aumento penetrazione",
             "CNTraditional": "穿透提升",
-            "Spanish": "Bonif. de penetración",
+            "Spanish": "Aumento de penetración",
             "French": "Augmentation de pénétration",
             "Korean": "관통 상승",
             "Indonesian": "Peningkatan Penetration",
@@ -3913,7 +3913,7 @@
             "Korean": "치명타 피해 증가",
             "Indonesian": "Peningkatan Crit. DMG",
             "POR": "Aumento de Dano Crít.",
-            "German": "Krit. DMG Erhöhung"
+            "German": "Krit. DMG-Erhöhung"
         },
         {
             "字符串": "BUFFAttribute_mTips_100131",
@@ -3943,7 +3943,7 @@
             "Korean": "치명타 피해 증가",
             "Indonesian": "Peningkatan Crit. DMG",
             "POR": "Aumento de Dano Crít.",
-            "German": "Krit. DMG Erhöhung"
+            "German": "Krit. DMG-Erhöhung"
         },
         {
             "字符串": "BUFFAttribute_mTips_100132",
@@ -3973,7 +3973,7 @@
             "Korean": "치명타 피해 증가",
             "Indonesian": "Peningkatan Crit. DMG",
             "POR": "Aumento de Dano Crít.",
-            "German": "Krit. DMG Erhöhung"
+            "German": "Krit. DMG-Erhöhung"
         },
         {
             "字符串": "BUFFAttribute_mTips_100133",
@@ -4003,7 +4003,7 @@
             "Korean": "치명타 피해 증가",
             "Indonesian": "Peningkatan Crit. DMG",
             "POR": "Aumento de Dano Crít.",
-            "German": "Krit. DMG Erhöhung"
+            "German": "Krit. DMG-Erhöhung"
         },
         {
             "字符串": "BUFFAttribute_mTips_100134",
@@ -4033,7 +4033,7 @@
             "Korean": "치명타 피해 증가",
             "Indonesian": "Peningkatan Crit. DMG",
             "POR": "Aumento de Dano Crít.",
-            "German": "Krit. DMG Erhöhung"
+            "German": "Krit. DMG-Erhöhung"
         },
         {
             "字符串": "BUFFAttribute_mTips_100135",
@@ -4088,7 +4088,7 @@
             "Japan": "貫通増加",
             "Italian": "Aumento penetrazione",
             "CNTraditional": "穿透提升",
-            "Spanish": "Bonif. de penetración",
+            "Spanish": "Aumento de penetración",
             "French": "Augmentation de pénétration",
             "Korean": "관통 상승",
             "Indonesian": "Peningkatan Penetration",
@@ -4153,7 +4153,7 @@
             "Korean": "치명타 피해 증가",
             "Indonesian": "Peningkatan Crit. DMG",
             "POR": "Aumento de Dano Crít.",
-            "German": "Krit. DMG Erhöhung"
+            "German": "Krit. DMG-Erhöhung"
         },
         {
             "字符串": "BUFFAttribute_mTips_100139",
@@ -6898,7 +6898,7 @@
             "Korean": "치명타 피해 증가",
             "Indonesian": "Peningkatan Crit. DMG",
             "POR": "Aumento de Dano Crít.",
-            "German": "Krit. DMG Erhöhung"
+            "German": "Krit. DMG-Erhöhung"
         },
         {
             "字符串": "BUFFAttribute_mTips_100231",
@@ -8243,7 +8243,7 @@
             "Japan": "貫通増加",
             "Italian": "Aumento penetrazione",
             "CNTraditional": "穿透提升",
-            "Spanish": "Bonif. de penetración",
+            "Spanish": "Aumento de penetración",
             "French": "Augmentation de pénétration",
             "Korean": "관통 상승",
             "Indonesian": "Peningkatan Penetration",
@@ -8263,7 +8263,7 @@
             "Korean": "방어 및 마법 저항 {4,num/100}% 무시, 동일 유형 효과 중 가장 높은 효과만 적용",
             "Indonesian": "Mengabaikan {4,num/100}% DEF dan M. RES. (Efek hanya diterapkan saat lebih kuat dari Buff/Debuff saat ini pada atribut yang sama.)",
             "POR": "Ignora {4,num/100}% de DEF e RES. M. (Entra em efeito apenas quando mais forte que o bônus/penalidade atual no mesmo atributo.)",
-            "German": "Ignoriert {4,num/100}% der VERT und M. WID. (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf dasselbe Attribut.)"
+            "German": "Ignoriert {4,num/100}% der VERT und des M. WID (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf dasselbe Attribut.)"
         },
         {
             "字符串": "BUFFAttribute_mName_100277",
@@ -8686,6 +8686,36 @@
             "German": "AoE-DMG-Erhöhung +{13,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf dasselbe Attribut.)"
         },
         {
+            "字符串": "BUFFAttribute_mName_100291",
+            "CN": "穿透提升",
+            "EN": "Penetration Increase",
+            "Russian": "Повышение пробивания",
+            "Japan": "貫通増加",
+            "Italian": "Aumento penetrazione",
+            "CNTraditional": "穿透提升",
+            "Spanish": "Aumento de penetración",
+            "French": "Augmentation de pénétration",
+            "Korean": "관통 상승",
+            "Indonesian": "Peningkatan Penetration",
+            "POR": "Aumento da Penetração",
+            "German": "Durchdringungserhöhung"
+        },
+        {
+            "字符串": "BUFFAttribute_mTips_100291",
+            "CN": "无视{4,num/100}%防御和魔抗，同类效果取最高",
+            "EN": "Ignores {4,num/100}% of DEF and M. RES. (Takes effect only when stronger than the current buff/debuff on the same attribute.)",
+            "Russian": "Игнорирует {4,num/100}% ЗАЩ и сопр. магии. (Если сильнее текущего усиления/ослабления одноименной хар-ки.)",
+            "Japan": "防御力と魔法耐性の{4,num/100}%を無視する。（同じステータスの現在のバフ/デバフより強い場合のみ有効。）",
+            "Italian": "Ignora un {4,num/100}% di DEF e RES M. (si applica solo quando è maggiore dell'attuale buff/debuff dello stesso attributo)",
+            "CNTraditional": "無視{4,num/100}%的防禦和魔法抗性，同類型的效果中只會保留最高效果",
+            "Spanish": "Ignora un {4,num/100} % de la defensa y la resistencia mágica. Solo se aplicará el porcentaje más elevado del mismo efecto.",
+            "French": "Ignore {4,num/100} % de la DÉF et la Rés. M. (Prend seulement effet si plus puissant que le bonus/malus actuel sur le même attribut.)",
+            "Korean": "방어력 및 마법 저항 {4,num/100}% 무시, 동일 유형 효과 중 가장 높은 효과만 적용",
+            "Indonesian": "Mengabaikan {4,num/100}% DEF dan M. RES. (Efek hanya diterapkan saat lebih kuat dari buff/debuff saat ini pada atribut yang sama.)",
+            "POR": "Ignora {4,num/100}% de DEF e RES. M. (Entra em efeito apenas quando mais forte que o bônus/penalidade atual no mesmo atributo.)",
+            "German": "Ignoriert {4,num/100}% der VERT und des M. WID. (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf dasselbe Attribut.)"
+        },
+        {
             "字符串": "BUFFAttribute_mName_200001",
             "CN": "降低攻击",
             "EN": "ATK Reduction",
@@ -8788,7 +8818,7 @@
             "Korean": "방어 감소",
             "Indonesian": "Pengurangan DEF",
             "POR": "Redução de DEF",
-            "German": "VERT Reduktion"
+            "German": "VERT-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_200004",
@@ -8818,7 +8848,7 @@
             "Korean": "방어 감소",
             "Indonesian": "Pengurangan DEF",
             "POR": "Redução de DEF",
-            "German": "VERT Reduktion"
+            "German": "VERT-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_200005",
@@ -8848,7 +8878,7 @@
             "Korean": "방어 감소",
             "Indonesian": "Pengurangan DEF",
             "POR": "Redução de DEF",
-            "German": "VERT Reduktion"
+            "German": "VERT-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_200006",
@@ -9598,7 +9628,7 @@
             "Korean": "방어 감소",
             "Indonesian": "Pengurangan DEF",
             "POR": "Redução de DEF",
-            "German": "VERT Reduktion"
+            "German": "VERT-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_200031",
@@ -10093,7 +10123,7 @@
             "Korean": "방어 감소",
             "Indonesian": "Pengurangan DEF",
             "POR": "Redução de DEF",
-            "German": "VERT Reduktion"
+            "German": "VERT-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_200049",
@@ -10123,7 +10153,7 @@
             "Korean": "방어 감소",
             "Indonesian": "Pengurangan DEF",
             "POR": "Redução de DEF",
-            "German": "VERT Reduktion"
+            "German": "VERT-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_200050",
@@ -10153,7 +10183,7 @@
             "Korean": "방어 감소",
             "Indonesian": "Pengurangan DEF",
             "POR": "Redução de DEF",
-            "German": "VERT Reduktion"
+            "German": "VERT-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_200051",
@@ -10183,7 +10213,7 @@
             "Korean": "방어 감소",
             "Indonesian": "Pengurangan DEF",
             "POR": "Redução de DEF",
-            "German": "VERT Reduktion"
+            "German": "VERT-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_200052",
@@ -10213,7 +10243,7 @@
             "Korean": "방어 감소",
             "Indonesian": "Pengurangan DEF",
             "POR": "Redução de DEF",
-            "German": "VERT Reduktion"
+            "German": "VERT-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_200053",
@@ -12301,7 +12331,7 @@
             "German": "Betäubt. Unfähig, Aktionen durchzuführen oder sich zurückzuziehen."
         },
         {
-            "字符串": "BUFFAttribute_mName_200325",
+            "字符串": "BUFFAttribute_mName_200326",
             "CN": "中毒",
             "EN": "Poison",
             "Russian": "Яд",
@@ -12316,7 +12346,7 @@
             "German": "Gift"
         },
         {
-            "字符串": "BUFFAttribute_mTips_200325",
+            "字符串": "BUFFAttribute_mTips_200326",
             "CN": "每秒造成3%最大生命值的持续性魔法伤害，可以驱散",
             "EN": "Deals continuous M. DMG equal to 3% Max HP per sec. Can be dispelled.",
             "Russian": "Наносит постоянный маг. УРН, равный 3% макс. ОЗ в сек. Можно рассеять.",
@@ -12325,7 +12355,7 @@
             "CNTraditional": "每秒造成3%最大生命值的持續性魔法傷害（可被驅散）",
             "Spanish": "Inflige daño mágico continuo equivalente a un 3 % de la vida máxima por segundo. Se puede disipar.",
             "French": "Inflige des DGT M. continus égaux à 3 % des PV max par seconde. Cet effet peut être dissipé.",
-            "Korean": "초당 최대 HP의 3%만큼 지속 마법 피해를 입힌다. 제거 가능.",
+            "Korean": "매초 최대 HP의 3%에 해당하는 지속 마법 피해를 입힌다. 제거 가능.",
             "Indonesian": "Memberikan M. DMG secara terus-menerus sebesar 3% Max HP setiap detik. Dapat dihilangkan.",
             "POR": "Causa Dano M. contínuo igual a 3% do HP Máx. por seg. Pode ser dissipado.",
             "German": "Verursacht pro Sek. kontinuierlichen M. DMG in Höhe von 3% der Max. LP. Kann entfernt werden."
@@ -16112,18 +16142,18 @@
         },
         {
             "字符串": "BUFFAttribute_mTips_322170",
-            "CN": "怒气达到上限后可继续回复，最多可积累怒气至上限的{30,num}倍。施放技能时消耗全部怒气。",
-            "EN": "Rage can continue to recover after reaching its cap, accumulating up to {30,num} time(s) the cap. All Rage will be consumed when casting the Ultimate.",
-            "Russian": "Ярость может продолжать восстанавливаться после достижения своего предела, накапливая до х{30,num} предела. При использовании суперспособности будет поглощен весь запас ярости.",
-            "Japan": "レイジが上限に達した後も回復し続け、上限の{30,num}倍まで蓄積できる。SPスキルを発動すると全てのレイジが消費される。",
-            "Italian": "La rabbia può continuare a rigenerarsi dopo aver raggiunto il suo limite, accumulandosi fino a {30,num} volta/e il limite. Tutta la rabbia verrà consumata quando si lancia la skill Ultimativa.",
-            "CNTraditional": "怒氣在達到上限後可繼續回復，最多可累積怒氣值上限的{30,num}倍。施放技能時消耗全部的怒氣。",
-            "Spanish": "La furia sigue restaurándose tras alcanzar su nivel máximo y se acumula hasta {30,num} veces el nivel máximo. Toda la furia será consumida al lanzar una habilidad.",
-            "French": "La rage continue à se régénérer après avoir atteint sa quantité maximale, cumulable jusqu'à {30,num} fois la limite. Lancer l'Ultime consommera toute la rage.",
-            "Korean": "분노가 최대 상한 도달 후에도 계속 회복되며, 최대치의 {30,num}배까지 회복된다. 스킬 시전 시 모든 분노를 소모한다.",
-            "Indonesian": "Rage dapat terus dipulihkan setelah mencapai batasnya, terakumulasi hingga {30,num} kali batasnya. Semua Rage akan dihabiskan saat menggunakan Ultimate.",
-            "POR": "A Fúria pode continuar se recuperando após atingir seu limite, acumulando até {30,num} vez(es) o limite. Toda a Fúria será consumida ao lançar a Ultimate.",
-            "German": "Wut kann auch nach Erreichen des max. Werts weiter wiederhergestellt werden (auf das bis zu {30,num}-fache des max. Werts). Beim Wirken des Skills wird die gesamte Wut verbraucht."
+            "CN": "怒气达到上限后可继续回复，最多可积累怒气至上限的{30,num}倍。",
+            "EN": "Rage can continue to recover after reaching its cap, accumulating up to {30,num} time(s) the cap.",
+            "Russian": "Ярость может продолжать восстанавливаться после достижения своего предела, накапливая до х{30,num} предела.",
+            "Japan": "レイジが上限に達した後も回復し続け、上限の{30,num}倍まで蓄積できる。",
+            "Italian": "La rabbia può continuare a rigenerarsi dopo aver raggiunto il suo limite, accumulandosi fino a {30,num} volta/e il limite.",
+            "CNTraditional": "怒氣在達到上限後可繼續回復，最多可累積怒氣至上限的{30,num}倍。",
+            "Spanish": "La furia puede seguir regenerándose tras alcanzar su límite y acumularse hasta {30,num} veces dicho límite.",
+            "French": "La rage continue de se régénérer une fois son maximum atteint, cumulable jusqu'à {30,num} fois la limite.",
+            "Korean": "분노가 최대 상한 도달 후에도 계속 회복될 수 있으며, 분노 최대치의 {30,num}배까지 회복된다.",
+            "Indonesian": "Rage dapat terus dipulihkan setelah mencapai batasnya, terakumulasi hingga {30,num} kali batasnya.",
+            "POR": "A Fúria pode continuar se recuperando após atingir seu limite, acumulando até {30,num} vez(es) o limite.",
+            "German": "Wut kann auch bei Maximum weiter wiederhergestellt werden (auf das {30,num}-fache des Maximums begrenzt)."
         },
         {
             "字符串": "BUFFAttribute_mName_322171",
@@ -24567,7 +24597,7 @@
             "French": "Lors de l'obtention, régénère {29,num} % des PV max du héros, cumulable jusqu'à 10 fois. Lancer l'Ultime consomme tous les cumuls.",
             "Korean": "획득 시 자신의 최대 HP {29,num}%만큼의 HP를 회복하며, 최대 10스택 중첩된다. 궁극기 시전 시 모든 스택을 소모한다.",
             "Indonesian": "Saat diperoleh, memulihkan {29,num}% Max HP ke hero, dapat di-stack hingga 10 kali. Mengaktifkan Ultimate mengonsumsi semua stack.",
-            "POR": "Ao ser ganho, restaura {29,num}% de HP Máx. ao herói, acumulando até 10 vezes. Ativar a Ultimate consome todos os acúmulos.",
+            "POR": "Ao ser ganho, restaura {29,num}% de HP Máx. à heroína, acumulando até 10 vezes. Ativar a Ultimate consome todos os acúmulos.",
             "German": "Stellt bei Erhalt {29,num}% der Max. LP der Heldin wieder her, bis zu 10-mal stapelbar. Das Wirken des Ultimativen Skills verbraucht alle Stapel."
         },
         {
@@ -25097,18 +25127,18 @@
         },
         {
             "字符串": "BUFFAttribute_mTips_323622",
-            "CN": "每秒造成{30,num}%的单体物理伤害，对飞行单位造成伤害翻倍，并附加{31,num}秒{32,num}%的物理易伤。场上最多存在{33,num}个恶意之种。",
-            "EN": "Deals {30,num}% single-target P. DMG per sec (doubled against airborne units), and inflicts {32,num}% Vulnerability (P. DMG) for {31,num} sec. Up to {33,num} Seeds of Malice can exist on the field.",
-            "Russian": "Наносит {30,num}% физ. УРН по одной цели в сек. (удваивается против юнитов в воздухе) и накладывает {32,num}% эффекта «Уязвимость (физ. УРН)» на {31,num} сек. На поле боя может находиться несколько (до {33,num}) эффектов «Семена злобы».",
-            "Japan": "毎秒{30,num}%の単体物理ダメージを与え（飛行ユニットに対しては倍増）、{32,num}%の脆弱（物理ダメージ）を{31,num}秒間付与する。フィールド上に存在できる悪意の種は{33,num}個まで。",
-            "Italian": "Infligge un {30,num}% di DMG F. a bersaglio singolo al sec. (raddoppiato contro le unità aeree) e infligge un {32,num}% di Vulnerabilità (DMG F.) per {31,num} sec. Possono esistere fino a {33,num} Semi della malizia sul campo.",
-            "CNTraditional": "每秒造成{30,num}%的單體物理傷害，對飛行單位傷害翻倍，並附加{31,num}秒{32,num}%的物理易傷。場上最多存在{33,num}個惡意之種。",
-            "Spanish": "Inflige un {30,num} % de daño físico a un objetivo individual por seg. (se duplica contra unidades voladoras) y aplica un {32,num} % de vulnerabilidad física durante {31,num} seg. Puede haber hasta {33,num} \"Semillas de malicia\" en el campo.",
-            "French": "Inflige {30,num} % de DGT P. monocibles par seconde (doublés contre les unités aériennes), et applique Vulnérabilité (DGT P.) de {32,num} % pendant {31,num} s. Jusqu'à {33,num} Graines de la malice peuvent exister sur le champ de bataille.",
-            "Korean": "매초 {30,num}%의 단일 물리 피해를 입히며, 비행 유닛에게는 피해가 2배로 적용된다. 또한 {31,num}초 동안 {32,num}%의 물리 취약을 부여한다. 전장에는 악의의 씨앗이 최대 {33,num}개 존재할 수 있다.",
-            "Indonesian": "Memberikan {30,num}% P. DMG target tunggal setiap detik (dua kali lipat terhadap unit di udara), dan menyebabkan {32,num}% Vulnerability (P. DMG) selama {31,num} detik. Maksimal {33,num} Seeds of Malice bisa berada di medan tempur.",
-            "POR": "Causa {30,num}% de Dano F. em um único alvo por seg. (dobrado contra unidades aéreas) e inflige {32,num}% de Vulnerabilidade (Dano F.) por {31,num} seg. Pode haver até {33,num} Sementes da Malícia no campo.",
-            "German": "Verursacht pro Sek. {30,num}% P. Einzelziel-DMG (verdoppelt gegen Einheiten in der Luft) und wendet für {31,num} Sek. {32,num}% Verwundbarkeit (P. DMG) an. Maximal {33,num} Saat(en) der Bosheit gleichzeitig auf dem Schlachtfeld."
+            "CN": "持续{29,num}秒，每秒造成{30,num}%的单体物理伤害，对飞行单位造成伤害翻倍，并附加{31,num}秒{32,num}%的物理易伤。场上最多存在{33,num}个恶意之种。",
+            "EN": "Lasts for {29,num} sec. Deals {30,num}% single-target P. DMG per sec (doubled against airborne units), and inflicts {32,num}% Vulnerability (P. DMG) for {31,num} sec. Up to {33,num} Seeds of Malice can exist on the field.",
+            "Russian": "Действует {29,num} сек. Наносит {30,num}% физ. УРН по одной цели в сек. (удваивается против юнитов в воздухе) и накладывает {32,num}% эффекта «Уязвимость (физ. УРН)» на {31,num} сек. На поле боя может находиться несколько (до {33,num}) эффектов «Семена злобы».",
+            "Japan": "{29,num}秒間持続する。毎秒{30,num}%の単体物理ダメージを与え（飛行ユニットに対しては倍増）、{32,num}%の脆弱（物理ダメージ）を{31,num}秒間付与する。フィールド上に存在できる悪意の種は{33,num}個まで。",
+            "Italian": "Dura {29,num} sec. Infligge un {30,num}% di DMG F. a bersaglio singolo al sec. (raddoppiato contro le unità aeree) e infligge un {32,num}% di Vulnerabilità (DMG F.) per {31,num} sec. Possono esistere fino a {33,num} Semi della malizia sul campo.",
+            "CNTraditional": "持續{29,num}秒，每秒造成{30,num}%的單體物理傷害，對飛行單位傷害翻倍，並附加{31,num}秒{32,num}%的物理易傷。場上最多存在{33,num}個惡意之種。",
+            "Spanish": "Dura {29,num} seg. Inflige un {30,num} % de daño físico a un objetivo individual por segundo (se duplica contra unidades voladoras) y aplica un {32,num} % de vulnerabilidad física durante {31,num} seg. Puede haber hasta {33,num} \"Semillas de malicia\" en el campo.",
+            "French": "Dure {29,num} s. Inflige {30,num} % de DGT P. monocibles par seconde (doublés contre les unités aériennes), et applique {32,num} % de Vulnérabilité (DGT P.) pendant {31,num} s. Jusqu'à {33,num} Graines de la malice peuvent exister sur le champ de bataille.",
+            "Korean": "{29,num}초간 지속되며, 매초 {30,num}%의 단일 물리 피해를 입히고 비행 유닛에게는 피해가 2배로 적용된다. 또한 {31,num}초 동안 {32,num}%의 물리 취약을 부여한다. 필드에는 악의의 씨앗이 최대 {33,num}개 존재할 수 있다.",
+            "Indonesian": "Berlangsung selama {29,num} detik. Memberikan {30,num}% P. DMG target tunggal setiap detik (dua kali lipat terhadap unit di udara), dan menyebabkan {32,num}% Vulnerability (P. DMG) selama {31,num} detik. Maksimal {33,num} Seeds of Malice bisa berada di medan tempur.",
+            "POR": "Dura {29,num} seg. Causa {30,num}% de Dano F. em um único alvo por seg. (dobrado contra unidades aéreas) e inflige {32,num}% de Vulnerabilidade (Dano F.) por {31,num} seg. Pode haver até {33,num} Sementes da Malícia no campo.",
+            "German": "Hält {29,num} Sek. an. Verursacht pro Sek. {30,num}% P. Einzelziel-DMG (verdoppelt gegen Einheiten in der Luft) und fügt für {31,num} Sek. {32,num}% Verwundbarkeit (P. DMG) zu. Maximal {33,num} Saat(en) der Bosheit gleichzeitig auf dem Schlachtfeld."
         },
         {
             "字符串": "BUFFAttribute_mName_323623",
@@ -25127,18 +25157,18 @@
         },
         {
             "字符串": "BUFFAttribute_mTips_323623",
-            "CN": "每秒造成{30,num}%的单体物理伤害，对飞行单位造成伤害翻倍，并附加{31,num}秒{32,num}%的物理易伤。场上最多存在{33,num}个恶意之种。",
-            "EN": "Deals {30,num}% single-target P. DMG per sec (doubled against airborne units), and inflicts {32,num}% Vulnerability (P. DMG) for {31,num} sec. Up to {33,num} Seeds of Malice can exist on the field.",
-            "Russian": "Наносит {30,num}% физ. УРН по одной цели в сек. (удваивается против юнитов в воздухе) и накладывает {32,num}% эффекта «Уязвимость (физ. УРН)» на {31,num} сек. На поле боя может находиться несколько (до {33,num}) эффектов «Семена злобы».",
-            "Japan": "毎秒{30,num}%の単体物理ダメージを与え（飛行ユニットに対しては倍増）、{32,num}%の脆弱（物理ダメージ）を{31,num}秒間付与する。フィールド上に存在できる悪意の種は{33,num}個まで。",
-            "Italian": "Infligge un {30,num}% di DMG F. a bersaglio singolo al sec. (raddoppiato contro le unità aeree) e infligge un {32,num}% di Vulnerabilità (DMG F.) per {31,num} sec. Possono esistere fino a {33,num} Semi della malizia sul campo.",
-            "CNTraditional": "每秒造成{30,num}%的單體物理傷害，對飛行單位傷害翻倍，並附加{31,num}秒{32,num}%的物理易傷。場上最多存在{33,num}個惡意之種。",
-            "Spanish": "Inflige un {30,num} % de daño físico a un objetivo individual por seg. (se duplica contra unidades voladoras) y aplica un {32,num} % de vulnerabilidad física durante {31,num} seg. Puede haber hasta {33,num} \"Semillas de malicia\" en el campo.",
-            "French": "Inflige {30,num} % de DGT P. monocibles par seconde (doublés contre les unités aériennes), et applique Vulnérabilité (DGT P.) de {32,num} % pendant {31,num} s. Jusqu'à {33,num} Graines de la malice peuvent exister sur le champ de bataille.",
-            "Korean": "매초 {30,num}%의 단일 물리 피해를 입히며, 비행 유닛에게는 피해가 2배로 적용된다. 또한 {31,num}초 동안 {32,num}%의 물리 취약을 부여한다. 전장에는 악의의 씨앗이 최대 {33,num}개 존재할 수 있다.",
-            "Indonesian": "Memberikan {30,num}% P. DMG target tunggal setiap detik (dua kali lipat terhadap unit di udara), dan menyebabkan {32,num}% Vulnerability (P. DMG) selama {31,num} detik. Maksimal {33,num} Seeds of Malice bisa berada di medan tempur.",
-            "POR": "Causa {30,num}% de Dano F. em um único alvo por seg. (dobrado contra unidades aéreas) e inflige {32,num}% de Vulnerabilidade (Dano F.) por {31,num} seg. Pode haver até {33,num} Sementes da Malícia no campo.",
-            "German": "Verursacht pro Sek. {30,num}% P. Einzelziel-DMG (verdoppelt gegen Einheiten in der Luft) und wendet für {31,num} Sek. {32,num}% Verwundbarkeit (P. DMG) an. Maximal {33,num} Saat(en) der Bosheit gleichzeitig auf dem Schlachtfeld."
+            "CN": "持续{29,num}秒，每秒造成{30,num}%的单体物理伤害，对飞行单位造成伤害翻倍，并附加{31,num}秒{32,num}%的物理易伤。场上最多存在{33,num}个恶意之种。",
+            "EN": "Lasts for {29,num} sec. Deals {30,num}% single-target P. DMG per sec (doubled against airborne units), and inflicts {32,num}% Vulnerability (P. DMG) for {31,num} sec. Up to {33,num} Seeds of Malice can exist on the field.",
+            "Russian": "Действует {29,num} сек. Наносит {30,num}% физ. УРН по одной цели в сек. (удваивается против юнитов в воздухе) и накладывает {32,num}% эффекта «Уязвимость (физ. УРН)» на {31,num} сек. На поле боя может находиться несколько (до {33,num}) эффектов «Семена злобы».",
+            "Japan": "{29,num}秒間持続する。毎秒{30,num}%の単体物理ダメージを与え（飛行ユニットに対しては倍増）、{32,num}%の脆弱（物理ダメージ）を{31,num}秒間付与する。フィールド上に存在できる悪意の種は{33,num}個まで。",
+            "Italian": "Dura {29,num} sec. Infligge un {30,num}% di DMG F. a bersaglio singolo al sec. (raddoppiato contro le unità aeree) e infligge un {32,num}% di Vulnerabilità (DMG F.) per {31,num} sec. Possono esistere fino a {33,num} Semi della malizia sul campo.",
+            "CNTraditional": "持續{29,num}秒，每秒造成{30,num}%的單體物理傷害，對飛行單位傷害翻倍，並附加{31,num}秒{32,num}%的物理易傷。場上最多存在{33,num}個惡意之種。",
+            "Spanish": "Dura {29,num} seg. Inflige un {30,num} % de daño físico a un objetivo individual por segundo (se duplica contra unidades voladoras) y aplica un {32,num} % de vulnerabilidad física durante {31,num} seg. Puede haber hasta {33,num} \"Semillas de malicia\" en el campo.",
+            "French": "Dure {29,num} s. Inflige {30,num} % de DGT P. monocibles par seconde (doublés contre les unités aériennes), et applique {32,num} % de Vulnérabilité (DGT P.) pendant {31,num} s. Jusqu'à {33,num} Graines de la malice peuvent exister sur le champ de bataille.",
+            "Korean": "{29,num}초간 지속되며, 매초 {30,num}%의 단일 물리 피해를 입히고 비행 유닛에게는 피해가 2배로 적용된다. 또한 {31,num}초 동안 {32,num}%의 물리 취약을 부여한다. 필드에는 악의의 씨앗이 최대 {33,num}개 존재할 수 있다.",
+            "Indonesian": "Berlangsung selama {29,num} detik. Memberikan {30,num}% P. DMG target tunggal setiap detik (dua kali lipat terhadap unit di udara), dan menyebabkan {32,num}% Vulnerability (P. DMG) selama {31,num} detik. Maksimal {33,num} Seeds of Malice bisa berada di medan tempur.",
+            "POR": "Dura {29,num} seg. Causa {30,num}% de Dano F. em um único alvo por seg. (dobrado contra unidades aéreas) e inflige {32,num}% de Vulnerabilidade (Dano F.) por {31,num} seg. Pode haver até {33,num} Sementes da Malícia no campo.",
+            "German": "Hält {29,num} Sek. an. Verursacht pro Sek. {30,num}% P. Einzelziel-DMG (verdoppelt gegen Einheiten in der Luft) und fügt für {31,num} Sek. {32,num}% Verwundbarkeit (P. DMG) zu. Maximal {33,num} Saat(en) der Bosheit gleichzeitig auf dem Schlachtfeld."
         },
         {
             "字符串": "BUFFAttribute_mName_323624",
@@ -25157,18 +25187,18 @@
         },
         {
             "字符串": "BUFFAttribute_mTips_323624",
-            "CN": "每秒造成{30,num}%的单体物理伤害，对飞行单位造成伤害翻倍，并附加{31,num}秒{32,num}%的物理易伤。场上最多存在{33,num}个恶意之种。",
-            "EN": "Deals {30,num}% single-target P. DMG per sec (doubled against airborne units), and inflicts {32,num}% Vulnerability (P. DMG) for {31,num} sec. Up to {33,num} Seeds of Malice can exist on the field.",
-            "Russian": "Наносит {30,num}% физ. УРН по одной цели в сек. (удваивается против юнитов в воздухе) и накладывает {32,num}% эффекта «Уязвимость (физ. УРН)» на {31,num} сек. На поле боя может находиться несколько (до {33,num}) эффектов «Семена злобы».",
-            "Japan": "毎秒{30,num}%の単体物理ダメージを与え（飛行ユニットに対しては倍増）、{32,num}%の脆弱（物理ダメージ）を{31,num}秒間付与する。フィールド上に存在できる悪意の種は{33,num}個まで。",
-            "Italian": "Infligge un {30,num}% di DMG F. a bersaglio singolo al sec. (raddoppiato contro le unità aeree) e infligge un {32,num}% di Vulnerabilità (DMG F.) per {31,num} sec. Possono esistere fino a {33,num} Semi della malizia sul campo.",
-            "CNTraditional": "每秒造成{30,num}%的單體物理傷害，對飛行單位傷害翻倍，並附加{31,num}秒{32,num}%的物理易傷。場上最多存在{33,num}個惡意之種。",
-            "Spanish": "Inflige un {30,num} % de daño físico a un objetivo individual por seg. (se duplica contra unidades voladoras) y aplica un {32,num} % de vulnerabilidad física durante {31,num} seg. Puede haber hasta {33,num} \"Semillas de malicia\" en el campo.",
-            "French": "Inflige {30,num} % de DGT P. monocibles par seconde (doublés contre les unités aériennes), et applique Vulnérabilité (DGT P.) de {32,num} % pendant {31,num} s. Jusqu'à {33,num} Graines de la malice peuvent exister sur le champ de bataille.",
-            "Korean": "매초 {30,num}%의 단일 물리 피해를 입히며, 비행 유닛에게는 피해가 2배로 적용된다. 또한 {31,num}초 동안 {32,num}%의 물리 취약을 부여한다. 전장에는 악의의 씨앗이 최대 {33,num}개 존재할 수 있다.",
-            "Indonesian": "Memberikan {30,num}% P. DMG target tunggal setiap detik (dua kali lipat terhadap unit di udara), dan menyebabkan {32,num}% Vulnerability (P. DMG) selama {31,num} detik. Maksimal {33,num} Seeds of Malice bisa berada di medan tempur.",
-            "POR": "Causa {30,num}% de Dano F. em um único alvo por seg. (dobrado contra unidades aéreas) e inflige {32,num}% de Vulnerabilidade (Dano F.) por {31,num} seg. Pode haver até {33,num} Sementes da Malícia no campo.",
-            "German": "Verursacht pro Sek. {30,num}% P. Einzelziel-DMG (verdoppelt gegen Einheiten in der Luft) und wendet für {31,num} Sek. {32,num}% Verwundbarkeit (P. DMG) an. Maximal {33,num} Saat(en) der Bosheit gleichzeitig auf dem Schlachtfeld."
+            "CN": "持续{29,num}秒，每秒造成{30,num}%的单体物理伤害，对飞行单位造成伤害翻倍，并附加{31,num}秒{32,num}%的物理易伤。场上最多存在{33,num}个恶意之种。",
+            "EN": "Lasts for {29,num} sec. Deals {30,num}% single-target P. DMG per sec (doubled against airborne units), and inflicts {32,num}% Vulnerability (P. DMG) for {31,num} sec. Up to {33,num} Seeds of Malice can exist on the field.",
+            "Russian": "Действует {29,num} сек. Наносит {30,num}% физ. УРН по одной цели в сек. (удваивается против юнитов в воздухе) и накладывает {32,num}% эффекта «Уязвимость (физ. УРН)» на {31,num} сек. На поле боя может находиться несколько (до {33,num}) эффектов «Семена злобы».",
+            "Japan": "{29,num}秒間持続する。毎秒{30,num}%の単体物理ダメージを与え（飛行ユニットに対しては倍増）、{32,num}%の脆弱（物理ダメージ）を{31,num}秒間付与する。フィールド上に存在できる悪意の種は{33,num}個まで。",
+            "Italian": "Dura {29,num} sec. Infligge un {30,num}% di DMG F. a bersaglio singolo al sec. (raddoppiato contro le unità aeree) e infligge un {32,num}% di Vulnerabilità (DMG F.) per {31,num} sec. Possono esistere fino a {33,num} Semi della malizia sul campo.",
+            "CNTraditional": "持續{29,num}秒，每秒造成{30,num}%的單體物理傷害，對飛行單位傷害翻倍，並附加{31,num}秒{32,num}%的物理易傷。場上最多存在{33,num}個惡意之種。",
+            "Spanish": "Dura {29,num} seg. Inflige un {30,num} % de daño físico a un objetivo individual por segundo (se duplica contra unidades voladoras) y aplica un {32,num} % de vulnerabilidad física durante {31,num} seg. Puede haber hasta {33,num} \"Semillas de malicia\" en el campo.",
+            "French": "Dure {29,num} s. Inflige {30,num} % de DGT P. monocibles par seconde (doublés contre les unités aériennes), et applique {32,num} % de Vulnérabilité (DGT P.) pendant {31,num} s. Jusqu'à {33,num} Graines de la malice peuvent exister sur le champ de bataille.",
+            "Korean": "{29,num}초간 지속되며, 매초 {30,num}%의 단일 물리 피해를 입히고 비행 유닛에게는 피해가 2배로 적용된다. 또한 {31,num}초 동안 {32,num}%의 물리 취약을 부여한다. 필드에는 악의의 씨앗이 최대 {33,num}개 존재할 수 있다.",
+            "Indonesian": "Berlangsung selama {29,num} detik. Memberikan {30,num}% P. DMG target tunggal setiap detik (dua kali lipat terhadap unit di udara), dan menyebabkan {32,num}% Vulnerability (P. DMG) selama {31,num} detik. Maksimal {33,num} Seeds of Malice bisa berada di medan tempur.",
+            "POR": "Dura {29,num} seg. Causa {30,num}% de Dano F. em um único alvo por seg. (dobrado contra unidades aéreas) e inflige {32,num}% de Vulnerabilidade (Dano F.) por {31,num} seg. Pode haver até {33,num} Sementes da Malícia no campo.",
+            "German": "Hält {29,num} Sek. an. Verursacht pro Sek. {30,num}% P. Einzelziel-DMG (verdoppelt gegen Einheiten in der Luft) und fügt für {31,num} Sek. {32,num}% Verwundbarkeit (P. DMG) zu. Maximal {33,num} Saat(en) der Bosheit gleichzeitig auf dem Schlachtfeld."
         },
         {
             "字符串": "BUFFAttribute_mName_323625",
@@ -25187,18 +25217,18 @@
         },
         {
             "字符串": "BUFFAttribute_mTips_323625",
-            "CN": "每秒造成{30,num}%的单体物理伤害，对飞行单位造成伤害翻倍，并附加{31,num}秒{32,num}%的物理易伤。场上最多存在{33,num}个恶意之种。",
-            "EN": "Deals {30,num}% single-target P. DMG per sec (doubled against airborne units), and inflicts {32,num}% Vulnerability (P. DMG) for {31,num} sec. Up to {33,num} Seeds of Malice can exist on the field.",
-            "Russian": "Наносит {30,num}% физ. УРН по одной цели в сек. (удваивается против юнитов в воздухе) и накладывает {32,num}% эффекта «Уязвимость (физ. УРН)» на {31,num} сек. На поле боя может находиться несколько (до {33,num}) эффектов «Семена злобы».",
-            "Japan": "毎秒{30,num}%の単体物理ダメージを与え（飛行ユニットに対しては倍増）、{32,num}%の脆弱（物理ダメージ）を{31,num}秒間付与する。フィールド上に存在できる悪意の種は{33,num}個まで。",
-            "Italian": "Infligge un {30,num}% di DMG F. a bersaglio singolo al sec. (raddoppiato contro le unità aeree) e infligge un {32,num}% di Vulnerabilità (DMG F.) per {31,num} sec. Possono esistere fino a {33,num} Semi della malizia sul campo.",
-            "CNTraditional": "每秒造成{30,num}%的單體物理傷害，對飛行單位傷害翻倍，並附加{31,num}秒{32,num}%的物理易傷。場上最多存在{33,num}個惡意之種。",
-            "Spanish": "Inflige un {30,num} % de daño físico a un objetivo individual por seg. (se duplica contra unidades voladoras) y aplica un {32,num} % de vulnerabilidad física durante {31,num} seg. Puede haber hasta {33,num} \"Semillas de malicia\" en el campo.",
-            "French": "Inflige {30,num} % de DGT P. monocibles par seconde (doublés contre les unités aériennes), et applique Vulnérabilité (DGT P.) de {32,num} % pendant {31,num} s. Jusqu'à {33,num} Graines de la malice peuvent exister sur le champ de bataille.",
-            "Korean": "매초 {30,num}%의 단일 물리 피해를 입히며, 비행 유닛에게는 피해가 2배로 적용된다. 또한 {31,num}초 동안 {32,num}%의 물리 취약을 부여한다. 전장에는 악의의 씨앗이 최대 {33,num}개 존재할 수 있다.",
-            "Indonesian": "Memberikan {30,num}% P. DMG target tunggal setiap detik (dua kali lipat terhadap unit di udara), dan menyebabkan {32,num}% Vulnerability (P. DMG) selama {31,num} detik. Maksimal {33,num} Seeds of Malice bisa berada di medan tempur.",
-            "POR": "Causa {30,num}% de Dano F. em um único alvo por seg. (dobrado contra unidades aéreas) e inflige {32,num}% de Vulnerabilidade (Dano F.) por {31,num} seg. Pode haver até {33,num} Sementes da Malícia no campo.",
-            "German": "Verursacht pro Sek. {30,num}% P. Einzelziel-DMG (verdoppelt gegen Einheiten in der Luft) und wendet für {31,num} Sek. {32,num}% Verwundbarkeit (P. DMG) an. Maximal {33,num} Saat(en) der Bosheit gleichzeitig auf dem Schlachtfeld."
+            "CN": "持续{29,num}秒，每秒造成{30,num}%的单体物理伤害，对飞行单位造成伤害翻倍，并附加{31,num}秒{32,num}%的物理易伤。场上最多存在{33,num}个恶意之种。",
+            "EN": "Lasts for {29,num} sec. Deals {30,num}% single-target P. DMG per sec (doubled against airborne units), and inflicts {32,num}% Vulnerability (P. DMG) for {31,num} sec. Up to {33,num} Seeds of Malice can exist on the field.",
+            "Russian": "Действует {29,num} сек. Наносит {30,num}% физ. УРН по одной цели в сек. (удваивается против юнитов в воздухе) и накладывает {32,num}% эффекта «Уязвимость (физ. УРН)» на {31,num} сек. На поле боя может находиться несколько (до {33,num}) эффектов «Семена злобы».",
+            "Japan": "{29,num}秒間持続する。毎秒{30,num}%の単体物理ダメージを与え（飛行ユニットに対しては倍増）、{32,num}%の脆弱（物理ダメージ）を{31,num}秒間付与する。フィールド上に存在できる悪意の種は{33,num}個まで。",
+            "Italian": "Dura {29,num} sec. Infligge un {30,num}% di DMG F. a bersaglio singolo al sec. (raddoppiato contro le unità aeree) e infligge un {32,num}% di Vulnerabilità (DMG F.) per {31,num} sec. Possono esistere fino a {33,num} Semi della malizia sul campo.",
+            "CNTraditional": "持續{29,num}秒，每秒造成{30,num}%的單體物理傷害，對飛行單位傷害翻倍，並附加{31,num}秒{32,num}%的物理易傷。場上最多存在{33,num}個惡意之種。",
+            "Spanish": "Dura {29,num} seg. Inflige un {30,num} % de daño físico a un objetivo individual por segundo (se duplica contra unidades voladoras) y aplica un {32,num} % de vulnerabilidad física durante {31,num} seg. Puede haber hasta {33,num} \"Semillas de malicia\" en el campo.",
+            "French": "Dure {29,num} s. Inflige {30,num} % de DGT P. monocibles par seconde (doublés contre les unités aériennes), et applique {32,num} % de Vulnérabilité (DGT P.) pendant {31,num} s. Jusqu'à {33,num} Graines de la malice peuvent exister sur le champ de bataille.",
+            "Korean": "{29,num}초간 지속되며, 매초 {30,num}%의 단일 물리 피해를 입히고 비행 유닛에게는 피해가 2배로 적용된다. 또한 {31,num}초 동안 {32,num}%의 물리 취약을 부여한다. 필드에는 악의의 씨앗이 최대 {33,num}개 존재할 수 있다.",
+            "Indonesian": "Berlangsung selama {29,num} detik. Memberikan {30,num}% P. DMG target tunggal setiap detik (dua kali lipat terhadap unit di udara), dan menyebabkan {32,num}% Vulnerability (P. DMG) selama {31,num} detik. Maksimal {33,num} Seeds of Malice bisa berada di medan tempur.",
+            "POR": "Dura {29,num} seg. Causa {30,num}% de Dano F. em um único alvo por seg. (dobrado contra unidades aéreas) e inflige {32,num}% de Vulnerabilidade (Dano F.) por {31,num} seg. Pode haver até {33,num} Sementes da Malícia no campo.",
+            "German": "Hält {29,num} Sek. an. Verursacht pro Sek. {30,num}% P. Einzelziel-DMG (verdoppelt gegen Einheiten in der Luft) und fügt für {31,num} Sek. {32,num}% Verwundbarkeit (P. DMG) zu. Maximal {33,num} Saat(en) der Bosheit gleichzeitig auf dem Schlachtfeld."
         },
         {
             "字符串": "BUFFAttribute_mName_323626",
@@ -25217,18 +25247,18 @@
         },
         {
             "字符串": "BUFFAttribute_mTips_323626",
-            "CN": "每秒造成{30,num}%的单体物理伤害，对飞行单位造成伤害翻倍，并附加{31,num}秒{32,num}%的物理易伤。场上最多存在{33,num}个恶意之种。",
-            "EN": "Deals {30,num}% single-target P. DMG per sec (doubled against airborne units), and inflicts {32,num}% Vulnerability (P. DMG) for {31,num} sec. Up to {33,num} Seeds of Malice can exist on the field.",
-            "Russian": "Наносит {30,num}% физ. УРН по одной цели в сек. (удваивается против юнитов в воздухе) и накладывает {32,num}% эффекта «Уязвимость (физ. УРН)» на {31,num} сек. На поле боя может находиться несколько (до {33,num}) эффектов «Семена злобы».",
-            "Japan": "毎秒{30,num}%の単体物理ダメージを与え（飛行ユニットに対しては倍増）、{32,num}%の脆弱（物理ダメージ）を{31,num}秒間付与する。フィールド上に存在できる悪意の種は{33,num}個まで。",
-            "Italian": "Infligge un {30,num}% di DMG F. a bersaglio singolo al sec. (raddoppiato contro le unità aeree) e infligge un {32,num}% di Vulnerabilità (DMG F.) per {31,num} sec. Possono esistere fino a {33,num} Semi della malizia sul campo.",
-            "CNTraditional": "每秒造成{30,num}%的單體物理傷害，對飛行單位傷害翻倍，並附加{31,num}秒{32,num}%的物理易傷。場上最多存在{33,num}個惡意之種。",
-            "Spanish": "Inflige un {30,num} % de daño físico a un objetivo individual por seg. (se duplica contra unidades voladoras) y aplica un {32,num} % de vulnerabilidad física durante {31,num} seg. Puede haber hasta {33,num} \"Semillas de malicia\" en el campo.",
-            "French": "Inflige {30,num} % de DGT P. monocibles par seconde (doublés contre les unités aériennes), et applique Vulnérabilité (DGT P.) de {32,num} % pendant {31,num} s. Jusqu'à {33,num} Graines de la malice peuvent exister sur le champ de bataille.",
-            "Korean": "매초 {30,num}%의 단일 물리 피해를 입히며, 비행 유닛에게는 피해가 2배로 적용된다. 또한 {31,num}초 동안 {32,num}%의 물리 취약을 부여한다. 전장에는 악의의 씨앗이 최대 {33,num}개 존재할 수 있다.",
-            "Indonesian": "Memberikan {30,num}% P. DMG target tunggal setiap detik (dua kali lipat terhadap unit di udara), dan menyebabkan {32,num}% Vulnerability (P. DMG) selama {31,num} detik. Maksimal {33,num} Seeds of Malice bisa berada di medan tempur.",
-            "POR": "Causa {30,num}% de Dano F. em um único alvo por seg. (dobrado contra unidades aéreas) e inflige {32,num}% de Vulnerabilidade (Dano F.) por {31,num} seg. Pode haver até {33,num} Sementes da Malícia no campo.",
-            "German": "Verursacht pro Sek. {30,num}% P. Einzelziel-DMG (verdoppelt gegen Einheiten in der Luft) und wendet für {31,num} Sek. {32,num}% Verwundbarkeit (P. DMG) an. Maximal {33,num} Saat(en) der Bosheit gleichzeitig auf dem Schlachtfeld."
+            "CN": "持续{29,num}秒，每秒造成{30,num}%的单体物理伤害，对飞行单位造成伤害翻倍，并附加{31,num}秒{32,num}%的物理易伤。场上最多存在{33,num}个恶意之种。",
+            "EN": "Lasts for {29,num} sec. Deals {30,num}% single-target P. DMG per sec (doubled against airborne units), and inflicts {32,num}% Vulnerability (P. DMG) for {31,num} sec. Up to {33,num} Seeds of Malice can exist on the field.",
+            "Russian": "Действует {29,num} сек. Наносит {30,num}% физ. УРН по одной цели в сек. (удваивается против юнитов в воздухе) и накладывает {32,num}% эффекта «Уязвимость (физ. УРН)» на {31,num} сек. На поле боя может находиться несколько (до {33,num}) эффектов «Семена злобы».",
+            "Japan": "{29,num}秒間持続する。毎秒{30,num}%の単体物理ダメージを与え（飛行ユニットに対しては倍増）、{32,num}%の脆弱（物理ダメージ）を{31,num}秒間付与する。フィールド上に存在できる悪意の種は{33,num}個まで。",
+            "Italian": "Dura {29,num} sec. Infligge un {30,num}% di DMG F. a bersaglio singolo al sec. (raddoppiato contro le unità aeree) e infligge un {32,num}% di Vulnerabilità (DMG F.) per {31,num} sec. Possono esistere fino a {33,num} Semi della malizia sul campo.",
+            "CNTraditional": "持續{29,num}秒，每秒造成{30,num}%的單體物理傷害，對飛行單位傷害翻倍，並附加{31,num}秒{32,num}%的物理易傷。場上最多存在{33,num}個惡意之種。",
+            "Spanish": "Dura {29,num} seg. Inflige un {30,num} % de daño físico a un objetivo individual por segundo (se duplica contra unidades voladoras) y aplica un {32,num} % de vulnerabilidad física durante {31,num} seg. Puede haber hasta {33,num} \"Semillas de malicia\" en el campo.",
+            "French": "Dure {29,num} s. Inflige {30,num} % de DGT P. monocibles par seconde (doublés contre les unités aériennes), et applique {32,num} % de Vulnérabilité (DGT P.) pendant {31,num} s. Jusqu'à {33,num} Graines de la malice peuvent exister sur le champ de bataille.",
+            "Korean": "{29,num}초간 지속되며, 매초 {30,num}%의 단일 물리 피해를 입히고 비행 유닛에게는 피해가 2배로 적용된다. 또한 {31,num}초 동안 {32,num}%의 물리 취약을 부여한다. 필드에는 악의의 씨앗이 최대 {33,num}개 존재할 수 있다.",
+            "Indonesian": "Berlangsung selama {29,num} detik. Memberikan {30,num}% P. DMG target tunggal setiap detik (dua kali lipat terhadap unit di udara), dan menyebabkan {32,num}% Vulnerability (P. DMG) selama {31,num} detik. Maksimal {33,num} Seeds of Malice bisa berada di medan tempur.",
+            "POR": "Dura {29,num} seg. Causa {30,num}% de Dano F. em um único alvo por seg. (dobrado contra unidades aéreas) e inflige {32,num}% de Vulnerabilidade (Dano F.) por {31,num} seg. Pode haver até {33,num} Sementes da Malícia no campo.",
+            "German": "Hält {29,num} Sek. an. Verursacht pro Sek. {30,num}% P. Einzelziel-DMG (verdoppelt gegen Einheiten in der Luft) und fügt für {31,num} Sek. {32,num}% Verwundbarkeit (P. DMG) zu. Maximal {33,num} Saat(en) der Bosheit gleichzeitig auf dem Schlachtfeld."
         },
         {
             "字符串": "BUFFAttribute_mName_323630",
@@ -25711,6 +25741,81 @@
             "German": "Erbt {29,num}% der Attribute des Meisters. Jeder ANG fügt bis zu {30,num} angrenzenden Gegnern {31,num}% AoE-DMG zu und verursacht doppelten DMG an Einheiten in der Luft."
         },
         {
+            "字符串": "BUFFAttribute_mName_323771",
+            "CN": "猎场副官",
+            "EN": "Black Hand",
+            "Russian": "Черная рука",
+            "Japan": "ブラックハンド",
+            "Italian": "Mano nera",
+            "CNTraditional": "獵場副官",
+            "Spanish": "Mano negra",
+            "French": "Main noire",
+            "Korean": "사냥터 부관",
+            "Indonesian": "Black Hand",
+            "POR": "Mão Negra",
+            "German": "Schwarze Hand"
+        },
+        {
+            "字符串": "BUFFAttribute_mTips_323771",
+            "CN": "继承召唤者{29,num}的属性及攻击范围。召唤物会复制并使用英雄的技能。普通攻击时，对范围内{30,num}名目标造成{31,num}%的物理伤害。场上最多存在1个。",
+            "EN": "Inherits {29,num} of the summoner's attributes and ATK Range. It copies and uses the summoner's skills. Basic ATK deals {31,num}% P. DMG to {30,num} target(s) in range. Up to 1 can exist on the field.",
+            "Russian": "Наследует {29,num} характеристик и дальности АТК призывателя. Копирует и использует навыки призывателя. Базовая АТК наносит {31,num}% физ. УРН целям ({30,num}) в пределах дальности. На поле боя может находиться не более 1.",
+            "Japan": "召喚者のステータスおよび攻撃範囲を{29,num}継承する。召喚者のスキルをコピーして使用する。通常攻撃は範囲内の対象{30,num}体に{31,num}%の物理ダメージを与える。同時にフィールド上に存在できるのは1体まで。",
+            "Italian": "Eredita {29,num} degli attributi e del raggio d'ATK dell'evocatore. Copia e usa le skill dell'evocatore. L'ATK base infligge un {31,num}% di DMG F. a {30,num} bersagli nel raggio d'azione. Può esisterne fino a 1 sul campo.",
+            "CNTraditional": "繼承召喚者{29,num}的屬性及攻擊範圍。召喚物會複製並使用英雄的技能。普通攻擊時，對範圍內{30,num}名目標造成{31,num}%的物理傷害。場上最多存在1個。",
+            "Spanish": "Hereda {29,num} de los atributos y el alcance de ataque del invocador. Copia y usa las habilidades del invocador. El ataque básico inflige un {31,num} % de daño físico a {30,num} objetivo/s a su alcance. Puede haber hasta 1 en el campo.",
+            "French": "Hérite de {29,num} des attributs et de la portée d'ATQ de l'invocateur. Copie et utilise les compétences de l'invocateur. L'ATQ basique inflige {31,num} % de DGT P. à {30,num} cible(s) à portée. Jusqu'à 1 peut exister sur le champ de bataille.",
+            "Korean": "소환자의 속성 및 공격 범위를 {29,num} 계승한다. 소환물은 영웅의 스킬을 복제하여 사용한다. 일반 공격 시, 범위 내 {30,num}명의 대상에게 {31,num}%의 물리 피해를 입힌다. 필드에 최대 1개 존재할 수 있다.",
+            "Indonesian": "Mewarisi {29,num} atribut dan Jangkauan ATK pemanggil, serta menyalin dan menggunakan skill pemanggil. Basic ATK memberikan {31,num}% P. DMG ke {30,num} target di dalam jangkauan. Maksimal 1 bisa berada di medan tempur.",
+            "POR": "Herda {29,num} dos atributos e do Alcance de ATQ do evocador. Copia e usa as habilidades do evocador. O ATQ Básico causa {31,num}% de Dano F. a {30,num} alvo(s) no alcance. Pode haver até 1 no campo.",
+            "German": "Erbt {29,num} der Attribute und der ANG-Reichweite des Beschwörers. Kopiert und verwendet die Skills des Beschwörers. Der Grund-ANG verursacht {31,num}% P. DMG an {30,num} Ziel(en) in Reichweite. Maximal 1 gleichzeitig auf dem Schlachtfeld."
+        },
+        {
+            "字符串": "BUFFAttribute_mName_323800",
+            "CN": "围猎",
+            "EN": "Bounty",
+            "Russian": "Награда",
+            "Japan": "バウンティ",
+            "Italian": "Taglia",
+            "CNTraditional": "圍獵",
+            "Spanish": "Montería",
+            "French": "Traque",
+            "Korean": "포위 사냥",
+            "Indonesian": "Bounty",
+            "POR": "Recompensa",
+            "German": "Kopfgeld"
+        },
+        {
+            "字符串": "BUFFAttribute_mName_323801",
+            "CN": "税银",
+            "EN": "Stained Silver",
+            "Russian": "Запятнанное серебро",
+            "Japan": "ステインドシルバー",
+            "Italian": "Argento macchiato",
+            "CNTraditional": "稅銀",
+            "Spanish": "Plata manchada",
+            "French": "Argent souillé",
+            "Korean": "얼룩진 세은",
+            "Indonesian": "Stained Silver",
+            "POR": "Prata Manchada",
+            "German": "Beflecktes Silber"
+        },
+        {
+            "字符串": "BUFFAttribute_mTips_323801",
+            "CN": "可被终结技消耗以增强终结技效果，最多可叠加{30,num}层。",
+            "EN": "Can be consumed to enhance the Ultimate's effect. Stacks up to {30,num} times.",
+            "Russian": "Можно расходовать, чтобы усилить эффект суперспособности. Складывается до {30,num} р.",
+            "Japan": "消費するとSPスキルの効果を強化できる。最大{30,num}回までスタック可能。",
+            "Italian": "Può essere consumato per potenziare l'effetto della skill Ultimativa. Si accumula fino a {30,num} volte.",
+            "CNTraditional": "可被終極技能消耗以增強終極技能效果，最多可疊加{30,num}層。",
+            "Spanish": "Se puede consumir para mejorar el efecto de la habilidad definitiva. Se acumula hasta {30,num} veces.",
+            "French": "Peut être consommé pour renforcer l'effet de l'Ultime. Se cumule jusqu'à {30,num} fois.",
+            "Korean": "궁극기 사용 시 소모되어 궁극기 효과를 강화할 수 있으며, 최대 {30,num}스택 중첩할 수 있다.",
+            "Indonesian": "Bisa digunakan untuk memperkuat efek Ultimate. Bisa di-stack hingga {30,num} kali.",
+            "POR": "Pode ser consumido para aprimorar o efeito da Ultimate. Acumula até {30,num} vezes.",
+            "German": "Kann verbraucht werden, um den Effekt des Ultimativen Skills zu verstärken. Bis zu {30,num}-mal stapelbar."
+        },
+        {
             "字符串": "BUFFAttribute_mName_323820",
             "CN": "爆裂弹",
             "EN": "Burst Round",
@@ -25769,6 +25874,126 @@
             "Indonesian": "Pembawanya menerima {30,num}% DMG tambahan dari pengguna (Tidak bisa dihilangkan). Mark akan dihapus ketika mereka keluar dari Jangkauan ATK pengguna.",
             "POR": "O portador recebe {30,num}% de Dano adicional do usuário (Indissipável). A marca é removida quando ele sai do alcance de ATQ do usuário.",
             "German": "Der Träger erleidet {30,num}% mehr DMG durch den Wirker (nicht entfernbar). Dieses Zeichen wird entfernt, wenn der Träger die ANG-Reichweite des Wirkers verlässt."
+        },
+        {
+            "字符串": "BUFFAttribute_mName_324390",
+            "CN": "重斧",
+            "EN": "Battle Axe",
+            "Russian": "Боевой топор",
+            "Japan": "バトルアックス",
+            "Italian": "Ascia da battaglia",
+            "CNTraditional": "重斧",
+            "Spanish": "Hacha de batalla",
+            "French": "Hache de bataille",
+            "Korean": "전투 도끼",
+            "Indonesian": "Battle Axe",
+            "POR": "Machado de Batalha",
+            "German": "Kampfaxt"
+        },
+        {
+            "字符串": "BUFFAttribute_mTips_324390",
+            "CN": "最终伤害提升{29,num}%。",
+            "EN": "Increases final DMG by {29,num}%.",
+            "Russian": "Повышает итоговый УРН на {29,num}%.",
+            "Japan": "最終ダメージが{29,num}%増加する。",
+            "Italian": "Aumenta il DMG finale di un {29,num}%.",
+            "CNTraditional": "最終傷害提升{29,num}%。",
+            "Spanish": "Aumenta el daño final en un {29,num} %.",
+            "French": "Augmente les DGT finaux de {29,num} %.",
+            "Korean": "최종 피해가 {29,num}% 증가한다.",
+            "Indonesian": "Meningkatkan final DMG sebesar {29,num}%.",
+            "POR": "Aumenta o Dano final em {29,num}%.",
+            "German": "Erhöht den finalen DMG um {29,num}%."
+        },
+        {
+            "字符串": "BUFFAttribute_mName_324391",
+            "CN": "重斧",
+            "EN": "Battle Axe",
+            "Russian": "Боевой топор",
+            "Japan": "バトルアックス",
+            "Italian": "Ascia da battaglia",
+            "CNTraditional": "重斧",
+            "Spanish": "Hacha de batalla",
+            "French": "Hache de bataille",
+            "Korean": "전투 도끼",
+            "Indonesian": "Battle Axe",
+            "POR": "Machado de Batalha",
+            "German": "Kampfaxt"
+        },
+        {
+            "字符串": "BUFFAttribute_mTips_324391",
+            "CN": "最终伤害提升{29,num}%。攻击命中时附加伤害降低{30,num}%，持续{31,num}秒。",
+            "EN": "Increases final DMG by {29,num}%. When hitting a target, reduces the target's DMG by {30,num}% for {31,num} sec.",
+            "Russian": "Повышает итоговый УРН на {29,num}%. При попадании по цели снижает ее УРН на {30,num}% на {31,num} сек.",
+            "Japan": "最終ダメージが{29,num}%増加する。対象に命中すると、{31,num}秒間対象のダメージを{30,num}%減少させる。",
+            "Italian": "Aumenta il DMG finale di un {29,num}%. Quando colpisce un bersaglio, riduce il DMG del bersaglio di un {30,num}% per {31,num} sec.",
+            "CNTraditional": "最終傷害提升{29,num}%。攻擊命中時附加傷害降低{30,num}%，持續{31,num}秒。",
+            "Spanish": "Aumenta el daño final en un {29,num} %. Al golpear a un objetivo, reduce el daño del objetivo en un {30,num} % durante {31,num} seg.",
+            "French": "Augmente les DGT finaux de {29,num} %. En touchant une cible, réduit les DGT de la cible de {30,num} % pendant {31,num} s.",
+            "Korean": "최종 피해가 {29,num}% 증가한다. 공격 명중 시 피해 감소 {30,num}%를 부여하고, {31,num}초간 지속한다.",
+            "Indonesian": "Meningkatkan final DMG sebesar {29,num}%. Saat mengenai target, mengurangi DMG target sebesar {30,num}% selama {31,num} detik.",
+            "POR": "Aumenta o Dano final em {29,num}%. Ao atingir um alvo, reduz o Dano do alvo em {30,num}% por {31,num} seg.",
+            "German": "Erhöht den finalen DMG um {29,num}%. Verringert bei einem Treffer den DMG des Ziels für {31,num} Sek. um {30,num}%."
+        },
+        {
+            "字符串": "BUFFAttribute_mName_324392",
+            "CN": "飞刀",
+            "EN": "Throwing Knife",
+            "Russian": "Метательный нож",
+            "Japan": "投げナイフ",
+            "Italian": "Coltello da lancio",
+            "CNTraditional": "飛刀",
+            "Spanish": "Cuchillo arrojadizo",
+            "French": "Couteau de lancer",
+            "Korean": "투척 단검",
+            "Indonesian": "Throwing Knife",
+            "POR": "Faca de Arremesso",
+            "German": "Wurfmesser"
+        },
+        {
+            "字符串": "BUFFAttribute_mTips_324392",
+            "CN": "对空中目标造成伤害提升{29,num}%。",
+            "EN": "Increases DMG against airborne units by {29,num}%.",
+            "Russian": "Повышает УРН по юнитам в воздухе на {29,num}%.",
+            "Japan": "飛行ユニットへの与ダメージが{29,num}%増加する。",
+            "Italian": "Aumenta il DMG contro le unità aeree di un {29,num}%.",
+            "CNTraditional": "對空中目標造成傷害提升{29,num}%。",
+            "Spanish": "Aumenta el daño contra unidades voladoras en un {29,num} %.",
+            "French": "Augmente les DGT infligés aux unités aériennes de {29,num} %.",
+            "Korean": "공중 대상에게 입히는 피해가 {29,num}% 증가한다.",
+            "Indonesian": "Meningkatkan DMG terhadap unit di udara sebesar {29,num}%.",
+            "POR": "Aumenta o Dano contra unidades aéreas em {29,num}%.",
+            "German": "Erhöht den DMG gegen Einheiten in der Luft um {29,num}%."
+        },
+        {
+            "字符串": "BUFFAttribute_mName_324393",
+            "CN": "飞刀",
+            "EN": "Throwing Knife",
+            "Russian": "Метательный нож",
+            "Japan": "投げナイフ",
+            "Italian": "Coltello da lancio",
+            "CNTraditional": "飛刀",
+            "Spanish": "Cuchillo arrojadizo",
+            "French": "Couteau de lancer",
+            "Korean": "투척 단검",
+            "Indonesian": "Throwing Knife",
+            "POR": "Faca de Arremesso",
+            "German": "Wurfmesser"
+        },
+        {
+            "字符串": "BUFFAttribute_mTips_324393",
+            "CN": "对空中目标造成伤害提升{29,num}%。攻击命中时附加流血，持续{30,num}秒。",
+            "EN": "Increases DMG against airborne units by {29,num}%. When hitting a target, inflicts Bleed for {30,num} sec.",
+            "Russian": "Повышает УРН по юнитам в воздухе на {29,num}%. При попадании по цели накладывает эффект «Кровотечение» на {30,num} сек.",
+            "Japan": "飛行ユニットへの与ダメージが{29,num}%増加する。対象に命中すると、{30,num}秒間出血を付与する。",
+            "Italian": "Aumenta il DMG contro le unità aeree di un {29,num}%. Quando colpisce un bersaglio, infligge Sanguinamento per {30,num} sec.",
+            "CNTraditional": "對空中目標造成傷害提升{29,num}%。攻擊命中時附加流血，持續{30,num}秒。",
+            "Spanish": "Aumenta el daño contra unidades voladoras en un {29,num} %. Al golpear a un objetivo, aplica \"hemorragia\" durante {30,num} seg.",
+            "French": "Augmente les DGT infligés aux unités aériennes de {29,num} %. En touchant une cible, applique Saignement pendant {30,num} s.",
+            "Korean": "공중 대상에게 입히는 피해가 {29,num}% 증가한다. 공격 명중 시 출혈을 부여하며, {30,num}초간 지속된다.",
+            "Indonesian": "Meningkatkan DMG terhadap unit di udara sebesar {29,num}%. Saat mengenai target, menyebabkan Bleed selama {30,num} detik.",
+            "POR": "Aumenta o Dano contra unidades aéreas em {29,num}%. Ao atingir um alvo, inflige Sangramento por {30,num} seg.",
+            "German": "Erhöht den DMG gegen Einheiten in der Luft um {29,num}%. Fügt bei einem Treffer dem Ziel für {30,num} Sek. Blutung zu."
         },
         {
             "字符串": "BUFFAttribute_mName_400153",

@@ -373,7 +373,7 @@
             "Korean": "공격 속도 증가",
             "Indonesian": "Peningkatan ATK Spd.",
             "POR": "Aumento de Vel. de ATQ",
-            "German": "ANG-Geschw. Erhöhung"
+            "German": "ANG-Geschw.-Erhöhung"
         },
         {
             "字符串": "BUFFAttribute_mTips_100013",
@@ -403,7 +403,7 @@
             "Korean": "공격 속도 증가",
             "Indonesian": "Peningkatan ATK Spd.",
             "POR": "Aumento de Vel. de ATQ",
-            "German": "ANG-Geschw. Erhöhung"
+            "German": "ANG-Geschw.-Erhöhung"
         },
         {
             "字符串": "BUFFAttribute_mTips_100014",
@@ -433,7 +433,7 @@
             "Korean": "공격 속도 증가",
             "Indonesian": "Peningkatan ATK Spd.",
             "POR": "Aumento de Vel. de ATQ",
-            "German": "ANG-Geschw. Erhöhung"
+            "German": "ANG-Geschw.-Erhöhung"
         },
         {
             "字符串": "BUFFAttribute_mTips_100015",
@@ -1273,7 +1273,7 @@
             "Korean": "공격 속도 증가",
             "Indonesian": "Peningkatan ATK Spd.",
             "POR": "Aumento de Vel. de ATQ",
-            "German": "ANG-Geschw. Erhöhung"
+            "German": "ANG-Geschw.-Erhöhung"
         },
         {
             "字符串": "BUFFAttribute_mTips_100043",
@@ -1363,7 +1363,7 @@
             "Korean": "공격 속도 증가",
             "Indonesian": "Peningkatan ATK Spd.",
             "POR": "Aumento de Vel. de ATQ",
-            "German": "ANG-Geschw. Erhöhung"
+            "German": "ANG-Geschw.-Erhöhung"
         },
         {
             "字符串": "BUFFAttribute_mTips_100046",
@@ -1393,7 +1393,7 @@
             "Korean": "공격 속도 증가",
             "Indonesian": "Peningkatan ATK Spd.",
             "POR": "Aumento de Vel. de ATQ",
-            "German": "ANG-Geschw. Erhöhung"
+            "German": "ANG-Geschw.-Erhöhung"
         },
         {
             "字符串": "BUFFAttribute_mTips_100047",
@@ -1843,7 +1843,7 @@
             "Korean": "공격 속도 증가",
             "Indonesian": "Peningkatan ATK Spd.",
             "POR": "Aumento de Vel. de ATQ",
-            "German": "ANG-Geschw. Erhöhung"
+            "German": "ANG-Geschw.-Erhöhung"
         },
         {
             "字符串": "BUFFAttribute_mTips_100062",
@@ -3493,7 +3493,7 @@
             "Korean": "물리 피해 감소",
             "Indonesian": "Pengurangan P. DMG",
             "POR": "Redução de Dano F.",
-            "German": "P. DMG Reduktion"
+            "German": "P. DMG-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_100117",
@@ -3508,7 +3508,7 @@
             "Korean": "물리 피해 감소 +{3,num/100}%, 동일 유형 효과 중 가장 높은 효과만 적용",
             "Indonesian": "Pengurangan P. DMG +{3,num/100}% (Efek hanya diterapkan saat lebih kuat dari Buff/Debuff saat ini pada atribut yang sama.)",
             "POR": "+{3,num/100}% de Redução de Dano F. (Entra em efeito apenas quando mais forte que o reforço/penalidade atual no mesmo atributo.)",
-            "German": "P. DMG Reduktion +{3,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf dasselbe Attribut.)"
+            "German": "P. DMG-Reduktion +{3,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf demselben Attribut.)"
         },
         {
             "字符串": "BUFFAttribute_mName_100118",
@@ -3523,7 +3523,7 @@
             "Korean": "물리 피해 감소",
             "Indonesian": "Pengurangan P. DMG",
             "POR": "Redução de Dano F.",
-            "German": "P. DMG Reduktion"
+            "German": "P. DMG-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_100118",
@@ -3538,7 +3538,7 @@
             "Korean": "물리 피해 감소 +{3,num/100}%, 동일 유형 효과 중 가장 높은 효과만 적용",
             "Indonesian": "Pengurangan P. DMG +{3,num/100}% (Efek hanya diterapkan saat lebih kuat dari Buff/Debuff saat ini pada atribut yang sama.)",
             "POR": "+{3,num/100}% de Redução de Dano F. (Entra em efeito apenas quando mais forte que o reforço/penalidade atual no mesmo atributo.)",
-            "German": "P. DMG Reduktion +{3,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf dasselbe Attribut.)"
+            "German": "P. DMG-Reduktion +{3,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf demselben Attribut.)"
         },
         {
             "字符串": "BUFFAttribute_mName_100119",
@@ -3553,7 +3553,7 @@
             "Korean": "물리 피해 감소",
             "Indonesian": "Pengurangan P. DMG",
             "POR": "Redução de Dano F.",
-            "German": "P. DMG Reduktion"
+            "German": "P. DMG-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_100119",
@@ -3568,7 +3568,7 @@
             "Korean": "물리 피해 감소 +{3,num/100}%, 동일 유형 효과 중 가장 높은 효과만 적용",
             "Indonesian": "Pengurangan P. DMG +{3,num/100}% (Efek hanya diterapkan saat lebih kuat dari Buff/Debuff saat ini pada atribut yang sama.)",
             "POR": "+{3,num/100}% de Redução de Dano F. (Entra em efeito apenas quando mais forte que o reforço/penalidade atual no mesmo atributo.)",
-            "German": "P. DMG Reduktion +{3,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf dasselbe Attribut.)"
+            "German": "P. DMG-Reduktion +{3,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf demselben Attribut.)"
         },
         {
             "字符串": "BUFFAttribute_mName_100120",
@@ -3583,7 +3583,7 @@
             "Korean": "마법 피해 감소",
             "Indonesian": "Pengurangan M. DMG",
             "POR": "Redução de Dano M.",
-            "German": "M. DMG Reduktion"
+            "German": "M. DMG-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_100120",
@@ -3598,7 +3598,7 @@
             "Korean": "마법 피해 감소 +{6,num/100}%, 동일 유형 효과 중 가장 높은 효과만 적용",
             "Indonesian": "Pengurangan M. DMG +{6,num/100}% (Efek hanya diterapkan saat lebih kuat dari Buff/Debuff saat ini pada atribut yang sama.)",
             "POR": "+{6,num/100}% de Redução de Dano M. (Entra em efeito apenas quando mais forte que o reforço/penalidade atual no mesmo atributo.)",
-            "German": "M. DMG Reduktion +{6,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf dasselbe Attribut.)"
+            "German": "M. DMG-Reduktion +{6,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf demselben Attribut.)"
         },
         {
             "字符串": "BUFFAttribute_mName_100121",
@@ -3613,7 +3613,7 @@
             "Korean": "마법 피해 감소",
             "Indonesian": "Pengurangan M. DMG",
             "POR": "Redução de Dano M.",
-            "German": "M. DMG Reduktion"
+            "German": "M. DMG-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_100121",
@@ -3628,7 +3628,7 @@
             "Korean": "마법 피해 감소 +{6,num/100}%, 동일 유형 효과 중 가장 높은 효과만 적용",
             "Indonesian": "Pengurangan M. DMG +{6,num/100}% (Efek hanya diterapkan saat lebih kuat dari Buff/Debuff saat ini pada atribut yang sama.)",
             "POR": "+{6,num/100}% de Redução de Dano M. (Entra em efeito apenas quando mais forte que o reforço/penalidade atual no mesmo atributo.)",
-            "German": "M. DMG Reduktion +{6,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf dasselbe Attribut.)"
+            "German": "M. DMG-Reduktion +{6,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf demselben Attribut.)"
         },
         {
             "字符串": "BUFFAttribute_mName_100122",
@@ -3643,7 +3643,7 @@
             "Korean": "마법 피해 감소",
             "Indonesian": "Pengurangan M. DMG",
             "POR": "Redução de Dano M.",
-            "German": "M. DMG Reduktion"
+            "German": "M. DMG-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_100122",
@@ -3658,7 +3658,7 @@
             "Korean": "마법 피해 감소 +{6,num/100}%, 동일 유형 효과 중 가장 높은 효과만 적용",
             "Indonesian": "Pengurangan M. DMG +{6,num/100}% (Efek hanya diterapkan saat lebih kuat dari Buff/Debuff saat ini pada atribut yang sama.)",
             "POR": "+{6,num/100}% de Redução de Dano M. (Entra em efeito apenas quando mais forte que o reforço/penalidade atual no mesmo atributo.)",
-            "German": "M. DMG Reduktion +{6,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf dasselbe Attribut.)"
+            "German": "M. DMG-Reduktion +{6,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf demselben Attribut.)"
         },
         {
             "字符串": "BUFFAttribute_mName_100123",
@@ -3673,7 +3673,7 @@
             "Korean": "공격 속도 상승",
             "Indonesian": "Peningkatan ATK Spd.",
             "POR": "Aumento de Vel. de ATQ",
-            "German": "ANG-Geschw. Erhöhung"
+            "German": "ANG-Geschw.-Erhöhung"
         },
         {
             "字符串": "BUFFAttribute_mTips_100123",
@@ -3703,7 +3703,7 @@
             "Korean": "공격 속도 상승",
             "Indonesian": "Peningkatan ATK Spd.",
             "POR": "Aumento de Vel. de ATQ",
-            "German": "ANG-Geschw. Erhöhung"
+            "German": "ANG-Geschw.-Erhöhung"
         },
         {
             "字符串": "BUFFAttribute_mTips_100124",
@@ -3733,7 +3733,7 @@
             "Korean": "공격 속도 상승",
             "Indonesian": "Peningkatan ATK Spd.",
             "POR": "Aumento de Vel. de ATQ",
-            "German": "ANG-Geschw. Erhöhung"
+            "German": "ANG-Geschw.-Erhöhung"
         },
         {
             "字符串": "BUFFAttribute_mTips_100125",
@@ -4963,7 +4963,7 @@
             "Korean": "물리 피해 감소",
             "Indonesian": "Pengurangan P. DMG",
             "POR": "Redução de Dano F.",
-            "German": "P. DMG Reduktion"
+            "German": "P. DMG-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_100166",
@@ -4978,7 +4978,7 @@
             "Korean": "물리 피해 감소 +{3,num/100}%, 동일 유형 효과 중 가장 높은 효과만 적용",
             "Indonesian": "Pengurangan P. DMG +{3,num/100}% (Berlaku hanya jika lebih kuat dari Buff/Debuff saat ini pada atribut yang sama.)",
             "POR": "+{3,num/100}% de Redução de Dano F. (Entra em efeito apenas quando mais forte que o reforço/penalidade atual no mesmo atributo.)",
-            "German": "P. DMG Reduktion +{3,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf dasselbe Attribut.)"
+            "German": "P. DMG-Reduktion +{3,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf demselben Attribut.)"
         },
         {
             "字符串": "BUFFAttribute_mName_100167",
@@ -4993,7 +4993,7 @@
             "Korean": "물리 피해 감소",
             "Indonesian": "Pengurangan P. DMG",
             "POR": "Redução de Dano F.",
-            "German": "P. DMG Reduktion"
+            "German": "P. DMG-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_100167",
@@ -5008,7 +5008,7 @@
             "Korean": "물리 피해 감소 +{3,num/100}%, 동일 유형 효과 중 가장 높은 효과만 적용",
             "Indonesian": "Pengurangan P. DMG +{3,num/100}% (Berlaku hanya jika lebih kuat dari Buff/Debuff saat ini pada atribut yang sama.)",
             "POR": "+{3,num/100}% de Redução de Dano F. (Entra em efeito apenas quando mais forte que o reforço/penalidade atual no mesmo atributo.)",
-            "German": "P. DMG Reduktion +{3,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf dasselbe Attribut.)"
+            "German": "P. DMG-Reduktion +{3,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf demselben Attribut.)"
         },
         {
             "字符串": "BUFFAttribute_mName_100168",
@@ -5023,7 +5023,7 @@
             "Korean": "마법 피해 감소",
             "Indonesian": "Pengurangan M. DMG",
             "POR": "Redução de Dano M.",
-            "German": "M. DMG Reduktion"
+            "German": "M. DMG-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_100168",
@@ -5038,7 +5038,7 @@
             "Korean": "마법 피해 감소 +{6,num/100}%, 동일 유형 효과 중 가장 높은 효과만 적용",
             "Indonesian": "Pengurangan M. DMG +{6,num/100}% (Berlaku hanya jika lebih kuat dari Buff/Debuff saat ini pada atribut yang sama.)",
             "POR": "+{6,num/100}% de Redução de Dano M. (Entra em efeito apenas quando mais forte que o reforço/penalidade atual no mesmo atributo.)",
-            "German": "M. DMG Reduktion +{6,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf dasselbe Attribut.)"
+            "German": "M. DMG-Reduktion +{6,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf demselben Attribut.)"
         },
         {
             "字符串": "BUFFAttribute_mName_100169",
@@ -5053,7 +5053,7 @@
             "Korean": "마법 피해 감소",
             "Indonesian": "Pengurangan M. DMG",
             "POR": "Redução de Dano M.",
-            "German": "M. DMG Reduktion"
+            "German": "M. DMG-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_100169",
@@ -5068,7 +5068,7 @@
             "Korean": "마법 피해 감소 +{6,num/100}%, 동일 유형 효과 중 가장 높은 효과만 적용",
             "Indonesian": "Pengurangan M. DMG +{6,num/100}% (Berlaku hanya jika lebih kuat dari Buff/Debuff saat ini pada atribut yang sama.)",
             "POR": "+{6,num/100}% de Redução de Dano M. (Entra em efeito apenas quando mais forte que o reforço/penalidade atual no mesmo atributo.)",
-            "German": "M. DMG Reduktion +{6,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf dasselbe Attribut.)"
+            "German": "M. DMG-Reduktion +{6,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf demselben Attribut.)"
         },
         {
             "字符串": "BUFFAttribute_mName_100170",
@@ -5083,7 +5083,7 @@
             "Korean": "물리 피해 감소",
             "Indonesian": "Pengurangan P. DMG",
             "POR": "Redução de Dano F.",
-            "German": "P. DMG Reduktion"
+            "German": "P. DMG-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_100170",
@@ -5098,7 +5098,7 @@
             "Korean": "물리 피해 감소 +{3,num/100}%, 동일 유형 효과 중 가장 높은 효과만 적용",
             "Indonesian": "Pengurangan P. DMG +{3,num/100}% (Hanya berlaku jika lebih kuat dari Buff/Debuff pada atribut yang sama saat ini.)",
             "POR": "+{3,num/100}% de Redução de Dano F. (Só se + forte que o buff/penalidade atual no mesmo atributo.)",
-            "German": "P. DMG Reduktion +{3,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf dasselbe Attribut.)"
+            "German": "P. DMG-Reduktion +{3,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf demselben Attribut.)"
         },
         {
             "字符串": "BUFFAttribute_mName_100171",
@@ -5113,7 +5113,7 @@
             "Korean": "물리 피해 감소",
             "Indonesian": "Pengurangan P. DMG",
             "POR": "Redução de Dano F.",
-            "German": "P. DMG Reduktion"
+            "German": "P. DMG-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_100171",
@@ -5128,7 +5128,7 @@
             "Korean": "물리 피해 감소 +{3,num/100}%, 동일 유형 효과 중 가장 높은 효과만 적용",
             "Indonesian": "Pengurangan P. DMG +{3,num/100}% (Hanya berlaku jika lebih kuat dari Buff/Debuff pada atribut yang sama saat ini.)",
             "POR": "+{3,num/100}% de Redução de Dano F. (Só se + forte que o buff/penalidade atual no mesmo atributo.)",
-            "German": "P. DMG Reduktion +{3,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf dasselbe Attribut.)"
+            "German": "P. DMG-Reduktion +{3,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf demselben Attribut.)"
         },
         {
             "字符串": "BUFFAttribute_mName_100172",
@@ -5143,7 +5143,7 @@
             "Korean": "물리 피해 감소",
             "Indonesian": "Pengurangan P. DMG",
             "POR": "Redução de Dano F.",
-            "German": "P. DMG Reduktion"
+            "German": "P. DMG-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_100172",
@@ -5158,7 +5158,7 @@
             "Korean": "물리 피해 감소 +{3,num/100}%, 동일 유형 효과 중 가장 높은 효과만 적용",
             "Indonesian": "Pengurangan P. DMG +{3,num/100}% (Hanya berlaku jika lebih kuat dari Buff/Debuff pada atribut yang sama saat ini.)",
             "POR": "+{3,num/100}% de Redução de Dano F. (Só se + forte que o buff/penalidade atual no mesmo atributo.)",
-            "German": "P. DMG Reduktion +{3,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf dasselbe Attribut.)"
+            "German": "P. DMG-Reduktion +{3,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf demselben Attribut.)"
         },
         {
             "字符串": "BUFFAttribute_mName_100173",
@@ -5173,7 +5173,7 @@
             "Korean": "물리 피해 감소",
             "Indonesian": "Pengurangan P. DMG",
             "POR": "Redução de Dano F.",
-            "German": "P. DMG Reduktion"
+            "German": "P. DMG-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_100173",
@@ -5188,7 +5188,7 @@
             "Korean": "물리 피해 감소 +{3,num/100}%, 동일 유형 효과 중 가장 높은 효과만 적용",
             "Indonesian": "Pengurangan P. DMG +{3,num/100}% (Hanya berlaku jika lebih kuat dari Buff/Debuff pada atribut yang sama saat ini.)",
             "POR": "+{3,num/100}% de Redução de Dano F. (Só se + forte que o buff/penalidade atual no mesmo atributo.)",
-            "German": "P. DMG Reduktion +{3,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf dasselbe Attribut.)"
+            "German": "P. DMG-Reduktion +{3,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf demselben Attribut.)"
         },
         {
             "字符串": "BUFFAttribute_mName_100174",
@@ -5203,7 +5203,7 @@
             "Korean": "물리 피해 감소",
             "Indonesian": "Pengurangan P. DMG",
             "POR": "Redução de Dano F.",
-            "German": "P. DMG Reduktion"
+            "German": "P. DMG-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_100174",
@@ -5218,7 +5218,7 @@
             "Korean": "물리 피해 감소 +{3,num/100}%, 동일 유형 효과 중 가장 높은 효과만 적용",
             "Indonesian": "Pengurangan P. DMG +{3,num/100}% (Hanya berlaku jika lebih kuat dari Buff/Debuff pada atribut yang sama saat ini.)",
             "POR": "+{3,num/100}% de Redução de Dano F. (Só se + forte que o buff/penalidade atual no mesmo atributo.)",
-            "German": "P. DMG Reduktion +{3,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf dasselbe Attribut.)"
+            "German": "P. DMG-Reduktion +{3,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf demselben Attribut.)"
         },
         {
             "字符串": "BUFFAttribute_mName_100175",
@@ -5233,7 +5233,7 @@
             "Korean": "물리 피해 감소",
             "Indonesian": "Pengurangan P. DMG",
             "POR": "Redução de Dano F.",
-            "German": "P. DMG Reduktion"
+            "German": "P. DMG-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_100175",
@@ -5248,7 +5248,7 @@
             "Korean": "물리 피해 감소 +{3,num/100}%, 동일 유형 효과 중 가장 높은 효과만 적용",
             "Indonesian": "Pengurangan P. DMG +{3,num/100}% (Hanya berlaku jika lebih kuat dari Buff/Debuff pada atribut yang sama saat ini.)",
             "POR": "+{3,num/100}% de Redução de Dano F. (Só se + forte que o buff/penalidade atual no mesmo atributo.)",
-            "German": "P. DMG Reduktion +{3,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf dasselbe Attribut.)"
+            "German": "P. DMG-Reduktion +{3,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf demselben Attribut.)"
         },
         {
             "字符串": "BUFFAttribute_mName_100176",
@@ -5263,7 +5263,7 @@
             "Korean": "물리 피해 감소",
             "Indonesian": "Pengurangan P. DMG",
             "POR": "Redução de Dano F.",
-            "German": "P. DMG Reduktion"
+            "German": "P. DMG-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_100176",
@@ -5278,7 +5278,7 @@
             "Korean": "물리 피해 감소 +{3,num/100}%, 동일 유형 효과 중 가장 높은 효과만 적용",
             "Indonesian": "Pengurangan P. DMG +{3,num/100}% (Hanya berlaku jika lebih kuat dari Buff/Debuff pada atribut yang sama saat ini.)",
             "POR": "+{3,num/100}% de Redução de Dano F. (Só se + forte que o buff/penalidade atual no mesmo atributo.)",
-            "German": "P. DMG Reduktion +{3,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf dasselbe Attribut.)"
+            "German": "P. DMG-Reduktion +{3,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf demselben Attribut.)"
         },
         {
             "字符串": "BUFFAttribute_mName_100177",
@@ -5293,7 +5293,7 @@
             "Korean": "물리 피해 감소",
             "Indonesian": "Pengurangan P. DMG",
             "POR": "Redução de Dano F.",
-            "German": "P. DMG Reduktion"
+            "German": "P. DMG-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_100177",
@@ -5308,7 +5308,7 @@
             "Korean": "물리 피해 감소 +{3,num/100}%, 동일 유형 효과 중 가장 높은 효과만 적용",
             "Indonesian": "Pengurangan P. DMG +{3,num/100}% (Hanya berlaku jika lebih kuat dari Buff/Debuff pada atribut yang sama saat ini.)",
             "POR": "+{3,num/100}% de Redução de Dano F. (Só se + forte que o buff/penalidade atual no mesmo atributo.)",
-            "German": "P. DMG Reduktion +{3,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf dasselbe Attribut.)"
+            "German": "P. DMG-Reduktion +{3,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf demselben Attribut.)"
         },
         {
             "字符串": "BUFFAttribute_mName_100178",
@@ -5323,7 +5323,7 @@
             "Korean": "물리 피해 감소",
             "Indonesian": "Pengurangan P. DMG",
             "POR": "Redução de Dano F.",
-            "German": "P. DMG Reduktion"
+            "German": "P. DMG-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_100178",
@@ -5338,7 +5338,7 @@
             "Korean": "물리 피해 감소 +{3,num/100}%, 동일 유형 효과 중 가장 높은 효과만 적용",
             "Indonesian": "Pengurangan P. DMG +{3,num/100}% (Hanya berlaku jika lebih kuat dari Buff/Debuff pada atribut yang sama saat ini.)",
             "POR": "+{3,num/100}% de Redução de Dano F. (Só se + forte que o buff/penalidade atual no mesmo atributo.)",
-            "German": "P. DMG Reduktion +{3,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf dasselbe Attribut.)"
+            "German": "P. DMG-Reduktion +{3,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf demselben Attribut.)"
         },
         {
             "字符串": "BUFFAttribute_mName_100179",
@@ -5353,7 +5353,7 @@
             "Korean": "마법 피해 감소",
             "Indonesian": "Pengurangan M. DMG",
             "POR": "Redução de Dano M.",
-            "German": "M. DMG Reduktion"
+            "German": "M. DMG-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_100179",
@@ -5368,7 +5368,7 @@
             "Korean": "마법 피해 감소 +{6,num/100}%, 동일 유형 효과 중 가장 높은 효과만 적용",
             "Indonesian": "Pengurangan M. DMG +{6,num/100}% (Hanya berlaku jika lebih kuat dari Buff/Debuff pada atribut yang sama saat ini.)",
             "POR": "+{6,num/100}% de Redução de Dano M. (Só se + forte que o buff/penalidade atual no mesmo atributo.)",
-            "German": "M. DMG Reduktion +{6,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf dasselbe Attribut.)"
+            "German": "M. DMG-Reduktion +{6,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf demselben Attribut.)"
         },
         {
             "字符串": "BUFFAttribute_mName_100180",
@@ -5383,7 +5383,7 @@
             "Korean": "마법 피해 감소",
             "Indonesian": "Pengurangan M. DMG",
             "POR": "Redução de Dano M.",
-            "German": "M. DMG Reduktion"
+            "German": "M. DMG-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_100180",
@@ -5398,7 +5398,7 @@
             "Korean": "마법 피해 감소 +{6,num/100}%, 동일 유형 효과 중 가장 높은 효과만 적용",
             "Indonesian": "Pengurangan M. DMG +{6,num/100}% (Hanya berlaku jika lebih kuat dari Buff/Debuff pada atribut yang sama saat ini.)",
             "POR": "+{6,num/100}% de Redução de Dano M. (Só se + forte que o buff/penalidade atual no mesmo atributo.)",
-            "German": "M. DMG Reduktion +{6,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf dasselbe Attribut.)"
+            "German": "M. DMG-Reduktion +{6,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf demselben Attribut.)"
         },
         {
             "字符串": "BUFFAttribute_mName_100181",
@@ -5413,7 +5413,7 @@
             "Korean": "마법 피해 감소",
             "Indonesian": "Pengurangan M. DMG",
             "POR": "Redução de Dano M.",
-            "German": "M. DMG Reduktion"
+            "German": "M. DMG-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_100181",
@@ -5428,7 +5428,7 @@
             "Korean": "마법 피해 감소 +{6,num/100}%, 동일 유형 효과 중 가장 높은 효과만 적용",
             "Indonesian": "Pengurangan M. DMG +{6,num/100}% (Hanya berlaku jika lebih kuat dari Buff/Debuff pada atribut yang sama saat ini.)",
             "POR": "+{6,num/100}% de Redução de Dano M. (Só se + forte que o buff/penalidade atual no mesmo atributo.)",
-            "German": "M. DMG Reduktion +{6,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf dasselbe Attribut.)"
+            "German": "M. DMG-Reduktion +{6,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf demselben Attribut.)"
         },
         {
             "字符串": "BUFFAttribute_mName_100182",
@@ -5443,7 +5443,7 @@
             "Korean": "마법 피해 감소",
             "Indonesian": "Pengurangan M. DMG",
             "POR": "Redução de Dano M.",
-            "German": "M. DMG Reduktion"
+            "German": "M. DMG-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_100182",
@@ -5458,7 +5458,7 @@
             "Korean": "마법 피해 감소 +{6,num/100}%, 동일 유형 효과 중 가장 높은 효과만 적용",
             "Indonesian": "Pengurangan M. DMG +{6,num/100}% (Hanya berlaku jika lebih kuat dari Buff/Debuff pada atribut yang sama saat ini.)",
             "POR": "+{6,num/100}% de Redução de Dano M. (Só se + forte que o buff/penalidade atual no mesmo atributo.)",
-            "German": "M. DMG Reduktion +{6,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf dasselbe Attribut.)"
+            "German": "M. DMG-Reduktion +{6,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf demselben Attribut.)"
         },
         {
             "字符串": "BUFFAttribute_mName_100183",
@@ -5473,7 +5473,7 @@
             "Korean": "마법 피해 감소",
             "Indonesian": "Pengurangan M. DMG",
             "POR": "Redução de Dano M.",
-            "German": "M. DMG Reduktion"
+            "German": "M. DMG-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_100183",
@@ -5488,7 +5488,7 @@
             "Korean": "마법 피해 감소 +{6,num/100}%, 동일 유형 효과 중 가장 높은 효과만 적용",
             "Indonesian": "Pengurangan M. DMG +{6,num/100}% (Hanya berlaku jika lebih kuat dari Buff/Debuff pada atribut yang sama saat ini.)",
             "POR": "+{6,num/100}% de Redução de Dano M. (Só se + forte que o buff/penalidade atual no mesmo atributo.)",
-            "German": "M. DMG Reduktion +{6,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf dasselbe Attribut.)"
+            "German": "M. DMG-Reduktion +{6,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf demselben Attribut.)"
         },
         {
             "字符串": "BUFFAttribute_mName_100184",
@@ -5503,7 +5503,7 @@
             "Korean": "마법 피해 감소",
             "Indonesian": "Pengurangan M. DMG",
             "POR": "Redução de Dano M.",
-            "German": "M. DMG Reduktion"
+            "German": "M. DMG-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_100184",
@@ -5518,7 +5518,7 @@
             "Korean": "마법 피해 감소 +{6,num/100}%, 동일 유형 효과 중 가장 높은 효과만 적용",
             "Indonesian": "Pengurangan M. DMG +{6,num/100}% (Hanya berlaku jika lebih kuat dari Buff/Debuff pada atribut yang sama saat ini.)",
             "POR": "+{6,num/100}% de Redução de Dano M. (Só se + forte que o buff/penalidade atual no mesmo atributo.)",
-            "German": "M. DMG Reduktion +{6,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf dasselbe Attribut.)"
+            "German": "M. DMG-Reduktion +{6,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf demselben Attribut.)"
         },
         {
             "字符串": "BUFFAttribute_mName_100185",
@@ -5533,7 +5533,7 @@
             "Korean": "마법 피해 감소",
             "Indonesian": "Pengurangan M. DMG",
             "POR": "Redução de Dano M.",
-            "German": "M. DMG Reduktion"
+            "German": "M. DMG-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_100185",
@@ -5548,7 +5548,7 @@
             "Korean": "마법 피해 감소 +{6,num/100}%, 동일 유형 효과 중 가장 높은 효과만 적용",
             "Indonesian": "Pengurangan M. DMG +{6,num/100}% (Hanya berlaku jika lebih kuat dari Buff/Debuff pada atribut yang sama saat ini.)",
             "POR": "+{6,num/100}% de Redução de Dano M. (Só se + forte que o buff/penalidade atual no mesmo atributo.)",
-            "German": "M. DMG Reduktion +{6,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf dasselbe Attribut.)"
+            "German": "M. DMG-Reduktion +{6,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf demselben Attribut.)"
         },
         {
             "字符串": "BUFFAttribute_mName_100186",
@@ -5563,7 +5563,7 @@
             "Korean": "마법 피해 감소",
             "Indonesian": "Pengurangan M. DMG",
             "POR": "Redução de Dano M.",
-            "German": "M. DMG Reduktion"
+            "German": "M. DMG-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_100186",
@@ -5578,7 +5578,7 @@
             "Korean": "마법 피해 감소 +{6,num/100}%, 동일 유형 효과 중 가장 높은 효과만 적용",
             "Indonesian": "Pengurangan M. DMG +{6,num/100}% (Hanya berlaku jika lebih kuat dari Buff/Debuff pada atribut yang sama saat ini.)",
             "POR": "+{6,num/100}% de Redução de Dano M. (Só se + forte que o buff/penalidade atual no mesmo atributo.)",
-            "German": "M. DMG Reduktion +{6,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf dasselbe Attribut.)"
+            "German": "M. DMG-Reduktion +{6,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf demselben Attribut.)"
         },
         {
             "字符串": "BUFFAttribute_mName_100187",
@@ -5593,7 +5593,7 @@
             "Korean": "마법 피해 감소",
             "Indonesian": "Pengurangan M. DMG",
             "POR": "Redução de Dano M.",
-            "German": "M. DMG Reduktion"
+            "German": "M. DMG-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_100187",
@@ -5608,7 +5608,7 @@
             "Korean": "마법 피해 감소 +{6,num/100}%, 동일 유형 효과 중 가장 높은 효과만 적용",
             "Indonesian": "Pengurangan M. DMG +{6,num/100}% (Hanya berlaku jika lebih kuat dari Buff/Debuff pada atribut yang sama saat ini.)",
             "POR": "+{6,num/100}% de Redução de Dano M. (Só se + forte que o buff/penalidade atual no mesmo atributo.)",
-            "German": "M. DMG Reduktion +{6,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf dasselbe Attribut.)"
+            "German": "M. DMG-Reduktion +{6,num/100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf demselben Attribut.)"
         },
         {
             "字符串": "BUFFAttribute_mName_100188",
@@ -5623,7 +5623,7 @@
             "Korean": "공격 속도 상승",
             "Indonesian": "Peningkatan ATK Spd.",
             "POR": "Aumento de Vel. de ATQ",
-            "German": "ANG-Geschw. Erhöhung"
+            "German": "ANG-Geschw.-Erhöhung"
         },
         {
             "字符串": "BUFFAttribute_mTips_100188",
@@ -5653,7 +5653,7 @@
             "Korean": "공격 속도 상승",
             "Indonesian": "Peningkatan ATK Spd.",
             "POR": "Aumento de Vel. de ATQ",
-            "German": "ANG-Geschw. Erhöhung"
+            "German": "ANG-Geschw.-Erhöhung"
         },
         {
             "字符串": "BUFFAttribute_mTips_100189",
@@ -5683,7 +5683,7 @@
             "Korean": "공격 속도 상승",
             "Indonesian": "Peningkatan ATK Spd.",
             "POR": "Aumento de Vel. de ATQ",
-            "German": "ANG-Geschw. Erhöhung"
+            "German": "ANG-Geschw.-Erhöhung"
         },
         {
             "字符串": "BUFFAttribute_mTips_100190",
@@ -6133,7 +6133,7 @@
             "Korean": "공격 속도 상승",
             "Indonesian": "Peningkatan ATK Spd.",
             "POR": "Aumento de Vel. de ATQ",
-            "German": "ANG-Geschw. Erhöhung"
+            "German": "ANG-Geschw.-Erhöhung"
         },
         {
             "字符串": "BUFFAttribute_mTips_100205",
@@ -6978,17 +6978,17 @@
         {
             "字符串": "BUFFAttribute_mName_100234",
             "CN": "攻击间隔降低",
-            "EN": "ATK Interval Decrease",
+            "EN": "ATK Interval Reduction",
             "Russian": "Уменьшение интервала АТК",
-            "Japan": "攻撃間隔減少",
-            "Italian": "Diminuzione intervallo di ATK",
+            "Japan": "攻撃間隔短縮",
+            "Italian": "Riduzione dell'intervallo di ATK",
             "CNTraditional": "攻擊間隔降低",
             "Spanish": "Reducción del intervalo de ataque",
             "French": "Réduction de l'intervalle d'ATQ",
             "Korean": "공격 간격 감소",
             "Indonesian": "Pengurangan Interval ATK",
-            "POR": "Redução de Intervalo de ATQ",
-            "German": "ANG-Intervall Verringerung"
+            "POR": "Redução do Intervalo de ATQ",
+            "German": "ANG-Intervall-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_100234",
@@ -7008,17 +7008,17 @@
         {
             "字符串": "BUFFAttribute_mName_100235",
             "CN": "攻击间隔降低",
-            "EN": "ATK Interval Decrease",
+            "EN": "ATK Interval Reduction",
             "Russian": "Уменьшение интервала АТК",
-            "Japan": "攻撃間隔減少",
-            "Italian": "Diminuzione intervallo di ATK",
+            "Japan": "攻撃間隔短縮",
+            "Italian": "Riduzione dell'intervallo di ATK",
             "CNTraditional": "攻擊間隔降低",
             "Spanish": "Reducción del intervalo de ataque",
             "French": "Réduction de l'intervalle d'ATQ",
             "Korean": "공격 간격 감소",
             "Indonesian": "Pengurangan Interval ATK",
-            "POR": "Redução de Intervalo de ATQ",
-            "German": "ANG-Intervall Verringerung"
+            "POR": "Redução do Intervalo de ATQ",
+            "German": "ANG-Intervall-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_100235",
@@ -7038,17 +7038,17 @@
         {
             "字符串": "BUFFAttribute_mName_100236",
             "CN": "攻击间隔降低",
-            "EN": "ATK Interval Decrease",
+            "EN": "ATK Interval Reduction",
             "Russian": "Уменьшение интервала АТК",
-            "Japan": "攻撃間隔減少",
-            "Italian": "Diminuzione intervallo di ATK",
+            "Japan": "攻撃間隔短縮",
+            "Italian": "Riduzione dell'intervallo di ATK",
             "CNTraditional": "攻擊間隔降低",
             "Spanish": "Reducción del intervalo de ataque",
             "French": "Réduction de l'intervalle d'ATQ",
             "Korean": "공격 간격 감소",
             "Indonesian": "Pengurangan Interval ATK",
-            "POR": "Redução de Intervalo de ATQ",
-            "German": "ANG-Intervall Verringerung"
+            "POR": "Redução do Intervalo de ATQ",
+            "German": "ANG-Intervall-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_100236",
@@ -8709,7 +8709,7 @@
             "Italian": "Ignora un {4,num/100}% di DEF e RES M. (si applica solo quando è maggiore dell'attuale buff/debuff dello stesso attributo)",
             "CNTraditional": "無視{4,num/100}%的防禦和魔法抗性，同類型的效果中只會保留最高效果",
             "Spanish": "Ignora un {4,num/100} % de la defensa y la resistencia mágica. Solo se aplicará el porcentaje más elevado del mismo efecto.",
-            "French": "Ignore {4,num/100} % de la DÉF et la Rés. M. (Prend seulement effet si plus puissant que le bonus/malus actuel sur le même attribut.)",
+            "French": "Ignore {4,num/100} % de la DÉF et de la Rés. M. (Prend seulement effet si plus puissant que le bonus/malus actuel sur le même attribut.)",
             "Korean": "방어력 및 마법 저항 {4,num/100}% 무시, 동일 유형 효과 중 가장 높은 효과만 적용",
             "Indonesian": "Mengabaikan {4,num/100}% DEF dan M. RES. (Efek hanya diterapkan saat lebih kuat dari buff/debuff saat ini pada atribut yang sama.)",
             "POR": "Ignora {4,num/100}% de DEF e RES. M. (Entra em efeito apenas quando mais forte que o bônus/penalidade atual no mesmo atributo.)",
@@ -9268,7 +9268,7 @@
             "Korean": "치명타 피해 감소",
             "Indonesian": "Pengurangan Crit. DMG",
             "POR": "Redução de Dano Crít.",
-            "German": "Krit. DMG Reduktion"
+            "German": "Krit. DMG-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_200019",
@@ -9298,7 +9298,7 @@
             "Korean": "치명타 피해 감소",
             "Indonesian": "Pengurangan Crit. DMG",
             "POR": "Redução de Dano Crít.",
-            "German": "Krit. DMG Reduktion"
+            "German": "Krit. DMG-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_200020",
@@ -9328,7 +9328,7 @@
             "Korean": "치명타 피해 감소",
             "Indonesian": "Pengurangan Crit. DMG",
             "POR": "Redução de Dano Crít.",
-            "German": "Krit. DMG Reduktion"
+            "German": "Krit. DMG-Reduktion"
         },
         {
             "字符串": "BUFFAttribute_mTips_200021",
@@ -12331,7 +12331,7 @@
             "German": "Betäubt. Unfähig, Aktionen durchzuführen oder sich zurückzuziehen."
         },
         {
-            "字符串": "BUFFAttribute_mName_200326",
+            "字符串": "BUFFAttribute_mName_200235",
             "CN": "中毒",
             "EN": "Poison",
             "Russian": "Яд",
@@ -12346,16 +12346,16 @@
             "German": "Gift"
         },
         {
-            "字符串": "BUFFAttribute_mTips_200326",
+            "字符串": "BUFFAttribute_mTips_200235",
             "CN": "每秒造成3%最大生命值的持续性魔法伤害，可以驱散",
             "EN": "Deals continuous M. DMG equal to 3% Max HP per sec. Can be dispelled.",
             "Russian": "Наносит постоянный маг. УРН, равный 3% макс. ОЗ в сек. Можно рассеять.",
             "Japan": "1秒ごとに最大HPの3%分の魔法ダメージを与える。この効果は解除できる。",
-            "Italian": "Infligge DMG M. continuo pari al 3% degli HP max al sec. Può essere dissipato.",
+            "Italian": "Infligge DMG M. continuo pari al 3% degli HP max al sec. Si può dissipare.",
             "CNTraditional": "每秒造成3%最大生命值的持續性魔法傷害（可被驅散）",
             "Spanish": "Inflige daño mágico continuo equivalente a un 3 % de la vida máxima por segundo. Se puede disipar.",
             "French": "Inflige des DGT M. continus égaux à 3 % des PV max par seconde. Cet effet peut être dissipé.",
-            "Korean": "매초 최대 HP의 3%에 해당하는 지속 마법 피해를 입힌다. 제거 가능.",
+            "Korean": "초당 최대 HP의 3%만큼 지속 마법 피해를 입힌다. 제거 가능.",
             "Indonesian": "Memberikan M. DMG secara terus-menerus sebesar 3% Max HP setiap detik. Dapat dihilangkan.",
             "POR": "Causa Dano M. contínuo igual a 3% do HP Máx. por seg. Pode ser dissipado.",
             "German": "Verursacht pro Sek. kontinuierlichen M. DMG in Höhe von 3% der Max. LP. Kann entfernt werden."
@@ -12478,7 +12478,7 @@
             "Korean": "공격 속도 증가",
             "Indonesian": "Peningkatan ATK Spd.",
             "POR": "Aumento de Vel. de ATQ",
-            "German": "ANG-Geschw. Erhöhung"
+            "German": "ANG-Geschw.-Erhöhung"
         },
         {
             "字符串": "BUFFAttribute_mTips_300004",
@@ -13173,7 +13173,7 @@
         {
             "字符串": "BUFFAttribute_mTips_320420",
             "CN": "每层提高3%攻击和防御，最多获得5层",
-            "EN": "Increases ATK and DEF by 3%, stacking up to 5 times.",
+            "EN": "Increases ATK and DEF by 3% per stack, up to 5 times.",
             "Russian": "Увеличивает АТК и ЗАЩ на 3%, складывается до 5 раз.",
             "Japan": "攻撃力と防御力が3%増加し、最大5スタック。",
             "Italian": "Aumenta ATK e DEF del 3% (fino a 5 accumuli).",
@@ -13203,7 +13203,7 @@
         {
             "字符串": "BUFFAttribute_mTips_320421",
             "CN": "每层提高6%攻击和防御，最多获得5层",
-            "EN": "Increases ATK and DEF by 6%, stacking up to 5 times.",
+            "EN": "Increases ATK and DEF by 6% per stack, up to 5 times.",
             "Russian": "Увеличивает АТК и ЗАЩ на 6%, складывается до 5 раз.",
             "Japan": "攻撃力と防御力が6%増加し、最大5スタック。",
             "Italian": "Aumenta ATK e DEF del 6% (fino a 5 accumuli).",
@@ -14433,16 +14433,16 @@
         {
             "字符串": "BUFFAttribute_mTips_321800",
             "CN": "造成{27,num}%伤害且无视目标{4,num/100}%防御",
-            "EN": "Deals {27,num}% DMG that ignores {4,num/100}% of the target's DEF",
-            "Russian": "Наносит {27,num}% урона, игнорируя {4,num/100}% ЗАЩ цели",
-            "Japan": "対象の防御力の{4,num/100}%を無視して、{27,num}%のダメージを与える。",
-            "Italian": "Infligge un {27,num}% di DMG che ignora un {4,num/100}% della DEF del bersaglio",
+            "EN": "Deals {27,num}% DMG that ignores {4,num/100}% of the target's DEF.",
+            "Russian": "Наносит {27,num}% УРН, который игнорирует {4,num/100}% ЗАЩ цели.",
+            "Japan": "対象の防御力の{4,num/100}%を無視して、{27,num}%のダメージを与えます。",
+            "Italian": "Infligge un {27,num}% di DMG che ignora un {4,num/100}% della DEF del bersaglio.",
             "CNTraditional": "造成{27,num}%的傷害，且無視目標{4,num/100}%的防禦",
             "Spanish": "Inflige un {27,num} % de daño que ignora un {4,num/100} % de la defensa del objetivo.",
-            "French": "Inflige {27,num} % de DGT ignorant {4,num/100} % de la DÉF de la cible",
+            "French": "Inflige {27,num} % de DGT ignorant {4,num/100} % de la DÉF de la cible.",
             "Korean": "피해 {27,num}% 감소 및 대상의 방어 {4,num/100}% 무시",
-            "Indonesian": "Memberikan {27,num}% DMG yang mengabaikan {4,num/100}% DEF target",
-            "POR": "Causa {27,num}% de Dano que ignora {4,num/100}% da Defesa do alvo",
+            "Indonesian": "Memberikan {27,num}% DMG yang mengabaikan {4,num/100}% DEF target.",
+            "POR": "Causa {27,num}% de Dano que ignora {4,num/100}% da Defesa do alvo.",
             "German": "Fügt {27,num}% DMG zu, der {4,num/100}% der VERT des Ziels ignoriert."
         },
         {
@@ -14463,16 +14463,16 @@
         {
             "字符串": "BUFFAttribute_mTips_321801",
             "CN": "造成{27,num}%伤害且无视目标{4,num/100}%防御",
-            "EN": "Deals {27,num}% DMG that ignores {4,num/100}% of the target's DEF",
-            "Russian": "Наносит {27,num}% урона, игнорируя {4,num/100}% ЗАЩ цели",
-            "Japan": "対象の防御力の{4,num/100}%を無視して、{27,num}%のダメージを与える。",
-            "Italian": "Infligge un {27,num}% di DMG che ignora un {4,num/100}% della DEF del bersaglio",
+            "EN": "Deals {27,num}% DMG that ignores {4,num/100}% of the target's DEF.",
+            "Russian": "Наносит {27,num}% УРН, который игнорирует {4,num/100}% ЗАЩ цели.",
+            "Japan": "対象の防御力の{4,num/100}%を無視して、{27,num}%のダメージを与えます。",
+            "Italian": "Infligge un {27,num}% di DMG che ignora un {4,num/100}% della DEF del bersaglio.",
             "CNTraditional": "造成{27,num}%的傷害，且無視目標{4,num/100}%的防禦",
             "Spanish": "Inflige un {27,num} % de daño que ignora un {4,num/100} % de la defensa del objetivo.",
-            "French": "Inflige {27,num} % de DGT ignorant {4,num/100} % de la DÉF de la cible",
+            "French": "Inflige {27,num} % de DGT ignorant {4,num/100} % de la DÉF de la cible.",
             "Korean": "피해 {27,num}% 감소 및 대상의 방어 {4,num/100}% 무시",
-            "Indonesian": "Memberikan {27,num}% DMG yang mengabaikan {4,num/100}% DEF target",
-            "POR": "Causa {27,num}% de Dano que ignora {4,num/100}% da Defesa do alvo",
+            "Indonesian": "Memberikan {27,num}% DMG yang mengabaikan {4,num/100}% DEF target.",
+            "POR": "Causa {27,num}% de Dano que ignora {4,num/100}% da Defesa do alvo.",
             "German": "Fügt {27,num}% DMG zu, der {4,num/100}% der VERT des Ziels ignoriert."
         },
         {
@@ -15013,7 +15013,7 @@
             "Korean": "물리 피해 감소가 {30,num}% 증가한다. 매초 주변 적에게 시전자 공격력 {31,num}%의 범위 마법 피해를 입힌다. 공중에 있는 대상에겐 피해가 반감된다.",
             "Indonesian": "Meningkatkan Pengurangan P. DMG sebesar {30,num}% dan memberikan M. DMG Area Efek setara {31,num}% ATK pengguna Skill ke penerima efek dan lawan di sekitar setiap detik. Unit di udara hanya menerima setengah dari DMG.",
             "POR": "Aumenta a Redução de Dano F. em {30,num}% e causa Dano Mágico em Área igual a {31,num}% do ATQ aos inimigos próximos por segundo. Inimigos no ar recebem metade do Dano.",
-            "German": "Erhöht die P. DMG Reduktion um {30,num}% und verursacht pro Sek. M. AoE-DMG in Höhe von {31,num}% des ANG bei Gegnern in der Nähe. Einheiten in der Luft erleiden stattdessen die Hälfte des DMG."
+            "German": "Erhöht die P. DMG-Reduktion um {30,num}% und verursacht pro Sek. M. AoE-DMG in Höhe von {31,num}% des ANG am Effektträger und an Gegnern in der Nähe. Der DMG wird gegen Einheiten in der Luft halbiert."
         },
         {
             "字符串": "BUFFAttribute_mName_321883",
@@ -15043,7 +15043,7 @@
             "Korean": "물리 피해 감소가 {30,num}% 증가한다. 매초 주변 적에게 시전자 공격력 {31,num}%의 범위 마법 피해를 입힌다. 공중에 있는 대상에겐 피해가 반감된다.",
             "Indonesian": "Meningkatkan Pengurangan P. DMG sebesar {30,num}% dan memberikan M. DMG Area Efek setara {31,num}% ATK pengguna Skill ke penerima efek dan lawan di sekitar setiap detik. Unit di udara hanya menerima setengah dari DMG.",
             "POR": "Aumenta a Redução de Dano F. em {30,num}% e causa Dano Mágico em Área igual a {31,num}% do ATQ aos inimigos próximos por segundo. Inimigos no ar recebem metade do Dano.",
-            "German": "Erhöht die P. DMG Reduktion um {30,num}% und verursacht pro Sek. M. AoE-DMG in Höhe von {31,num}% des ANG bei Gegnern in der Nähe. Einheiten in der Luft erleiden stattdessen die Hälfte des DMG."
+            "German": "Erhöht die P. DMG-Reduktion um {30,num}% und verursacht pro Sek. M. AoE-DMG in Höhe von {31,num}% des ANG an Gegnern in der Nähe. Der DMG wird gegen Einheiten in der Luft halbiert."
         },
         {
             "字符串": "BUFFAttribute_mName_321884",
@@ -15073,7 +15073,7 @@
             "Korean": "물리 피해 감소가 {30,num}% 증가한다. 매초 주변 적에게 시전자 공격력 {31,num}%의 범위 마법 피해를 입힌다. 공중에 있는 대상에겐 피해가 반감된다.",
             "Indonesian": "Meningkatkan Pengurangan P. DMG sebesar {30,num}% dan memberikan M. DMG Area Efek setara {31,num}% ATK pengguna Skill ke penerima efek dan lawan di sekitar setiap detik. Unit di udara hanya menerima setengah dari DMG.",
             "POR": "Aumenta a Redução de Dano F. em {30,num}% e causa Dano Mágico em Área igual a {31,num}% do ATQ aos inimigos próximos por segundo. Inimigos no ar recebem metade do Dano.",
-            "German": "Erhöht die P. DMG Reduktion um {30,num}% und verursacht pro Sek. M. AoE-DMG in Höhe von {31,num}% des ANG bei Gegnern in der Nähe. Einheiten in der Luft erleiden stattdessen die Hälfte des DMG."
+            "German": "Erhöht die P. DMG-Reduktion um {30,num}% und verursacht pro Sek. M. AoE-DMG in Höhe von {31,num}% des ANG an Gegnern in der Nähe. Der DMG wird gegen Einheiten in der Luft halbiert."
         },
         {
             "字符串": "BUFFAttribute_mName_321885",
@@ -15103,7 +15103,7 @@
             "Korean": "물리 피해 감소가 {30,num}% 증가한다. 매초 주변 적에게 시전자 공격력 {31,num}%의 범위 마법 피해를 입힌다. 공중에 있는 대상에겐 피해가 반감된다.",
             "Indonesian": "Meningkatkan Pengurangan P. DMG sebesar {30,num}% dan memberikan M. DMG Area Efek setara {31,num}% ATK pengguna Skill ke penerima efek dan lawan di sekitar setiap detik. Unit di udara hanya menerima setengah dari DMG.",
             "POR": "Aumenta a Redução de Dano F. em {30,num}% e causa Dano Mágico em Área igual a {31,num}% do ATQ aos inimigos próximos por segundo. Inimigos no ar recebem metade do Dano.",
-            "German": "Erhöht die P. DMG Reduktion um {30,num}% und verursacht pro Sek. M. AoE-DMG in Höhe von {31,num}% des ANG bei Gegnern in der Nähe. Einheiten in der Luft erleiden stattdessen die Hälfte des DMG."
+            "German": "Erhöht die P. DMG-Reduktion um {30,num}% und verursacht pro Sek. M. AoE-DMG in Höhe von {31,num}% des ANG an Gegnern in der Nähe. Der DMG wird gegen Einheiten in der Luft halbiert."
         },
         {
             "字符串": "BUFFAttribute_mName_321886",
@@ -15133,7 +15133,7 @@
             "Korean": "물리 피해 감소가 {30,num}% 증가한다. 매초 주변 적에게 시전자 공격력 {31,num}%의 범위 마법 피해를 입힌다. 공중에 있는 대상에겐 피해가 반감된다.",
             "Indonesian": "Meningkatkan Pengurangan P. DMG sebesar {30,num}% dan memberikan M. DMG Area Efek setara {31,num}% ATK pengguna Skill ke penerima efek dan lawan di sekitar setiap detik. Unit di udara hanya menerima setengah dari DMG.",
             "POR": "Aumenta a Redução de Dano F. em {30,num}% e causa Dano Mágico em Área igual a {31,num}% do ATQ aos inimigos próximos por segundo. Inimigos no ar recebem metade do Dano.",
-            "German": "Erhöht die P. DMG Reduktion um {30,num}% und verursacht pro Sek. M. AoE-DMG in Höhe von {31,num}% des ANG bei Gegnern in der Nähe. Einheiten in der Luft erleiden stattdessen die Hälfte des DMG."
+            "German": "Erhöht die P. DMG-Reduktion um {30,num}% und verursacht pro Sek. M. AoE-DMG in Höhe von {31,num}% des ANG an Gegnern in der Nähe. Der DMG wird gegen Einheiten in der Luft halbiert."
         },
         {
             "字符串": "BUFFAttribute_mName_321900",
@@ -15353,7 +15353,7 @@
             "Japan": "クリスタルボムの種",
             "Italian": "Seme di Bomba di cristallo",
             "CNTraditional": "冰晶炸彈種子",
-            "Spanish": "Semilla de bomba de hielo",
+            "Spanish": "Semilla de bomba de cristal",
             "French": "Graine de bombe de cristal",
             "Korean": "눈꽃 폭탄 씨앗",
             "Indonesian": "Seed of Crystal Bomb",
@@ -15368,7 +15368,7 @@
             "Japan": "10秒後にクリスタルボムに変化する。",
             "Italian": "Diventa una Bomba di cristallo dopo 10 sec.",
             "CNTraditional": "成長10秒後，變成冰晶炸彈",
-            "Spanish": "Se convierte en una bomba de escarcha después de 10 segundos.",
+            "Spanish": "Se convierte en una bomba de cristal después de 10 segundos.",
             "French": "Devient une bombe de cristal après 10 s.",
             "Korean": "10초 성장 후 눈꽃 폭탄으로 변한다.",
             "Indonesian": "Berubah menjadi Crystal Bomb setelah 10 detik.",
@@ -15383,7 +15383,7 @@
             "Japan": "クリスタルボム",
             "Italian": "Bomba di cristallo",
             "CNTraditional": "冰晶炸彈",
-            "Spanish": "Bomba de escarcha",
+            "Spanish": "Bomba de cristal",
             "French": "Bombe de cristal",
             "Korean": "눈꽃 폭탄",
             "Indonesian": "Crystal Bomb",
@@ -15494,6 +15494,36 @@
             "Indonesian": "Saat menerima DMG mematikan, pengguna menggunakan Soul Essence dan menjadi Unyielding selama {29,num} detik.",
             "POR": "Ao receber Dano fatal, o portador consome a Essência da Alma e se torna Obstinado por {29,num}s.",
             "German": "Wenn der Träger tödlichen DMG erleidet, verbraucht er die Seelenessenz und wird für {29,num} Sek. unnachgiebig."
+        },
+        {
+            "字符串": "BUFFAttribute_mName_322011",
+            "CN": "灵魂之焰",
+            "EN": "Soul Flame",
+            "Russian": "Пламя души",
+            "Japan": "ソウルフレイム",
+            "Italian": "Fiamma dell'anima",
+            "CNTraditional": "靈魂之焰",
+            "Spanish": "Llama del alma",
+            "French": "Flamme d'âme",
+            "Korean": "영혼의 불꽃",
+            "Indonesian": "Soul Flame",
+            "POR": "Chama da Alma",
+            "German": "Seelenflamme"
+        },
+        {
+            "字符串": "BUFFAttribute_mTips_322011",
+            "CN": "携带者持续获得每秒怒气恢复{29,num}%和{30,num}%增伤。",
+            "EN": "The bearer continuously restores {29,num}% Rage per sec and gains {30,num}% DMG Increase.",
+            "Russian": "Носитель непрерывно восстанавливает {29,num}% ярости в секунду и получает {30,num}% повышения УРН.",
+            "Japan": "保有者は毎秒{29,num}%のレイジを継続的に回復し、{30,num}%のダメージ増加を得る。",
+            "Italian": "Il possessore ripristina continuamente un {29,num}% di rabbia al sec. e ottiene un aumento DMG di un {30,num}%.",
+            "CNTraditional": "攜帶者持續獲得每秒怒氣回復{29,num}%和{30,num}%增傷。",
+            "Spanish": "El portador restaura continuamente un {29,num} % de furia por segundo y obtiene un {30,num} % de aumento de daño.",
+            "French": "Le porteur régénère en continu {29,num} % de rage par seconde et obtient une augmentation de DGT de {30,num} %.",
+            "Korean": "소지자는 매초 분노 회복 {29,num}%와 피해 증가 {30,num}%를 지속적으로 획득한다.",
+            "Indonesian": "Pembawa terus memulihkan {29,num}% Rage per detik dan mendapatkan Peningkatan DMG sebesar {30,num}%.",
+            "POR": "O portador restaura continuamente {29,num}% de Fúria por seg. e recebe {30,num}% de Aumento de Dano.",
+            "German": "Der Träger stellt kontinuierlich {29,num}% Wut pro Sek. wieder her und erhält {30,num}% DMG-Erhöhung."
         },
         {
             "字符串": "BUFFAttribute_mName_322040",
@@ -16137,7 +16167,7 @@
             "French": "Vague puissante",
             "Korean": "차징",
             "Indonesian": "Potent Surge",
-            "POR": "Sobrecarregado",
+            "POR": "Surto Potente",
             "German": "Kraftvolle Welle"
         },
         {
@@ -16194,7 +16224,7 @@
             "Italian": "Raccolto di anime",
             "CNTraditional": "戮魂斬",
             "Spanish": "Siega de almas",
-            "French": "Récolte d'âmes",
+            "French": "Moisson d'âmes",
             "Korean": "멸혼참",
             "Indonesian": "Soulharvest",
             "POR": "Colheita de Almas",
@@ -16254,7 +16284,7 @@
             "Italian": "Raccolto di anime",
             "CNTraditional": "戮魂斬",
             "Spanish": "Siega de almas",
-            "French": "Récolte d'âmes",
+            "French": "Moisson d'âmes",
             "Korean": "멸혼참",
             "Indonesian": "Soulharvest",
             "POR": "Colheita de Almas",
@@ -16623,7 +16653,7 @@
         {
             "字符串": "BUFFAttribute_mTips_322300",
             "CN": "对1名敌人造成{29,num}%的伤害并对其周围最多5个敌人造成主目标{30,num}%的伤害。",
-            "EN": "Deals {29,num}% DMG to 1 enemy and spreads {30,num}% of DMG dealt to up to 5 nearby enemies.",
+            "EN": "Deals {29,num}% DMG to 1 enemy and {30,num}% of that DMG to up to 5 nearby enemies.",
             "Russian": "Наносит {29,num}% УРН 1 врагу и {30,num}% нанесенного УРН нескольким (до 5) врагам рядом.",
             "Japan": "敵1体に{29,num}%のダメージを与え、近くの最大5体の敵に与えたダメージの{30,num}%を拡散させる。",
             "Italian": "Infligge un {29,num}% di DMG a 1 nemico e distribuisce un {30,num}% dei DMG inflitti fino a 5 nemici vicini.",
@@ -16653,7 +16683,7 @@
         {
             "字符串": "BUFFAttribute_mTips_322301",
             "CN": "对1名敌人造成{29,num}%的伤害并对其周围最多5个敌人造成主目标{30,num}%的伤害。",
-            "EN": "Deals {29,num}% DMG to 1 enemy and spreads {30,num}% of DMG dealt to up to 5 nearby enemies.",
+            "EN": "Deals {29,num}% DMG to 1 enemy and {30,num}% of that DMG to up to 5 nearby enemies.",
             "Russian": "Наносит {29,num}% УРН 1 врагу и {30,num}% нанесенного УРН нескольким (до 5) врагам рядом.",
             "Japan": "敵1体に{29,num}%のダメージを与え、近くの最大5体の敵に与えたダメージの{30,num}%を拡散させる。",
             "Italian": "Infligge un {29,num}% di DMG a 1 nemico e distribuisce un {30,num}% dei DMG inflitti fino a 5 nemici vicini.",
@@ -17607,7 +17637,7 @@
             "French": "Armure de glace",
             "Korean": "서리 보호",
             "Indonesian": "Ice Armor",
-            "POR": "Armadura de Gelo",
+            "POR": "Armadura Glacial",
             "German": "Eisrüstung"
         },
         {
@@ -18762,7 +18792,7 @@
             "French": "Augmente les DGT de {29,num} % et réduit l'intervalle d'ATQ basique de {30,num} %. Chaque ATQ basique déclenche à coup sûr une poursuite. Pendant cet effet, il est impossible d'activer l'Ultime, de régénérer la rage ou de subir Damnation. Ne peut être dissipé.",
             "Korean": "피해가 {29,num}% 증가하고, 일반 공격 간격이 {30,num}% 감소하며, 일반 공격 후 석궁 추격이 반드시 발동된다. 궁극기를 사용할 수 없으며, 분노가 회복되지 않고, 마력 침식 상태를 획득할 수 없다. 제거 불가.",
             "Indonesian": "Meningkatkan {29,num}% DMG dan mengurangi {30,num}% Interval Basic ATK. Setiap Basic ATK dijamin akan mengaktifkan pengejaran. Selama efek berlangsung, tidak bisa mengaktifkan Ultimate, memulihkan Rage, atau terkena Damnation. Tidak bisa dihilangkan.",
-            "POR": "Aumenta Dano em {29,num}% e reduz o intervalo de ATQ Básico em {30,num}%. Cada ATQ Básico é garantido de acionar uma perseguição. Durante o efeito, não é possível ativar a Ultimate, restaurar Fúria ou ser infligido com Maldição. Não pode ser dissipado.",
+            "POR": "Aumenta Dano em {29,num}% e reduz o intervalo de ATQ Básico em {30,num}%. Cada ATQ Básico é garantido de acionar uma perseguição. Durante o efeito, não é possível ativar a Ultimate, restaurar Fúria ou ser infligido com Danação. Não pode ser dissipado.",
             "German": "Erhöht den DMG um {29,num}% und verringert das Grund-ANG-Intervall um {30,num}%. Jeder Grund-ANG löst garantiert eine Verfolgung aus. Während des Effekts kann der Ultimative Skill nicht aktiviert und die Wut nicht wiederhergestellt werden. Zudem ist es nicht möglich, mit Verdammnis belegt zu werden. Kann nicht entfernt werden."
         },
         {
@@ -18792,7 +18822,7 @@
             "French": "Augmente les DGT de {29,num} % et réduit l'intervalle d'ATQ basique de {30,num} %. Chaque ATQ basique déclenche à coup sûr une poursuite. Pendant cet effet, il est impossible d'activer l'Ultime, de régénérer la rage ou de subir Damnation. Ne peut être dissipé.",
             "Korean": "피해가 {29,num}% 증가하고, 일반 공격 간격이 {30,num}% 감소하며, 일반 공격 후 석궁 추격이 반드시 발동된다. 궁극기를 사용할 수 없으며, 분노가 회복되지 않고, 마력 침식 상태를 획득할 수 없다. 제거 불가.",
             "Indonesian": "Meningkatkan {29,num}% DMG dan mengurangi {30,num}% Interval Basic ATK. Setiap Basic ATK dijamin akan mengaktifkan pengejaran. Selama efek berlangsung, tidak bisa mengaktifkan Ultimate, memulihkan Rage, atau terkena Damnation. Tidak bisa dihilangkan.",
-            "POR": "Aumenta Dano em {29,num}% e reduz o intervalo de ATQ Básico em {30,num}%. Cada ATQ Básico é garantido de acionar uma perseguição. Durante o efeito, não é possível ativar a Ultimate, restaurar Fúria ou ser infligido com Maldição. Não pode ser dissipado.",
+            "POR": "Aumenta Dano em {29,num}% e reduz o intervalo de ATQ Básico em {30,num}%. Cada ATQ Básico é garantido de acionar uma perseguição. Durante o efeito, não é possível ativar a Ultimate, restaurar Fúria ou ser infligido com Danação. Não pode ser dissipado.",
             "German": "Erhöht den DMG um {29,num}% und verringert das Grund-ANG-Intervall um {30,num}%. Jeder Grund-ANG löst garantiert eine Verfolgung aus. Während des Effekts kann der Ultimative Skill nicht aktiviert und die Wut nicht wiederhergestellt werden. Zudem ist es nicht möglich, mit Verdammnis belegt zu werden. Kann nicht entfernt werden."
         },
         {
@@ -18807,7 +18837,7 @@
             "French": "Damnation",
             "Korean": "마력 침식",
             "Indonesian": "Damnation",
-            "POR": "Maldição",
+            "POR": "Danação",
             "German": "Verdammnis"
         },
         {
@@ -18822,7 +18852,7 @@
             "French": "L'intensité de la Damnation subie. Plus il y a de cumuls, plus Étreinte démoniaque approche. Ne peut être dissipé.",
             "Korean": "마력 침식의 정도와 스택 수가 높을수록, 마인화에 가까워진다. 제거 불가.",
             "Indonesian": "Intensitas Damnation yang diterima. Makin banyak jumlah stack, Demonic Embrace juga makin mudah tercapai. Tidak bisa dihilangkan.",
-            "POR": "A intensidade da Maldição recebida. Quanto maiores os acúmulos, mais perto fica do Amparo Demoníaco. Não pode ser dissipado.",
+            "POR": "A intensidade da Danação recebida. Quanto maiores os acúmulos, mais perto fica do Amparo Demoníaco. Não pode ser dissipado.",
             "German": "Die Intensität der erhaltenen Verdammnis. Je höher die Stapel, desto näher die Dämonische Umarmung. Kann nicht entfernt werden."
         },
         {
@@ -19193,7 +19223,7 @@
             "Japan": "棘の盾",
             "Italian": "Scudo di spine",
             "CNTraditional": "樹皮",
-            "Spanish": "Escudo espinoso",
+            "Spanish": "Escudo de espinas",
             "French": "Bouclier épineux",
             "Korean": "나무껍질",
             "Indonesian": "Thorned Shield",
@@ -20072,18 +20102,18 @@
         },
         {
             "字符串": "BUFFAttribute_mTips_322880",
-            "CN": "每{31,num}秒根据携带者最大生命值和施加者攻击力恢复生命，持续至少{29,num}秒。{29,num}秒后若携带者生命为{30,num}%，蝴蝶飞到周围1圈内的其他不满血的友方或施加者身边。携带者无法获得更多蝴蝶。不可被驱散。",
-            "EN": "Every {31,num} sec, restores HP based on the bearer's Max HP and the caster's ATK, lasting at least {29,num} sec. After {29,num} sec, if the bearer has {30,num}% HP, the butterfly flies to another adjacent injured ally or returns to the caster. Each bearer can have only 1 butterfly at a time (excluding the caster). Cannot be dispelled.",
-            "Russian": "Раз в {31,num} сек. восстанавливает ОЗ в зависимости от макс. ОЗ носителя и АТК заклинателя; действует не менее {29,num} сек. Если через {29,num} сек. у носителя {30,num}% ОЗ, бабочка улетит к другому соседнему раненому союзнику или вернется к заклинателю. Каждый носитель может иметь только 1 бабочку единовременно (за исключением заклинателя). Невозможно рассеять.",
-            "Japan": "{31,num}秒ごとに、保有者の最大HPと発動者の攻撃力に応じてHPを回復する。効果は少なくとも{29,num}秒間持続する。{29,num}秒後、保有者のHPが{30,num}%の場合、蝶は隣接する他の負傷した味方へ飛ぶか、発動者のもとへ戻る。各保有者は同時に蝶を1羽しか持てない（発動者を除く）。解除不可。",
-            "Italian": "Ogni {31,num} sec., ripristina HP in base agli HP max di chi lo possiede e all'ATK dell'incantatore, per almeno {29,num} sec. Dopo {29,num} sec., se chi lo possiede ha un {30,num}% di HP, la farfalla vola da un altro alleato ferito adiacente o ritorna all'incantatore. Ogni portatore può avere solo 1 farfalla alla volta (escluso l'incantatore). Non può essere dissipato.",
-            "CNTraditional": "每{31,num}秒根據攜帶者的最大生命值和施加者的攻擊力回復生命值，效果持續至少{29,num}秒。{29,num}秒後若攜帶者的生命值為{30,num}%，蝴蝶將會飛到周圍一圈內其他生命值未滿的友方或施加者身邊。攜帶者無法獲得更多蝴蝶。（無法被驅散）",
-            "Spanish": "Cada {31,num} segundo/s, restaura vida en función de la vida máxima del portador y el ataque de la lanzadora, durante al menos {29,num} segundo/s. Después de {29,num} segundo/s, si el portador tiene un {30,num} % de vida, la mariposa vuela hacia otro aliado herido adyacente o vuelve a la lanzadora. Cada portador solo puede tener una mariposa a la vez (excluyendo a la lanzadora). No se puede disipar.",
-            "French": "Toutes les {31,num} s, régénère des PV en fonction des PV max du porteur et de l'ATQ du lanceur, pendant au moins {29,num} s. Après {29,num} s, si le porteur a {30,num} % de PV, le papillon vole vers un autre allié blessé adjacent ou retourne vers le lanceur. Chaque porteur ne peut avoir qu'1 papillon à la fois (à l'exclusion du lanceur). Ne peut être dissipé.",
-            "Korean": "{31,num}초마다 소지자 최대 HP와 시전자 공격력에 따라 HP를 회복하며, 최소 {29,num}초간 지속된다. {29,num}초 후 소지자의 HP가 {30,num}%일 경우, 나비가 주위 1바퀴 내의 HP가 가득 차지 않은 다른 아군 혹은 시전자에게 날아간다. 소지자는 더 많은 나비를 획득하지 못한다. 제거 불가.",
-            "Indonesian": "Setiap {31,num} detik, memulihkan HP berdasarkan Max HP pembawa dan ATK pengguna, berlangsung setidaknya selama {29,num} detik. Setelah {29,num} detik, jika pembawa memiliki {30,num}% HP, kupu-kupu terbang ke unit tim lain yang terluka di sekitar atau kembali kepada pengguna. Setiap pembawa hanya dapat memiliki 1 kupu-kupu pada satu waktu (tidak termasuk pengguna). Tidak bisa dihapus.",
-            "POR": "A cada {31,num} seg., restaura HP com base no HP Máx. do portador e no ATQ do usuário, durando pelo menos {29,num} seg. Após {29,num} seg., se o portador tiver {30,num}% de HP, a borboleta voa para outro aliado ferido adjacente ou retorna ao usuário. Cada portador pode ter apenas 1 borboleta por vez (excluindo o usuário). Não pode ser dissipado.",
-            "German": "Stellt alle {31,num} Sek. LP basierend auf den Max. LP des Trägers und dem ANG des Wirkers wieder her, was mindestens {29,num} Sek. anhält. Wenn der Träger nach {29,num} Sek. {30,num}% LP hat, fliegt der Schmetterling zu einem anderen angrenzenden verwundeten Verbündeten oder kehrt zum Wirker zurück. Jeder Träger kann gleichzeitig nur 1 Schmetterling haben (ausgenommen der Wirker). Kann nicht entfernt werden."
+            "CN": "每{31,num}秒根据携带者最大生命值和施加者攻击力恢复生命，持续至少{29,num}秒。塔露拉终结技持续期间，触发间隔降低至{32,num}秒。{29,num}秒后若携带者生命为{30,num}%，蝴蝶飞到周围1圈内的其他不满血的友方或施加者身边。携带者无法获得更多蝴蝶。不可被驱散。",
+            "EN": "Every {31,num} sec, restores HP based on the bearer's Max HP and the caster's ATK, lasting at least {29,num} sec. During Talula's Ultimate, the Trigger Interval reduces to {32,num} sec. After {29,num} sec, if the bearer has {30,num}% HP, the butterfly flies to another adjacent injured ally or returns to the caster. Each bearer can have only 1 butterfly at a time (excluding the caster). Cannot be dispelled.",
+            "Russian": "Раз в {31,num} сек. восстанавливает ОЗ в зависимости от макс. ОЗ носителя и АТК заклинателя; действует не менее {29,num} сек. Во время суперспособности Талулы интервал срабатывания снижается до {32,num} сек. Если через {29,num} сек. у носителя {30,num}% ОЗ, бабочка улетит к другому соседнему раненому союзнику или вернется к заклинателю. Каждый носитель может иметь только 1 бабочку единовременно (за исключением заклинателя). Невозможно рассеять.",
+            "Japan": "{31,num}秒ごとに、保有者の最大HPと発動者の攻撃力に応じてHPを回復する。効果は少なくとも{29,num}秒間持続する。タルラのSPスキル中、発動間隔は{32,num}秒に短縮される。{29,num}秒後、保有者のHPが{30,num}%の場合、蝶は隣接する他の負傷した味方へ飛ぶか、発動者のもとへ戻る。各保有者は同時に蝶を1羽しか持てない（発動者を除く）。解除不可。",
+            "Italian": "Ogni {31,num} sec., ripristina HP in base agli HP max di chi lo possiede e all'ATK dell'incantatore, per almeno {29,num} sec. Durante la skill Ultimativa di Talula, l'intervallo di innesco si riduce a {32,num} sec. Dopo {29,num} sec., se chi lo possiede ha un {30,num}% di HP, la farfalla vola da un altro alleato ferito adiacente o ritorna all'incantatore. Ogni portatore può avere solo 1 farfalla alla volta (escluso l'incantatore). Non si può dissipare.",
+            "CNTraditional": "每{31,num}秒根據攜帶者的最大生命值和施加者的攻擊力回復生命值，效果持續至少{29,num}秒。塔露拉終極技能持續期間，觸發間隔降低至{32,num}秒。{29,num}秒後若攜帶者的生命值為{30,num}%，蝴蝶將會飛到周圍1圈內其他生命值未滿的友方或施加者身邊。攜帶者無法獲得更多蝴蝶。（無法被驅散）",
+            "Spanish": "Cada {31,num} seg., restaura vida en función de la vida máxima del portador y el ataque de la lanzadora, durante al menos {29,num} seg. Durante la habilidad definitiva de Talula, el intervalo de activación se reduce a {32,num} seg. Tras {29,num} seg., si el portador tiene un {30,num} % de vida, la mariposa vuela hacia otro aliado herido adyacente o regresa al lanzador. Cada portador solo puede tener una mariposa a la vez (excluyendo a la lanzadora). No se puede disipar.",
+            "French": "Toutes les {31,num} s, régénère des PV en fonction des PV max du porteur et de l'ATQ du lanceur, pendant au moins {29,num} s. Pendant l'Ultime de Talula, l'intervalle de déclenchement est réduit à {32,num} s. Après {29,num} s, si le porteur a {30,num} % de PV, le papillon vole vers un autre allié blessé adjacent ou retourne vers le lanceur. Chaque porteur ne peut avoir qu'un papillon à la fois (à l'exclusion du lanceur). Ne peut pas être dissipé.",
+            "Korean": "{31,num}초마다 소지자 최대 HP와 시전자 공격력에 따라 HP를 회복하며, 최소 {29,num}초간 지속된다. 타롤라 궁극기 지속 기간 동안 발동 간격이 {32,num}초로 감소한다. {29,num}초 후 소지자의 HP가 {30,num}%일 경우, 나비가 주위 1바퀴 내의 HP가 가득 차지 않은 다른 아군 혹은 시전자에게 날아간다. 소지자는 더 많은 나비를 획득하지 못한다. 제거 불가.",
+            "Indonesian": "Setiap {31,num} detik, memulihkan HP berdasarkan Max HP pembawa dan ATK pengguna, berlangsung setidaknya selama {29,num} detik. Selama Ultimate Talula, Interval Pengaktifan berkurang menjadi {32,num} detik. Setelah {29,num} detik, jika pembawa memiliki {30,num}% HP, kupu-kupu terbang ke unit tim lain yang bersebelahan dan terluka atau kembali kepada pengguna. Setiap pembawa hanya dapat memiliki 1 kupu-kupu pada satu waktu (tidak termasuk pengguna). Tidak bisa dihilangkan.",
+            "POR": "A cada {31,num} seg., restaura HP com base no HP Máx. do portador e no ATQ do usuário, durando pelo menos {29,num} seg. Durante a Ultimate da Talula, o Intervalo de Ativação é reduzido para {32,num} seg. Após {29,num} seg., se o portador tiver {30,num}% de HP, a borboleta voa para outro aliado ferido adjacente ou retorna ao usuário. Cada portador pode ter apenas 1 borboleta por vez (excluindo o usuário). Não pode ser dissipado.",
+            "German": "Stellt alle {31,num} Sek. LP basierend auf den Max. LP des Trägers und dem ANG des Wirkers wieder her, was mindestens {29,num} Sek. anhält. Während Talulas Ultimativem Skill verringert sich das Auslöseintervall auf {32,num} Sek. Wenn der Träger nach {29,num} Sek. {30,num}% LP hat, fliegt der Schmetterling zu einem anderen angrenzenden verwundeten Verbündeten oder kehrt zum Wirker zurück. Jeder Träger kann gleichzeitig nur 1 Schmetterling haben (ausgenommen der Wirker). Kann nicht entfernt werden."
         },
         {
             "字符串": "BUFFAttribute_mName_322881",
@@ -20102,18 +20132,18 @@
         },
         {
             "字符串": "BUFFAttribute_mTips_322881",
-            "CN": "每{30,num}秒根据携带者最大生命值和施加者攻击力恢复生命，恢复量和层数成正比。每层提高{31,num}%的伤害减免。不可被驱散。",
-            "EN": "Every {30,num} sec, restores HP based on the bearer's Max HP and the caster's ATK. The healing is proportional to the number of stacks. Each stack also increases DMG Reduction by {31,num}%. Cannot be dispelled.",
-            "Russian": "Раз в {30,num} сек. восстанавливает число ОЗ, зависящее от макс. ОЗ носителя и АТК заклинателя. Объем исцеления зависит от количества зарядов. Также с каждым зарядом снижение УРН увеличивается на {31,num}%. Невозможно рассеять.",
-            "Japan": "{30,num}秒ごとに、保有者の最大HPと発動者の攻撃力に基づいてHPを回復する。回復はスタックの数に比例する。各スタックは、ダメージ軽減も{31,num}%増加させる。解除不可能。",
-            "Italian": "Ogni {30,num} sec., ripristina HP in base agli HP max del possessore e all'ATK dell'incantatore. La guarigione è proporzionale al numero di accumuli. Ogni accumulo aumenta anche la Riduzione DMG di un {31,num}%. Non può essere dissipato.",
-            "CNTraditional": "每{30,num}秒根據攜帶者的最大生命值和施加者的攻擊力回復生命值，回復量和層數成正比。每層提高{31,num}%的傷害減免。（無法被驅散）",
-            "Spanish": "Cada {30,num} segundo/s, restaura vida en función de la vida máxima del portador y el ataque de la lanzadora. La cantidad de sanación es proporcional al número de acumulaciones. Además, cada acumulación aumenta la reducción de daño un {31,num} %. No se puede disipar.",
-            "French": "Toutes les {30,num} s, régénère des PV en fonction des PV max du porteur et de l'ATQ du lanceur. Les soins sont proportionnels au nombre de cumuls. Chaque cumul augmente également la réduction des DGT de {31,num} %. Ne peut être dissipé.",
-            "Korean": "{30,num}초마다 소지자 최대 HP와 시전자 공격력에 따라 HP를 회복하며, 회복량은 스택 수에 비례한다. 스택마다 피해 감소가 {31,num}% 증가한다. 제거 불가.",
-            "Indonesian": "Setiap {30,num} detik, memulihkan HP berdasarkan Max HP pembawa dan ATK pengguna. Pemulihan tersebut sebanding dengan jumlah stack. Setiap stack juga meningkatkan Pengurangan DMG sebesar {31,num}%. Tidak bisa dihapus.",
-            "POR": "A cada {30,num} seg., restaura HP com base no HP Máx. do portador e no ATQ do usuário. A cura é proporcional ao número de acúmulos. Cada acúmulo também aumenta a Redução de Dano em {31,num}%. Não pode ser dissipado.",
-            "German": "Stellt alle {30,num} Sek. LP basierend auf den Max. LP des Trägers und dem ANG des Wirkers wieder her. Die Heilung ist proportional zur Anzahl der Stapel. Jeder Stapel erhöht zudem die DMG-Reduktion um {31,num}%. Kann nicht entfernt werden."
+            "CN": "每{30,num}秒根据携带者最大生命值和施加者攻击力恢复生命，恢复量和层数成正比。塔露拉终结技持续期间，触发间隔降低至{32,num}秒。每层提高{31,num}%的伤害减免。不可被驱散。",
+            "EN": "Every {30,num} sec, restores HP based on the bearer's Max HP and the caster's ATK. The healing is proportional to the number of stacks. During Talula's Ultimate, the Trigger Interval reduces to {32,num} sec. Each stack also increases DMG Reduction by {31,num}%. Cannot be dispelled.",
+            "Russian": "Раз в {30,num} сек. восстанавливает число ОЗ, зависящее от макс. ОЗ носителя и АТК заклинателя. Объем исцеления зависит от количества зарядов. Во время суперспособности Талулы интервал срабатывания снижается до {32,num} сек. Также с каждым зарядом снижение УРН увеличивается на {31,num}%. Невозможно рассеять.",
+            "Japan": "{30,num}秒ごとに、保有者の最大HPと発動者の攻撃力に基づいてHPを回復する。回復はスタックの数に比例する。タルラのSPスキル中、発動間隔は{32,num}秒に短縮される。各スタックは、ダメージ軽減も{31,num}%増加させる。解除不可能。",
+            "Italian": "Ogni {30,num} sec., ripristina HP in base agli HP max del possessore e all'ATK dell'incantatore. La guarigione è proporzionale al numero di accumuli. Durante la skill Ultimativa di Talula, l'intervallo di innesco si riduce a {32,num} sec. Ogni accumulo aumenta anche la Riduzione DMG di un {31,num}%. Non si può dissipare.",
+            "CNTraditional": "每{30,num}秒根據攜帶者的最大生命值和施加者的攻擊力回復生命值，回復量和層數成正比。塔露拉終極技能持續期間，觸發間隔降低至{32,num}秒。每層提高{31,num}%的傷害減免。（無法被驅散）",
+            "Spanish": "Cada {30,num} seg., restaura vida en función de la vida máxima del portador y el ataque de la lanzadora. La cantidad de sanación es proporcional al número de acumulaciones. Durante la habilidad definitiva de Talula, el intervalo de activación se reduce a {32,num} seg. Además, cada acumulación aumenta la reducción de daño un {31,num} %. No se puede disipar.",
+            "French": "Toutes les {30,num} s, régénère des PV en fonction des PV max du porteur et de l'ATQ du lanceur. Les soins sont proportionnels au nombre de cumuls. Pendant l'Ultime de Talula, l'intervalle de déclenchement est réduit à {32,num} s. Chaque cumul augmente également la réduction de DGT de {31,num} %. Ne peut pas être dissipé.",
+            "Korean": "{30,num}초마다 소지자 최대 HP와 시전자 공격력에 따라 HP를 회복하며, 회복량은 스택 수에 비례한다. 타롤라 궁극기 지속 기간 동안 발동 간격이 {32,num}초로 감소한다. 스택마다 피해 감소가 {31,num}% 증가한다. 제거 불가.",
+            "Indonesian": "Setiap {30,num} detik, memulihkan HP berdasarkan Max HP pembawa dan ATK pengguna. Pemulihan tersebut sebanding dengan jumlah stack. Selama Ultimate Talula, Interval Pengaktifan berkurang menjadi {32,num} detik. Setiap stack juga meningkatkan Pengurangan DMG sebesar {31,num}%. Tidak bisa dihilangkan.",
+            "POR": "A cada {30,num} seg., restaura HP com base no HP Máx. do portador e no ATQ do usuário. A cura é proporcional ao número de acúmulos. Durante a Ultimate da Talula, o Intervalo de Ativação é reduzido para {32,num} seg. Cada acúmulo também aumenta a Redução de Dano em {31,num}%. Não pode ser dissipado.",
+            "German": "Stellt alle {30,num} Sek. LP basierend auf den Max. LP des Trägers und dem ANG des Wirkers wieder her. Die Heilung ist proportional zur Anzahl der Stapel. Während Talulas Ultimativem Skill verringert sich das Auslöseintervall auf {32,num} Sek. Jeder Stapel erhöht zudem die DMG-Reduktion um {31,num}%. Kann nicht entfernt werden."
         },
         {
             "字符串": "BUFFAttribute_mName_322882",
@@ -20132,18 +20162,18 @@
         },
         {
             "字符串": "BUFFAttribute_mTips_322882",
-            "CN": "每{31,num}秒根据携带者最大生命值和施加者攻击力恢复生命，持续至少{29,num}秒。携带者无法获得更多蝴蝶。不可被驱散。",
-            "EN": "Every {31,num} sec, restores HP based on the bearer's Max HP and the caster's ATK for at least {29,num} sec. The bearer cannot attract more butterflies. Cannot be dispelled.",
-            "Russian": "Кажд. {31,num} сек. восстанавливает ОЗ в зависимости от макс. ОЗ носителя и АТК заклинателя в течение как минимум {29,num} сек. Носитель не может привлечь больше бабочек. Невозможно рассеять.",
-            "Japan": "{31,num}秒ごとに、保有者の最大HPと発動者の攻撃力に基づいてHPを回復する。最低{29,num}秒持続。保有者はさらに蝶を引き寄せることはできない。解除不可能。",
-            "Italian": "Ogni {31,num} sec., ripristina HP in base agli HP max del possessore e all'ATK dell'incantatore per almeno {29,num} sec. Il possessore non può attirare altre farfalle. Non può essere dissipato.",
-            "CNTraditional": "每{31,num}秒根據攜帶者的最大生命值與施加者的攻擊力回復生命值，至少持續{29,num}秒。攜帶者無法獲得更多蝴蝶。（無法被驅散）",
-            "Spanish": "Cada {31,num} seg., restaura vida basándose en la vida máxima del portador y el ataque de la lanzadora durante al menos {29,num} seg. El portador no puede atraer más mariposas. No se puede disipar.",
-            "French": "Toutes les {31,num} s, régénère des PV en fonction des PV max du porteur et de l'ATQ du lanceur pendant au moins {29,num} s. Le porteur ne peut pas attirer plus de papillons. Ne peut être dissipé.",
-            "Korean": "{31,num}초마다 소지자 최대 HP와 시전자 공격력에 따라 HP를 회복하며, 최소 {29,num}초간 지속된다. 소지자는 더 많은 나비를 획득하지 못한다. 제거 불가.",
-            "Indonesian": "Setiap {31,num} detik, memulihkan HP berdasarkan Max HP pembawa dan ATK pengguna selama setidaknya {29,num} detik. Pembawa tidak bisa menarik lebih banyak kupu-kupu. Tidak bisa dihapus.",
-            "POR": "A cada {31,num} seg., restaura HP com base no HP Máx. do portador e no ATQ do usuário por pelo menos {29,num} seg. O portador não pode atrair mais borboletas. Não pode ser dissipado.",
-            "German": "Alle {31,num} Sek. werden LP basierend auf den Max. LP des Trägers und dem ANG des Wirkers für mindestens {29,num} Sek. wiederhergestellt. Der Träger kann keine weiteren Schmetterlinge anziehen. Kann nicht entfernt werden."
+            "CN": "每{31,num}秒根据携带者最大生命值和施加者攻击力恢复生命，持续至少{29,num}秒。塔露拉终结技持续期间，触发间隔降低至{32,num}秒。携带者无法获得更多蝴蝶。不可被驱散。",
+            "EN": "Every {31,num} sec, restores HP based on the bearer's Max HP and the caster's ATK for at least {29,num} sec. During Talula's Ultimate, the Trigger Interval reduces to {32,num} sec. The bearer cannot attract more butterflies. Cannot be dispelled.",
+            "Russian": "Кажд. {31,num} сек. восстанавливает ОЗ в зависимости от макс. ОЗ носителя и АТК заклинателя в течение как минимум {29,num} сек. Во время суперспособности Талулы интервал срабатывания снижается до {32,num} сек. Носитель не может привлечь больше бабочек. Невозможно рассеять.",
+            "Japan": "{31,num}秒ごとに、保有者の最大HPと発動者の攻撃力に基づいてHPを回復する。最低{29,num}秒持続。タルラのSPスキル中、発動間隔は{32,num}秒に短縮される。保有者はさらに蝶を引き寄せることはできない。解除不可能。",
+            "Italian": "Ogni {31,num} sec., ripristina HP in base agli HP max del possessore e all'ATK dell'incantatore per almeno {29,num} sec. Durante la skill Ultimativa di Talula, l'intervallo di innesco si riduce a {32,num} sec. Il possessore non può attirare altre farfalle. Non si può dissipare.",
+            "CNTraditional": "每{31,num}秒根據攜帶者的最大生命值與施加者的攻擊力回復生命值，至少持續{29,num}秒。塔露拉終極技能持續期間，觸發間隔降低至{32,num}秒。攜帶者無法獲得更多蝴蝶。（無法被驅散）",
+            "Spanish": "Cada {31,num} seg., restaura vida basándose en la vida máxima del portador y el ataque de la lanzadora durante al menos {29,num} seg. Durante la habilidad definitiva de Talula, el intervalo de activación se reduce a {32,num} seg. El portador no puede atraer más mariposas. No se puede disipar.",
+            "French": "Toutes les {31,num} s, régénère des PV en fonction des PV max du porteur et de l'ATQ du lanceur pendant au moins {29,num} s. Pendant l'Ultime de Talula, l'intervalle de déclenchement est réduit à {32,num} s. Le porteur ne peut pas attirer plus de papillons. Ne peut pas être dissipé.",
+            "Korean": "{31,num}초마다 소지자 최대 HP와 시전자 공격력에 따라 HP를 회복하며, 최소 {29,num}초간 지속된다. 타롤라 궁극기 지속 기간 동안 발동 간격이 {32,num}초로 감소한다. 소지자는 더 많은 나비를 획득하지 못한다. 제거 불가.",
+            "Indonesian": "Setiap {31,num} detik, memulihkan HP berdasarkan Max HP pembawa dan ATK pengguna selama setidaknya {29,num} detik. Selama Ultimate Talula, Interval Pengaktifan berkurang menjadi {32,num} detik. Pembawa tidak bisa menarik lebih banyak kupu-kupu. Tidak bisa dihilangkan.",
+            "POR": "A cada {31,num} seg., restaura HP com base no HP Máx. do portador e no ATQ do usuário por pelo menos {29,num} seg. Durante a Ultimate da Talula, o Intervalo de Ativação é reduzido para {32,num} seg. O portador não pode atrair mais borboletas. Não pode ser dissipado.",
+            "German": "Stellt alle {31,num} Sek. LP basierend auf den Max. LP des Trägers und dem ANG des Wirkers wieder her, was mindestens {29,num} Sek. anhält. Während Talulas Ultimativem Skill verringert sich das Auslöseintervall auf {32,num} Sek. Der Träger kann keine weiteren Schmetterlinge anziehen. Kann nicht entfernt werden."
         },
         {
             "字符串": "BUFFAttribute_mName_322890",
@@ -23352,7 +23382,7 @@
             "French": "Brûlgel",
             "Korean": "서리의 몰락",
             "Indonesian": "Iceburn",
-            "POR": "Queimadura Gélida",
+            "POR": "\nQueimadura de Geada",
             "German": "Eisbrand"
         },
         {
@@ -24841,6 +24871,21 @@
             "German": "Eine besondere Art von Munition. Fügt dem Ziel {29,num}% Durchbohrenden DMG zu, der seine gesamte VERT ignoriert, und wendet Betäubung für {32,num} Sek. sowie {31,num}% Verwundbarkeit (P. DMG) für {30,num} Sek. an."
         },
         {
+            "字符串": "BUFFAttribute_mName_323581",
+            "CN": "龙炎枪",
+            "EN": "Shadowflame Lance",
+            "Russian": "Копье теневого пламени",
+            "Japan": "シャドウフレイムランス",
+            "Italian": "Lancia della fiamma ombrosa",
+            "CNTraditional": "龍炎槍",
+            "Spanish": "Lanza de llamas sombrías",
+            "French": "Lance de flammes d'ombre",
+            "Korean": "용염창",
+            "Indonesian": "Shadowflame Lance",
+            "POR": "Lança de Chamas Sombrias",
+            "German": "Lanze der Schattenflamme"
+        },
+        {
             "字符串": "BUFFAttribute_mName_323590",
             "CN": "枪管沸腾",
             "EN": "Cyclic Rate",
@@ -25757,18 +25802,18 @@
         },
         {
             "字符串": "BUFFAttribute_mTips_323771",
-            "CN": "继承召唤者{29,num}的属性及攻击范围。召唤物会复制并使用英雄的技能。普通攻击时，对范围内{30,num}名目标造成{31,num}%的物理伤害。场上最多存在1个。",
-            "EN": "Inherits {29,num} of the summoner's attributes and ATK Range. It copies and uses the summoner's skills. Basic ATK deals {31,num}% P. DMG to {30,num} target(s) in range. Up to 1 can exist on the field.",
-            "Russian": "Наследует {29,num} характеристик и дальности АТК призывателя. Копирует и использует навыки призывателя. Базовая АТК наносит {31,num}% физ. УРН целям ({30,num}) в пределах дальности. На поле боя может находиться не более 1.",
-            "Japan": "召喚者のステータスおよび攻撃範囲を{29,num}継承する。召喚者のスキルをコピーして使用する。通常攻撃は範囲内の対象{30,num}体に{31,num}%の物理ダメージを与える。同時にフィールド上に存在できるのは1体まで。",
-            "Italian": "Eredita {29,num} degli attributi e del raggio d'ATK dell'evocatore. Copia e usa le skill dell'evocatore. L'ATK base infligge un {31,num}% di DMG F. a {30,num} bersagli nel raggio d'azione. Può esisterne fino a 1 sul campo.",
-            "CNTraditional": "繼承召喚者{29,num}的屬性及攻擊範圍。召喚物會複製並使用英雄的技能。普通攻擊時，對範圍內{30,num}名目標造成{31,num}%的物理傷害。場上最多存在1個。",
-            "Spanish": "Hereda {29,num} de los atributos y el alcance de ataque del invocador. Copia y usa las habilidades del invocador. El ataque básico inflige un {31,num} % de daño físico a {30,num} objetivo/s a su alcance. Puede haber hasta 1 en el campo.",
-            "French": "Hérite de {29,num} des attributs et de la portée d'ATQ de l'invocateur. Copie et utilise les compétences de l'invocateur. L'ATQ basique inflige {31,num} % de DGT P. à {30,num} cible(s) à portée. Jusqu'à 1 peut exister sur le champ de bataille.",
-            "Korean": "소환자의 속성 및 공격 범위를 {29,num} 계승한다. 소환물은 영웅의 스킬을 복제하여 사용한다. 일반 공격 시, 범위 내 {30,num}명의 대상에게 {31,num}%의 물리 피해를 입힌다. 필드에 최대 1개 존재할 수 있다.",
-            "Indonesian": "Mewarisi {29,num} atribut dan Jangkauan ATK pemanggil, serta menyalin dan menggunakan skill pemanggil. Basic ATK memberikan {31,num}% P. DMG ke {30,num} target di dalam jangkauan. Maksimal 1 bisa berada di medan tempur.",
-            "POR": "Herda {29,num} dos atributos e do Alcance de ATQ do evocador. Copia e usa as habilidades do evocador. O ATQ Básico causa {31,num}% de Dano F. a {30,num} alvo(s) no alcance. Pode haver até 1 no campo.",
-            "German": "Erbt {29,num} der Attribute und der ANG-Reichweite des Beschwörers. Kopiert und verwendet die Skills des Beschwörers. Der Grund-ANG verursacht {31,num}% P. DMG an {30,num} Ziel(en) in Reichweite. Maximal 1 gleichzeitig auf dem Schlachtfeld."
+            "CN": "继承召唤者{29,num}%的属性及攻击范围。召唤物会复制并使用英雄的技能。普通攻击时，对范围内{30,num}名目标造成{31,num}%的物理伤害。场上最多存在1个。",
+            "EN": "Inherits {29,num}% of the summoner's attributes and ATK Range. It copies and uses the summoner's skills. Basic ATK deals {31,num}% P. DMG to {30,num} target(s) in range. Up to 1 can exist on the field.",
+            "Russian": "Наследует {29,num}% характеристик и дальности АТК призывателя. Копирует и использует навыки призывателя. Базовая АТК наносит {31,num}% физ. УРН целям ({30,num}) в пределах дальности. На поле боя может находиться не более 1.",
+            "Japan": "召喚者のステータスおよび攻撃範囲を{29,num}%継承する。召喚者のスキルをコピーして使用する。通常攻撃は範囲内の対象{30,num}体に{31,num}%の物理ダメージを与える。同時にフィールド上に存在できるのは1体まで。",
+            "Italian": "Eredita un {29,num}% degli attributi e del raggio d'ATK dell'evocatore. Copia e usa le skill dell'evocatore. L'ATK base infligge un {31,num}% di DMG F. a {30,num} bersagli/o nel raggio d'azione. Può esisterne solo 1 sul campo.",
+            "CNTraditional": "繼承召喚者{29,num}%的屬性及攻擊範圍。召喚物會複製並使用英雄的技能。普通攻擊時，對範圍內{30,num}名目標造成{31,num}%的物理傷害。場上最多存在1個。",
+            "Spanish": "Hereda un {29,num} % de los atributos y el alcance de ataque del invocador. Copia y usa las habilidades del invocador. El ataque básico inflige un {31,num} % de daño físico a {30,num} objetivo/s a su alcance. Puede haber hasta 1 en el campo.",
+            "French": "Hérite de {29,num} % des attributs et de la portée d'ATQ de l'invocateur. Copie et utilise les compétences de l'invocateur. L'ATQ basique inflige {31,num} % de DGT P. à {30,num} cible(s) à portée. Jusqu'à 1 peut exister sur le champ de bataille.",
+            "Korean": "소환자의 속성 및 공격 범위를 {29,num}% 계승한다. 소환물은 영웅의 스킬을 복제하여 사용한다. 일반 공격 시, 범위 내 {30,num}명의 대상에게 {31,num}%의 물리 피해를 입힌다. 필드에 최대 1개 존재할 수 있다.",
+            "Indonesian": "Mewarisi {29,num}% atribut dan Jangkauan ATK pemanggil, serta menyalin dan menggunakan skill pemanggil. Basic ATK memberikan {31,num}% P. DMG ke {30,num} target di dalam jangkauan. Maksimal 1 bisa berada di medan tempur.",
+            "POR": "Herda {29,num}% dos atributos e do Alcance de ATQ do evocador. Copia e usa as habilidades do evocador. O ATQ Básico causa {31,num}% de Dano F. a {30,num} alvo(s) no alcance. Pode haver até 1 no campo.",
+            "German": "Erbt {29,num}% der Attribute und der ANG-Reichweite des Beschwörers. Kopiert und verwendet die Skills des Beschwörers. Der Grund-ANG verursacht {31,num}% P. DMG an {30,num} Ziel(en) in Reichweite. Maximal 1 gleichzeitig auf dem Schlachtfeld."
         },
         {
             "字符串": "BUFFAttribute_mName_323800",
@@ -25784,6 +25829,21 @@
             "Indonesian": "Bounty",
             "POR": "Recompensa",
             "German": "Kopfgeld"
+        },
+        {
+            "字符串": "BUFFAttribute_mTips_323800",
+            "CN": "携带者受到的追击伤害提升{30,num}%。",
+            "EN": "Increases the bearer's Sync DMG taken by {30,num}%.",
+            "Russian": "Увеличивает получаемый УРН «Синхронизации» носителя на {30,num}%.",
+            "Japan": "保有者が受ける追撃ダメージが{30,num}%増加する。",
+            "Italian": "Aumenta il DMG Sync subito dal portatore di un {30,num}%.",
+            "CNTraditional": "攜帶者受到的追擊傷害提升{30,num}%。",
+            "Spanish": "Aumenta el daño de sincronización recibido por el portador en un {30,num} %.",
+            "French": "Augmente les DGT de Synchro subis par le porteur de {30,num} %.",
+            "Korean": "소지자가 받는 추격 피해가 {30,num}% 상승한다.",
+            "Indonesian": "Meningkatkan Sync DMG yang diterima oleh pengguna sebesar {30,num}%.",
+            "POR": "Aumenta o Dano de Sincronização recebido pelo portador em {30,num}%.",
+            "German": "Erhöht den vom Träger erlittenen Sync-DMG um {30,num}%."
         },
         {
             "字符串": "BUFFAttribute_mName_323801",
@@ -27298,7 +27358,7 @@
             "Korean": "강철 방패의 피해를 상승시킨다. 그리고 물리 피해 감소를 {3,num/100}%, 마법 피해 감소를 {6,num/100}% 상승시킨다.",
             "Indonesian": "Memperkuat DMG Earth Shatter, serta meningkatkan {3,num/100}% Pengurangan P. DMG dan {6,num/100}% Pengurangan M. DMG milik Semrah.",
             "POR": "Melhora o Dano de Destruição de Terra e aumenta a Redução de Dano F. do Semrah em {3,num/100}% e a Redução de Dano M. em {6,num/100}%.",
-            "German": "Verbessert den DMG von Erdsplitter und erhöht Semrahs P. DMG Reduktion um {3,num/100}% sowie seine M. DMG Reduktion um {6,num/100}%."
+            "German": "Verbessert den DMG von Erdsplitter und erhöht Semrahs P. DMG-Reduktion um {3,num/100}% sowie seine M. DMG-Reduktion um {6,num/100}%."
         },
         {
             "字符串": "BUFFAttribute_mName_901516",
@@ -27418,7 +27478,7 @@
             "Korean": "강철 방패의 피해를 상승시킨다. 그리고 물리 피해 감소를 {3,num/100}%, 마법 피해 감소를 {6,num/100}% 상승시킨다.",
             "Indonesian": "Memperkuat DMG Earth Shatter, serta meningkatkan {3,num/100}% Pengurangan P. DMG dan {6,num/100}% Pengurangan M. DMG Semrah.",
             "POR": "Melhora o Dano de Destruição de Terra e aumenta Redução de Dano F. do Semrah em {3,num/100}% e Redução de Dano M. em {6,num/100}%.",
-            "German": "Verbessert den DMG von Erdsplitter und erhöht Semrahs P. DMG Reduktion um {3,num/100}% sowie seine M. DMG Reduktion um {6,num/100}%."
+            "German": "Verbessert den DMG von Erdsplitter und erhöht Semrahs P. DMG-Reduktion um {3,num/100}% sowie seine M. DMG-Reduktion um {6,num/100}%."
         },
         {
             "字符串": "BUFFAttribute_mName_901520",
@@ -27448,7 +27508,7 @@
             "Korean": "강철 방패의 피해를 상승시킨다. 그리고 물리 피해 감소를 {3,num/100}%, 마법 피해 감소를 {6,num/100}% 상승시킨다.",
             "Indonesian": "Memperkuat DMG Earth Shatter, serta meningkatkan {3,num/100}% Pengurangan P. DMG dan {6,num/100}% Pengurangan M. DMG Semrah.",
             "POR": "Melhora o Dano de Destruição de Terra e aumenta Redução de Dano F. do Semrah em {3,num/100}% e Redução de Dano M. em {6,num/100}%.",
-            "German": "Verbessert den DMG von Erdsplitter und erhöht Semrahs P. DMG Reduktion um {3,num/100}% sowie seine M. DMG Reduktion um {6,num/100}%."
+            "German": "Verbessert den DMG von Erdsplitter und erhöht Semrahs P. DMG-Reduktion um {3,num/100}% sowie seine M. DMG-Reduktion um {6,num/100}%."
         },
         {
             "字符串": "BUFFAttribute_mName_901521",
@@ -27478,7 +27538,7 @@
             "Korean": "강철 방패의 피해를 상승시킨다. 그리고 물리 피해 감소를 {3,num/100}%, 마법 피해 감소를 {6,num/100}% 상승시킨다.",
             "Indonesian": "Memperkuat DMG Earth Shatter, serta meningkatkan {3,num/100}% Pengurangan P. DMG dan {6,num/100}% Pengurangan M. DMG Semrah.",
             "POR": "Melhora o Dano de Destruição de Terra e aumenta Redução de Dano F. do Semrah em {3,num/100}% e Redução de Dano M. em {6,num/100}%.",
-            "German": "Verbessert den DMG von Erdsplitter und erhöht Semrahs P. DMG Reduktion um {3,num/100}% sowie seine M. DMG Reduktion um {6,num/100}%."
+            "German": "Verbessert den DMG von Erdsplitter und erhöht Semrahs P. DMG-Reduktion um {3,num/100}% sowie seine M. DMG-Reduktion um {6,num/100}%."
         },
         {
             "字符串": "BUFFAttribute_mName_901522",
@@ -27508,7 +27568,7 @@
             "Korean": "강철 방패의 피해를 상승시킨다. 그리고 물리 피해 감소를 {3,num/100}%, 마법 피해 감소를 {6,num/100}% 상승시킨다.",
             "Indonesian": "Memperkuat DMG Earth Shatter, serta meningkatkan {3,num/100}% Pengurangan P. DMG dan {6,num/100}% Pengurangan M. DMG Semrah.",
             "POR": "Melhora o Dano de Destruição de Terra e aumenta Redução de Dano F. do Semrah em {3,num/100}% e Redução de Dano M. em {6,num/100}%.",
-            "German": "Verbessert den DMG von Erdsplitter und erhöht Semrahs P. DMG Reduktion um {3,num/100}% sowie seine M. DMG Reduktion um {6,num/100}%."
+            "German": "Verbessert den DMG von Erdsplitter und erhöht Semrahs P. DMG-Reduktion um {3,num/100}% sowie seine M. DMG-Reduktion um {6,num/100}%."
         },
         {
             "字符串": "BUFFAttribute_mName_901523",
@@ -27538,7 +27598,7 @@
             "Korean": "강철 방패의 피해를 상승시킨다. 그리고 물리 피해 감소를 {3,num/100}%, 마법 피해 감소를 {6,num/100}% 상승시킨다.",
             "Indonesian": "Memperkuat DMG Earth Shatter, serta meningkatkan {3,num/100}% Pengurangan P. DMG dan {6,num/100}% Pengurangan M. DMG Semrah.",
             "POR": "Melhora o Dano de Destruição de Terra e aumenta Redução de Dano F. do Semrah em {3,num/100}% e Redução de Dano M. em {6,num/100}%.",
-            "German": "Verbessert den DMG von Erdsplitter und erhöht Semrahs P. DMG Reduktion um {3,num/100}% sowie seine M. DMG Reduktion um {6,num/100}%."
+            "German": "Verbessert den DMG von Erdsplitter und erhöht Semrahs P. DMG-Reduktion um {3,num/100}% sowie seine M. DMG-Reduktion um {6,num/100}%."
         },
         {
             "字符串": "BUFFAttribute_mName_901524",
@@ -27688,7 +27748,7 @@
             "Korean": "강철 방패의 피해를 상승시킨다. 그리고 물리 피해 감소를 {3,num/100}%, 마법 피해 감소를 {6,num/100}% 상승시킨다.",
             "Indonesian": "Memperkuat DMG Earth Shatter, serta meningkatkan {3,num/100}% Pengurangan P. DMG dan {6,num/100}% Pengurangan M. DMG Semrah.",
             "POR": "Melhora o Dano de Destruição de Terra e aumenta Redução de Dano F. do Semrah em {3,num/100}% e Redução de Dano M. em {6,num/100}%.",
-            "German": "Verbessert den DMG von Erdsplitter und erhöht Semrahs P. DMG Reduktion um {3,num/100}% sowie seine M. DMG Reduktion um {6,num/100}%."
+            "German": "Verbessert den DMG von Erdsplitter und erhöht Semrahs P. DMG-Reduktion um {3,num/100}% sowie seine M. DMG-Reduktion um {6,num/100}%."
         },
         {
             "字符串": "BUFFAttribute_mName_901529",
@@ -27718,7 +27778,7 @@
             "Korean": "강철 방패의 피해를 상승시킨다. 그리고 물리 피해 감소를 {3,num/100}%, 마법 피해 감소를 {6,num/100}% 상승시킨다.",
             "Indonesian": "Memperkuat DMG Earth Shatter, serta meningkatkan {3,num/100}% Pengurangan P. DMG dan {6,num/100}% Pengurangan M. DMG Semrah.",
             "POR": "Melhora o Dano de Destruição de Terra e aumenta Redução de Dano F. do Semrah em {3,num/100}% e Redução de Dano M. em {6,num/100}%.",
-            "German": "Verbessert den DMG von Erdsplitter und erhöht Semrahs P. DMG Reduktion um {3,num/100}% sowie seine M. DMG Reduktion um {6,num/100}%."
+            "German": "Verbessert den DMG von Erdsplitter und erhöht Semrahs P. DMG-Reduktion um {3,num/100}% sowie seine M. DMG-Reduktion um {6,num/100}%."
         },
         {
             "字符串": "BUFFAttribute_mName_901530",
@@ -27748,7 +27808,7 @@
             "Korean": "강철 방패의 피해를 상승시킨다. 그리고 물리 피해 감소를 {3,num/100}%, 마법 피해 감소를 {6,num/100}% 상승시킨다.",
             "Indonesian": "Memperkuat DMG Earth Shatter, serta meningkatkan {3,num/100}% Pengurangan P. DMG dan {6,num/100}% Pengurangan M. DMG Semrah.",
             "POR": "Melhora o Dano de Destruição de Terra e aumenta Redução de Dano F. do Semrah em {3,num/100}% e Redução de Dano M. em {6,num/100}%.",
-            "German": "Verbessert den DMG von Erdsplitter und erhöht Semrahs P. DMG Reduktion um {3,num/100}% sowie seine M. DMG Reduktion um {6,num/100}%."
+            "German": "Verbessert den DMG von Erdsplitter und erhöht Semrahs P. DMG-Reduktion um {3,num/100}% sowie seine M. DMG-Reduktion um {6,num/100}%."
         },
         {
             "字符串": "BUFFAttribute_mName_901531",
@@ -27778,7 +27838,7 @@
             "Korean": "강철 방패의 피해를 상승시킨다. 그리고 물리 피해 감소를 {3,num/100}%, 마법 피해 감소를 {6,num/100}% 상승시킨다.",
             "Indonesian": "Memperkuat DMG Earth Shatter, serta meningkatkan {3,num/100}% Pengurangan P. DMG dan {6,num/100}% Pengurangan M. DMG Semrah.",
             "POR": "Melhora o Dano de Destruição de Terra e aumenta Redução de Dano F. do Semrah em {3,num/100}% e Redução de Dano M. em {6,num/100}%.",
-            "German": "Verbessert den DMG von Erdsplitter und erhöht Semrahs P. DMG Reduktion um {3,num/100}% sowie seine M. DMG Reduktion um {6,num/100}%."
+            "German": "Verbessert den DMG von Erdsplitter und erhöht Semrahs P. DMG-Reduktion um {3,num/100}% sowie seine M. DMG-Reduktion um {6,num/100}%."
         },
         {
             "字符串": "BUFFAttribute_mName_901532",
@@ -27808,7 +27868,7 @@
             "Korean": "강철 방패의 피해를 상승시킨다. 그리고 물리 피해 감소를 {3,num/100}%, 마법 피해 감소를 {6,num/100}% 상승시킨다.",
             "Indonesian": "Memperkuat DMG Earth Shatter, serta meningkatkan {3,num/100}% Pengurangan P. DMG dan {6,num/100}% Pengurangan M. DMG Semrah.",
             "POR": "Melhora o Dano de Destruição de Terra e aumenta Redução de Dano F. do Semrah em {3,num/100}% e Redução de Dano M. em {6,num/100}%.",
-            "German": "Verbessert den DMG von Erdsplitter und erhöht Semrahs P. DMG Reduktion um {3,num/100}% sowie seine M. DMG Reduktion um {6,num/100}%."
+            "German": "Verbessert den DMG von Erdsplitter und erhöht Semrahs P. DMG-Reduktion um {3,num/100}% sowie seine M. DMG-Reduktion um {6,num/100}%."
         },
         {
             "字符串": "BUFFAttribute_mName_901533",
@@ -27838,7 +27898,7 @@
             "Korean": "강철 방패의 피해를 상승시킨다. 그리고 물리 피해 감소를 {3,num/100}%, 마법 피해 감소를 {6,num/100}% 상승시킨다.",
             "Indonesian": "Memperkuat DMG Earth Shatter, serta meningkatkan {3,num/100}% Pengurangan P. DMG dan {6,num/100}% Pengurangan M. DMG Semrah.",
             "POR": "Melhora o Dano de Destruição de Terra e aumenta Redução de Dano F. do Semrah em {3,num/100}% e Redução de Dano M. em {6,num/100}%.",
-            "German": "Verbessert den DMG von Erdsplitter und erhöht Semrahs P. DMG Reduktion um {3,num/100}% sowie seine M. DMG Reduktion um {6,num/100}%."
+            "German": "Verbessert den DMG von Erdsplitter und erhöht Semrahs P. DMG-Reduktion um {3,num/100}% sowie seine M. DMG-Reduktion um {6,num/100}%."
         },
         {
             "字符串": "BUFFAttribute_mName_901534",
@@ -28029,7 +28089,7 @@
             "Italian": "Collasso",
             "CNTraditional": "熔毀",
             "Spanish": "Derretimiento",
-            "French": "Fusion",
+            "French": "Calcination",
             "Korean": "용해",
             "Indonesian": "Meltdown",
             "POR": "Fusão",
@@ -28044,7 +28104,7 @@
             "Italian": "Il Collasso infligge DMG continuo elevato e non dissipabile.",
             "CNTraditional": "熔毀造成持續高額傷害。（無法被驅散）",
             "Spanish": "Derretimiento inflige daño elevado continuo y no puede ser disipado.",
-            "French": "Fusion inflige continuellement des DGT élevés et ne peut être dissipée.",
+            "French": "Calcination inflige continuellement des DGT élevés et ne peut être dissipée.",
             "Korean": "용해는 지속적으로 대량의 피해를 입힌다. 제거 불가.",
             "Indonesian": "Meltdown memberikan DMG berkelanjutan yang tinggi dan tidak bisa dihapus.",
             "POR": "Fusão causa Dano contínuo alto e não pode ser dissipado.",
@@ -28333,7 +28393,7 @@
             "Korean": "공격 속도 증가",
             "Indonesian": "Peningkatan ATK Spd.",
             "POR": "Aumento de Vel. de ATQ",
-            "German": "ANG-Geschw. Erhöhung"
+            "German": "ANG-Geschw.-Erhöhung"
         },
         {
             "字符串": "BUFFAttribute_mTips_1220021",
@@ -29379,10 +29439,10 @@
             "Italian": "Brucianima",
             "CNTraditional": "焚髓",
             "Spanish": "Brasa del alma",
-            "French": "Brûlure d'âme",
+            "French": "Moelle embrasée",
             "Korean": "골수 연소",
             "Indonesian": "Soulscorch",
-            "POR": "Queimadura da Alma",
+            "POR": "Alma em Chamas",
             "German": "Seelenbrand"
         },
         {
@@ -31214,6 +31274,336 @@
             "Indonesian": "DMG -{20,num/-100}% (Efek hanya diterapkan saat lebih kuat dari Buff/Debuff saat ini pada atribut yang sama.)",
             "POR": "-{20,num/-100}% de Dano (Entra em efeito apenas quando for mais forte que o bônus/penalidade atual no mesmo atributo.)",
             "German": "DMG -{20,num/-100}% (Wirkt nur, wenn es stärker ist als der aktuelle Buff/Debuff auf dasselbe Attribut.)"
+        },
+        {
+            "字符串": "BUFFAttribute_mName_6200106",
+            "CN": "禁疗",
+            "EN": "Anti-Healing",
+            "Russian": "Антиисцеление",
+            "Japan": "対回復",
+            "Italian": "Anti-cura",
+            "CNTraditional": "禁療",
+            "Spanish": "Antisanación",
+            "French": "Anti-guérison",
+            "Korean": "치유 금지",
+            "Indonesian": "Anti Heal",
+            "POR": "Corta Cura",
+            "German": "Anti-Heilung"
+        },
+        {
+            "字符串": "BUFFAttribute_mTips_6200106",
+            "CN": "无法回复生命值，不可驱散",
+            "EN": "Unable to recover HP. Cannot be dispelled.",
+            "Russian": "Невозможно восстановить ОЗ. Невозможно рассеять.",
+            "Japan": "HPが回復しなくなる。解除不可。",
+            "Italian": "Impossibile recuperare HP. Non dissipabile.",
+            "CNTraditional": "無法回復生命值（無法被驅散）",
+            "Spanish": "No puede recuperar vida. No se puede disipar.",
+            "French": "Impossible de récupérer des PV. Ne peut pas être dissipé.",
+            "Korean": "HP 회복 불가, 제거 불가",
+            "Indonesian": "Tidak bisa memulihkan HP. Tidak bisa dihilangkan.",
+            "POR": "Não é possível recuperar HP. Não pode ser dissipado.",
+            "German": "LP können nicht wiederhergestellt werden. Kann nicht entfernt werden."
+        },
+        {
+            "字符串": "BUFFAttribute_mName_6200108",
+            "CN": "虚弱",
+            "EN": "Weakening",
+            "Russian": "Обессиливание",
+            "Japan": "虚弱",
+            "Italian": "Indebolimento",
+            "CNTraditional": "虛弱",
+            "Spanish": "Debilidad",
+            "French": "Affaiblissement",
+            "Korean": "허약",
+            "Indonesian": "Weakening",
+            "POR": "Enfraquecimento",
+            "German": "Schwächung"
+        },
+        {
+            "字符串": "BUFFAttribute_mTips_6200108",
+            "CN": "物理易伤和魔法易伤增加{41,num}%，不可驱散",
+            "EN": "Vulnerability (P. DMG) and Vulnerability (M. DMG) +{41,num}%. Cannot be dispelled.",
+            "Russian": "Уязвимость (физ. УРН) и уязвимость (маг. УРН) +{41,num}%. Невозможно рассеять.",
+            "Japan": "脆弱（物理ダメージ）および脆弱（魔法ダメージ）+{41,num}%。解除不可。",
+            "Italian": "Vulnerabilità (DMG F.) e Vulnerabilità (DMG M.) +{41,num}%. Non dissipabile.",
+            "CNTraditional": "物理易傷和魔法易傷增加{41,num}%（無法被驅散）",
+            "Spanish": "Vulnerabilidad física y vulnerabilidad mágica +{41,num} %. No se puede disipar.",
+            "French": "Vulnérabilité (DGT P.) et Vulnérabilité (DGT M.) +{41,num} %. Ne peut pas être dissipé.",
+            "Korean": "물리 취약 및 마법 취약 +{41,num}%, 제거 불가",
+            "Indonesian": "Vulnerability (P. DMG) dan Vulnerability (M. DMG) +{41,num}%. Tidak bisa dihilangkan.",
+            "POR": "+{41,num}% de Vulnerabilidade (Dano F.) e Vulnerabilidade (Dano M.). Não pode ser dissipado.",
+            "German": "Verwundbarkeit (P. DMG) und Verwundbarkeit (M. DMG) +{41,num}%. Kann nicht entfernt werden."
+        },
+        {
+            "字符串": "BUFFAttribute_mName_6200109",
+            "CN": "防御降低",
+            "EN": "DEF Reduction",
+            "Russian": "Сниж. ЗАЩ",
+            "Japan": "防御力減少",
+            "Italian": "Riduzione DEF",
+            "CNTraditional": "防禦降低",
+            "Spanish": "Reducción de defensa",
+            "French": "Réduction de DÉF",
+            "Korean": "방어력 감소",
+            "Indonesian": "Pengurangan DEF",
+            "POR": "Redução de DEF",
+            "German": "VERT-Reduktion"
+        },
+        {
+            "字符串": "BUFFAttribute_mTips_6200109",
+            "CN": "防御和魔抗防御降低",
+            "EN": "DEF & M. RES Reduction",
+            "Russian": "Сниж. ЗАЩ и сопр. магии",
+            "Japan": "防御力＆魔法耐性減少",
+            "Italian": "Riduzione DEF e RES M.",
+            "CNTraditional": "防禦和魔法抗性降低",
+            "Spanish": "Reducción de defensa y resistencia mágica",
+            "French": "Réduction de DÉF et de Rés. M.",
+            "Korean": "방어력 및 마법 저항 감소",
+            "Indonesian": "Pengurangan DEF dan M. RES.",
+            "POR": "Redução de DEF e RES. M.",
+            "German": "VERT- & M. WID-Reduktion"
+        },
+        {
+            "字符串": "BUFFAttribute_mName_6200111",
+            "CN": "物理易伤",
+            "EN": "Vulnerability (P. DMG)",
+            "Russian": "Уязвимость (физ. УРН)",
+            "Japan": "脆弱（物理ダメージ）",
+            "Italian": "Vulnerabilità (DMG F.)",
+            "CNTraditional": "物理易傷",
+            "Spanish": "Vulnerabilidad física",
+            "French": "Vulnérabilité (DGT P.)",
+            "Korean": "물리 취약",
+            "Indonesian": "Vulnerability (P. DMG)",
+            "POR": "Vulnerabilidade (Dano F.)",
+            "German": "Verwundbarkeit (P. DMG)"
+        },
+        {
+            "字符串": "BUFFAttribute_mTips_6200111",
+            "CN": "受到物理伤害增加{41,num}%",
+            "EN": "Increases the P. DMG taken by {41,num}%.",
+            "Russian": "Увеличивает получаемый физ. УРН на {41,num}%.",
+            "Japan": "受ける物理ダメ―ジが{41,num}%増加する。",
+            "Italian": "Aumenta il DMG F. subito di un {41,num}%.",
+            "CNTraditional": "受到的物理傷害增加{41,num}%",
+            "Spanish": "Aumenta el daño físico recibido en un {41,num} %.",
+            "French": "Augmente les DGT P. subis de {41,num} %.",
+            "Korean": "받는 물리 피해 {41,num}% 증가",
+            "Indonesian": "Meningkatkan P. DMG yang diterima sebesar {41,num}%.",
+            "POR": "Aumenta o Dano F. recebido em {41,num}%.",
+            "German": "Erhöht den erlittenen P. DMG um {41,num}%."
+        },
+        {
+            "字符串": "BUFFAttribute_mName_6200112",
+            "CN": "攻击提升",
+            "EN": "ATK Increase",
+            "Russian": "Повышение АТК",
+            "Japan": "攻撃力増加",
+            "Italian": "Aumento ATK",
+            "CNTraditional": "攻擊提升",
+            "Spanish": "Aumento de ataque",
+            "French": "Augmentation d'ATQ",
+            "Korean": "공격력 상승",
+            "Indonesian": "Peningkatan ATK",
+            "POR": "Aumento de ATQ",
+            "German": "ANG-Erhöhung"
+        },
+        {
+            "字符串": "BUFFAttribute_mTips_6200112",
+            "CN": "攻击增加{13,num/100}%，不可驱散",
+            "EN": "ATK +{13,num/100}%. Cannot be dispelled.",
+            "Russian": "АТК +{13,num/100}%. Невозможно рассеять.",
+            "Japan": "攻撃力+{13,num/100}%。解除不可。",
+            "Italian": "ATK +{13,num/100}%. Non dissipabile.",
+            "CNTraditional": "攻擊增加{13,num/100}%（無法被驅散）",
+            "Spanish": "Ataque +{13,num/100} %. No se puede disipar.",
+            "French": "ATQ +{13,num/100} %. Ne peut pas être dissipé.",
+            "Korean": "공격력 {13,num/100}% 증가, 제거 불가",
+            "Indonesian": "ATK +{13,num/100}%. Tidak bisa dihilangkan.",
+            "POR": "+{13,num/100}% de ATQ. Não pode ser dissipado.",
+            "German": "ANG +{13,num/100}%. Kann nicht entfernt werden."
+        },
+        {
+            "字符串": "BUFFAttribute_mName_6200117",
+            "CN": "攻击降低",
+            "EN": "ATK Reduction",
+            "Russian": "Сниж. АТК",
+            "Japan": "攻撃力減少",
+            "Italian": "Riduzione ATK",
+            "CNTraditional": "攻擊降低",
+            "Spanish": "Reducción de ataque",
+            "French": "Réduction d'ATQ",
+            "Korean": "공격력 감소",
+            "Indonesian": "Pengurangan ATK",
+            "POR": "Redução de ATQ",
+            "German": "ANG-Reduktion"
+        },
+        {
+            "字符串": "BUFFAttribute_mTips_6200117",
+            "CN": "攻击降低{13,num/-100}%，不可驱散",
+            "EN": "ATK -{13,num/-100}%. Cannot be dispelled.",
+            "Russian": "АТК -{13,num/-100}%. Невозможно рассеять.",
+            "Japan": "攻撃力-{13,num/-100}%。解除不可。",
+            "Italian": "ATK -{13,num/-100}%. Non dissipabile.",
+            "CNTraditional": "攻擊降低{13,num/-100}%（無法被驅散）",
+            "Spanish": "Ataque -{13,num/-100} %. No se puede disipar.",
+            "French": "ATQ -{13,num/-100} %. Ne peut pas être dissipé.",
+            "Korean": "공격력 {13,num/-100}% 감소, 제거 불가",
+            "Indonesian": "ATK -{13,num/-100}%. Tidak bisa dihilangkan.",
+            "POR": "-{13,num/-100}% de ATQ. Não pode ser dissipado.",
+            "German": "ANG -{13,num/-100}%. Kann nicht entfernt werden."
+        },
+        {
+            "字符串": "BUFFAttribute_mName_6200119",
+            "CN": "进阶",
+            "EN": "Dissonance",
+            "Russian": "Диссонанс",
+            "Japan": "不協和音",
+            "Italian": "Dissonanza",
+            "CNTraditional": "進階",
+            "Spanish": "Disonancia",
+            "French": "Dissonance",
+            "Korean": "진급",
+            "Indonesian": "Dissonance",
+            "POR": "Dissonância",
+            "German": "Dissonanz"
+        },
+        {
+            "字符串": "BUFFAttribute_mTips_6200119",
+            "CN": "所有怪物提高{1,num}%攻击和{7,num}%生命值（无法驱散）。",
+            "EN": "Increases all monsters' ATK by {1,num}% and HP by {7,num}% (Undispellable).",
+            "Russian": "Повышает АТК всех монстров на {1,num}% и ОЗ на {7,num}% (нельзя рассеять).",
+            "Japan": "全てのモンスターの攻撃力が{1,num}%増加し、HPが{7,num}%増加する（解除不可）。",
+            "Italian": "Aumenta l'ATK di tutti i mostri di un {1,num}% e gli HP di un {7,num}% (non dissipabile).",
+            "CNTraditional": "所有怪物提高{1,num}%攻擊和{7,num}%生命值（無法被驅散）",
+            "Spanish": "Aumenta el ataque de todos los monstruos un {1,num} % y la vida un {7,num} % (no puede disiparse).",
+            "French": "Augmente l'ATQ de tous les monstres de {1,num} % et les PV de {7,num} % (Ne peut pas être dissipé).",
+            "Korean": "모든 몬스터의 공격력이 {1,num}%, HP가 {7,num}% 증가(제거 불가)",
+            "Indonesian": "Meningkatkan ATK semua monster sebesar {1,num}% dan HP sebesar {7,num}% (Tidak bisa dihilangkan).",
+            "POR": "Aumenta o ATQ de todos os monstros em {1,num}% e o HP em {7,num}% (Indissipável).",
+            "German": "Erhöht den ANG aller Monster um {1,num}% und die LP um {7,num}% (nicht entfernbar)."
+        },
+        {
+            "字符串": "BUFFAttribute_mName_6200126",
+            "CN": "减伤提升",
+            "EN": "Increased DMG Reduction",
+            "Russian": "Повышение сниж. УРН",
+            "Japan": "ダメージ軽減増加",
+            "Italian": "Riduzione DMG aumentata",
+            "CNTraditional": "減傷提升",
+            "Spanish": "Reducción de daño aumentada",
+            "French": "Réduction de DGT augmentée",
+            "Korean": "피해 감소 상승",
+            "Indonesian": "Peningkatan Pengurangan DMG",
+            "POR": "Redução de Dano Aumentada",
+            "German": "Erhöhte DMG-Reduktion"
+        },
+        {
+            "字符串": "BUFFAttribute_mTips_6200126",
+            "CN": "物理减伤和魔法减伤增加。",
+            "EN": "Increases P. DMG Reduction and M. DMG Reduction.",
+            "Russian": "Увеличивает сниж. физ. УРН и сниж. маг. УРН.",
+            "Japan": "物理ダメージ軽減と魔法ダメージ軽減を増加させる。",
+            "Italian": "Aumenta la riduzione DMG F. e la riduzione DMG M.",
+            "CNTraditional": "物理減傷和魔法減傷增加。",
+            "Spanish": "Aumenta la reducción de daño físico y la reducción de daño mágico.",
+            "French": "Augmente la réduction des DGT P. et des DGT M.",
+            "Korean": "물리 피해 감소 및 마법 피해 감소가 상승한다.",
+            "Indonesian": "Meningkatkan Pengurangan P. DMG dan Pengurangan M. DMG.",
+            "POR": "Aumenta a Redução de Dano F. e a Redução de Dano M.",
+            "German": "Erhöht die P. DMG-Reduktion und M. DMG-Reduktion."
+        },
+        {
+            "字符串": "BUFFAttribute_mName_6200208",
+            "CN": "魔法易伤",
+            "EN": "Vulnerability (M. DMG)",
+            "Russian": "Уязвимость (маг. УРН)",
+            "Japan": "脆弱（魔法ダメージ）",
+            "Italian": "Vulnerabilità (DMG M.)",
+            "CNTraditional": "魔法易傷",
+            "Spanish": "Vulnerabilidad mágica",
+            "French": "Vulnérabilité (DGT M.)",
+            "Korean": "마법 취약",
+            "Indonesian": "Vulnerability (M. DMG)",
+            "POR": "Vulnerabilidade (Dano M.)",
+            "German": "Verwundbarkeit (M. DMG)"
+        },
+        {
+            "字符串": "BUFFAttribute_mTips_6200208",
+            "CN": "受到魔法伤害增加{42,num}%",
+            "EN": "Increases the M. DMG taken by {42,num}%.",
+            "Russian": "Увеличивает получаемый маг. УРН на {42,num}%.",
+            "Japan": "受ける魔法ダメ―ジが{42,num}%増加する。",
+            "Italian": "Aumenta il DMG M. subito di un {42,num}%.",
+            "CNTraditional": "受到的魔法傷害增加{42,num}%",
+            "Spanish": "Aumenta el daño mágico recibido un {42,num} %.",
+            "French": "Augmente les DGT M. subis de {42,num} %.",
+            "Korean": "받는 마법 피해 +{42,num}%",
+            "Indonesian": "Meningkatkan M. DMG yang diterima sebesar {42,num}%.",
+            "POR": "Aumenta o Dano M. recebido em {42,num}%.",
+            "German": "Erhöht den erlittenen M. DMG um {42,num}%."
+        },
+        {
+            "字符串": "BUFFAttribute_mName_6200212",
+            "CN": "进阶",
+            "EN": "Dissonance",
+            "Russian": "Диссонанс",
+            "Japan": "不協和音",
+            "Italian": "Dissonanza",
+            "CNTraditional": "進階",
+            "Spanish": "Disonancia",
+            "French": "Dissonance",
+            "Korean": "진급",
+            "Indonesian": "Dissonance",
+            "POR": "Dissonância",
+            "German": "Dissonanz"
+        },
+        {
+            "字符串": "BUFFAttribute_mTips_6200212",
+            "CN": "所有怪物提高{1,num}%攻击（无法驱散）。",
+            "EN": "Increases all monsters' ATK by {1,num}% (Undispellable).",
+            "Russian": "Повышает АТК всех монстров на {1,num}% (нельзя рассеять).",
+            "Japan": "全てのモンスターの攻撃力が{1,num}%増加する（解除不可）。",
+            "Italian": "Aumenta l'ATK di tutti i mostri di un {1,num}% (non dissipabile).",
+            "CNTraditional": "所有怪物提高{1,num}%攻擊（無法被驅散）",
+            "Spanish": "Aumenta el ataque de todos los monstruos un {1,num} % (no puede disiparse).",
+            "French": "Augmente l'ATQ de tous les monstres de {1,num} % (Ne peut pas être dissipé).",
+            "Korean": "모든 몬스터의 공격력이 {1,num}% 증가(제거 불가)",
+            "Indonesian": "Meningkatkan ATK semua monster sebesar {1,num}% (Tidak bisa dihilangkan).",
+            "POR": "Aumenta o ATQ de todos os monstros em {1,num}% (Indissipável).",
+            "German": "Erhöht den ANG aller Monster um {1,num}% (nicht entfernbar)."
+        },
+        {
+            "字符串": "BUFFAttribute_mName_6200213",
+            "CN": "受治疗效果降低",
+            "EN": "Decreased Healing Received",
+            "Russian": "Уменьшение получ. исцеления",
+            "Japan": "被回復量減少",
+            "Italian": "Guarigione ricevuta ridotta",
+            "CNTraditional": "受到的治療效果降低",
+            "Spanish": "Sanación recibida reducida",
+            "French": "Réduction des soins reçus",
+            "Korean": "받는 치유 효과 감소",
+            "Indonesian": "Mengurangi Pemulihan yang Diterima",
+            "POR": "Redução da Cura Recebida",
+            "German": "Verringerte erhaltene Heilung"
+        },
+        {
+            "字符串": "BUFFAttribute_mTips_6200213",
+            "CN": "受治疗效果降低{46,num}%，不可驱散。",
+            "EN": "Reduces healing received by {46,num}%. Cannot be dispelled.",
+            "Russian": "Снижает получаемое исцеление на {46,num}%. Невозможно рассеять.",
+            "Japan": "被回復効果が{46,num}%減少する。解除不可。",
+            "Italian": "Riduce le cure ricevute di un {46,num}%. Non si può dissipare.",
+            "CNTraditional": "受到的治療效果降低{46,num}%。（無法被驅散）",
+            "Spanish": "Reduce la sanación recibida en un {46,num} %. No se puede disipar.",
+            "French": "Réduit le soin reçu de {46,num} %. Ne peut pas être dissipé.",
+            "Korean": "받는 치유 효과가 {46,num}% 감소한다. 제거 불가.",
+            "Indonesian": "Mengurangi pemulihan yang diterima sebesar {46,num}%. Tidak bisa dihilangkan.",
+            "POR": "Reduz a Cura recebida em {46,num}%. Não pode ser dissipado.",
+            "German": "Verringert die erhaltene Heilung um {46,num}%. Kann nicht entfernt werden."
         },
         {
             "字符串": "BUFFAttribute_mName_8202012",

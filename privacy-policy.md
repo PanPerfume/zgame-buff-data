@@ -1,8 +1,9 @@
 # Visualizer 隐私政策 / Privacy Policy
 
-**生效日期：2026-11-14**
+**生效日期：2026-11-16**
 **开发者：Visualizer Team**
-**联系方式：promiseyadong@gmail.com**
+**联系方式：2581832218@qq.com**
+**适用版本：Visualizer 6.1.1**
 
 ---
 
@@ -39,13 +40,15 @@ Visualizer（以下简称“本扩展”）**不收集、不上传、不出售�
 
 | 权限 | 用途 |
 |---|---|
-| `tabs` / `activeTab` | 读取当前标签页信息，用于在用户主动触发时定位来源页面 |
-| `contextMenus` | 提供右键菜单入口 |
-| `scripting` | 在用户触发时执行可视化脚本 |
-| `sidePanel` / `windows` / `system.display` | 展示双栏对照面板，支持独立窗口 |
-| `storage` / `unlimitedStorage` | 本地缓存公开数据与界面偏好 |
+| `contextMenus` | 在用户选中文本时提供“Visualize”右键菜单入口 |
+| `sidePanel` | 在浏览器侧边栏展示 Source / Target 双栏预览界面 |
+| `windows` | 支持将预览面板打开为独立窗口 |
+| `system.display` | 计算独立窗口在当前显示器上的尺寸与位置 |
+| `storage` | 保存界面偏好与公开数据的本地缓存 |
+| `unlimitedStorage` | 公开 Buff 数据体积可能超过默认存储配额，缓存需要更多空间 |
 | `alarms` | 每日检查一次公开数据是否有更新 |
-| `<all_urls>` | 核心功能需要在用户当前所在网页上读取其选中的文本 |
+| `host_permissions: https://raw.githubusercontent.com/*` | 从该公共地址拉取公开的游戏 Buff 数据文件（JSON），不涉及任何用户数据 |
+| `content_scripts: <all_urls>` | 核心功能需要读取用户在任意网页上选中的文本并在本地渲染，无法预先限定站点 |
 
 ### 5. 儿童隐私
 
@@ -57,7 +60,7 @@ Visualizer（以下简称“本扩展”）**不收集、不上传、不出售�
 
 ### 7. 联系
 
-如有任何隐私相关问题，请联系：promiseyadong@gmail.com
+如有任何隐私相关问题，请联系：2581832218@qq.com
 
 ---
 
@@ -92,13 +95,15 @@ All of it stays on your device and is never uploaded.
 
 | Permission | Purpose |
 |---|---|
-| `tabs` / `activeTab` | Read the active tab to identify the source page when the user explicitly triggers the Extension |
-| `contextMenus` | Provide a right-click entry point |
-| `scripting` | Run visualization logic after user action |
-| `sidePanel` / `windows` / `system.display` | Display the side-by-side panel, including a standalone window |
-| `storage` / `unlimitedStorage` | Cache public data and UI preferences locally |
+| `contextMenus` | Add a "Visualize" entry to the right-click menu when the user selects text |
+| `sidePanel` | Display the Source / Target comparison interface in the browser side panel |
+| `windows` | Allow the preview panel to open as a standalone window |
+| `system.display` | Calculate the size and position of the standalone window on the current display |
+| `storage` | Store UI preferences and a local cache of public data |
+| `unlimitedStorage` | The public buff data set can exceed the default storage quota, so the cache needs more room |
 | `alarms` | Check once a day for public data updates |
-| `<all_urls>` | The core feature must read user-selected text on whatever page the user is on |
+| `host_permissions: https://raw.githubusercontent.com/*` | Download public game buff data (JSON) from this endpoint. No user data is sent to it or any other server |
+| `content_scripts: <all_urls>` | The core feature must read user-selected text on whatever page the user is on and render it locally; the set of sites cannot be predetermined |
 
 ### 5. Children's privacy
 
@@ -110,4 +115,4 @@ If this policy changes, we will update the effective date on this page and note 
 
 ### 7. Contact
 
-For privacy questions, contact: promiseyadong@gmail.com
+For privacy questions, contact: 2581832218@qq.com

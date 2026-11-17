@@ -418,6 +418,7 @@ def main():
                     help="生成的 JSON 存放目录（默认 ./buff-data-out）")
     ap.add_argument("--dry-run", action="store_true", help="只生成，不上传")
     ap.add_argument("--skip-upload", action="store_true", help="同 --dry-run")
+    ap.add_argument("--force", action="store_true", help="内容未变化也重新生成并上传")
     ap.add_argument("--keep", action="store_true", help="保留下载的 xlsx")
     args = ap.parse_args()
 
@@ -482,8 +483,20 @@ def main():
 
     index_file = out_dir / "buff-index.json"
     meta_file = out_dir / "buff-meta.json"
-    atomic_write_text(index_file, built["index_json"])
-    atomic_write_text(meta_file, built["meta_json"])
+
+    # 内容未变化时保留原 meta（version 不变），避免空提交和让插件重复下载
+    unchanged = False
+    if not args.force and index_file.exists() and meta_file.exists():
+        try:
+            unchanged = index_file.read_text(encoding="utf-8") == built["index_json"]
+        except OSError:
+            unchanged = False
+
+    if unchanged:
+        print("数据内容未变化，保留现有 buff-meta.json（版本号不变）。")
+    else:
+        atomic_write_text(index_file, built["index_json"])
+        atomic_write_text(meta_file, built["meta_json"])
 
     print("")
     print("=" * 62)
@@ -496,7 +509,9 @@ def main():
     print(f"输出目录      ：{out_dir}")
     print("=" * 62)
 
-    if args.dry_run or args.skip_upload:
+    if unchanged:
+        print("已跳过上传（内容未变化）。")
+    elif args.dry_run or args.skip_upload:
         print("已跳过上传（--dry-run/--skip-upload）。")
     else:
         gh_token = os.environ.get("GITHUB_TOKEN")

@@ -1,0 +1,59 @@
+# 放到仓库 PanPerfume/zgame-buff-data 的 .github/workflows/sync-buff.yml
+# 作用：每周一 09:17（北京时间）从飞书拉最新大文本，生成 buff JSON，有变化才提交。
+#
+# 前置：
+#   1. 飞书应用开通 drive:drive:readonly 并发布
+#   2. 飞书「ZGame大文本」文件夹把应用加为「可阅读」
+#   3. 仓库 Secrets 增加 FEISHU_APP_ID / FEISHU_APP_SECRET
+#
+# 脚本位置：仓库根目录 sync_buff_from_feishu.py
+# （若放到 scripts/ 下，把下面的路径一起改掉）
+
+name: Sync ZGame buff data
+
+on:
+  schedule:
+    # GitHub cron 为 UTC；17 1 * * 1 = 北京时间每周一 09:17
+    - cron: "17 1 * * 1"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-buff
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install openpyxl requests
+
+      - name: Build JSON from Feishu
+        env:
+          FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
+          FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
+        run: |
+          python sync_buff_from_feishu.py --skip-upload --output-dir .
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add buff-index.json buff-meta.json
+          if git diff --cached --quiet; then
+            echo "数据无变化，跳过提交"
+          else
+            git commit -m "chore: sync buff data $(date -u +'%Y-%m-%d')"
+            git push
+          fi

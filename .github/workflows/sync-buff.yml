@@ -1,5 +1,5 @@
 # 放到仓库 PanPerfume/zgame-buff-data 的 .github/workflows/sync-buff.yml
-# 作用：每周一 09:17（北京时间）从飞书拉最新大文本，生成 buff JSON，有变化才提交。
+# 作用：每周六 20:00（北京时间）从飞书拉最新大文本，生成 buff JSON，有变化才提交。
 #
 # 前置：
 #   1. 飞书应用开通 drive:drive:readonly 并发布
@@ -13,8 +13,8 @@ name: Sync ZGame buff data
 
 on:
   schedule:
-    # GitHub cron 为 UTC；17 1 * * 1 = 北京时间每周一 09:17
-    - cron: "17 1 * * 1"
+    # GitHub cron 为 UTC；0 12 * * 6 = 北京时间每周六 20:00
+    - cron: "0 12 * * 6"
   workflow_dispatch: {}
 
 permissions:

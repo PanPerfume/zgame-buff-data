@@ -1,14 +1,14 @@
 {
-    "version": "20261117-091211-7e7220e62cb8",
-    "updatedAt": "2026-11-17 09:12:11",
+    "version": "20261121-182650-8562d7bd36ed",
+    "updatedAt": "2026-11-21 18:26:50",
     "dataUrl": "buff-index.json",
-    "sourceFile": "Zgame ALT 1.6.54.853.1.xlsx",
+    "sourceFile": "Zgame ALT 1.6.56.856.1.xlsx",
     "sheetName": "Total",
     "rowCount": 2227,
     "buffIdCount": 1121,
     "nameRowCount": 1117,
     "tipsRowCount": 1110,
     "format": "pretty",
-    "sourceToken": "CjaTbwfzWoJQoXx6Xg6ckAMonge",
-    "sourceModified": "2026-11-12 11:56:39"
+    "sourceToken": "THXCbVofYo9PrVxs80vcfVbKnDw",
+    "sourceModified": "2026-11-19 11:25:41"
 }
